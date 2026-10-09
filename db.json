@@ -194,6 +194,28 @@
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "5520093674": {
+      "telegramId": "5520093674",
+      "username": "Still_my_heart_beats_only_for_u",
+      "firstName": "♡ ѵíѵҽk kɾísհղα ♡",
+      "joinedAt": "2026-10-09T17:18:34.393Z",
+      "lastActiveAt": "2026-10-09T17:18:34.394Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-09",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 574,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

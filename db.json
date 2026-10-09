@@ -149,7 +149,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791564626200618%26tn%3DVC1791564626200618%26cu%3DINR",
         "createdAt": "2026-10-09T16:50:26.200Z"
       },
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8968071078": {
       "telegramId": "8968071078",
@@ -169,6 +169,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 469,
       "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
@@ -191,6 +192,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 505,
       "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
@@ -215,7 +217,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     }
   },
   "history": [

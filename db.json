@@ -26,7 +26,7 @@
     "verifiedOrderIds": [
       "VC1791536182347733"
     ],
-    "cachedBannerFileId": "",
+    "cachedBannerFileId": "AgACAgUAAxkDAAICCmrIzdoKnRHH22rNL32nwnFtB48WAAJrF2sbzAdJVr1Lx09K7nvnAQADAgADdwADPQQ",
     "customBannerImageUrl": "https://i.postimg.cc/SRzDjNSF/file-00000000c93c81f59120e3d4cda69e4c.png",
     "cachedQrFileId": "",
     "customQrImageUrl": "",
@@ -86,39 +86,38 @@
       "username": "Uhtkarshh",
       "firstName": "Uhtkarsh",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-09T16:29:43.474Z",
+      "lastActiveAt": "2026-10-09T16:42:32.006Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-09",
       "dailySearchCount": 0,
-      "totalLookups": 7,
+      "totalLookups": 8,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
       "awaitingInput": null,
-      "lastBotMessageId": 548,
+      "lastBotMessageId": 562,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "6672896116",
+        "query": "8252464080",
         "records": [
           {
-            "name": "Unknown",
-            "fatherName": "None",
-            "phone": "6672896116",
-            "altPhone": "None",
-            "carrier": "None",
+            "name": "Nibha Kumari",
+            "fatherName": "Jayveer Singh",
+            "phone": "8252464080",
+            "altPhone": "918228097332",
+            "carrier": "BIHAR JIO",
             "email": "None",
-            "address": "None",
+            "address": "D/O Jayveer Singh, Ward Number-02 Village-Rajapakar, Thana-Rajapakar, Raja Pakar Vaishali, Bihar, 844124",
             "aadhaarId": "None",
-            "location": "India",
+            "location": "BIHAR JIO",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "query": "6672896116",
-              "normalized": "6672896116"
+              "mobile_norm": "8252464080"
             }
           }
         ],
@@ -154,7 +153,6 @@
       "awaitingInput": null,
       "lastBotMessageId": 469,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
@@ -177,13 +175,22 @@
       "awaitingInput": null,
       "lastBotMessageId": 505,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
     }
   },
   "history": [
+    {
+      "id": "1791563942155-fa0n6",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-09T16:39:02.155Z"
+    },
     {
       "id": "1791537881075-1h2ly",
       "telegramId": "6672896116",

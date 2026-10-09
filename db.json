@@ -1,0 +1,278 @@
+{
+  "config": {
+    "botToken": "8832808711:AAEhkaxlliKaZLk9dUmtDmSVOG6SaojGvxI",
+    "ownerUsername": "",
+    "adminIds": [
+      "7247666284",
+      "6672896116"
+    ],
+    "numberApiUrl": "https://sized-reviewed-across-nerve.trycloudflare.com/num/{query}?key=napi_9jgctjUU042SKuzhsiFrb9ha3pzwufCHzwqZsw",
+    "aadhaarApiUrl": "http://rajfflivebot.onrender.com/pub/rajfflive/adhar?adhar={query}&key=RAJBOTSOFC",
+    "aadhaarComingSoon": true,
+    "forceJoinEnabled": false,
+    "channelUsername": "@followxpresss",
+    "channelUrl": "https://t.me/followxpresss",
+    "secondChannelUsername": "@followxpresss",
+    "secondChannelUrl": "https://t.me/followxpresss",
+    "dailyFreeLimit": 3,
+    "referralBonusCredits": 5,
+    "premiumWeeklyPrice": "₹1 / 7 Days",
+    "premiumMonthlyPrice": "₹19 / 30 Days",
+    "premiumLifetimePrice": "₹99 / Lifetime",
+    "premiumPaymentNote": "Auto-Generate QR & Instant Auto-Verify via UPI",
+    "paymentApiKey": "PAY7E2B0B6556E10671E2F47212",
+    "paymentUpiId": "paytm.s1dw5n0@pty",
+    "paymentMerchantName": "VC GATEWAY",
+    "verifiedOrderIds": [
+      "VC1791536182347733"
+    ],
+    "cachedBannerFileId": "",
+    "customBannerImageUrl": "https://i.postimg.cc/SRzDjNSF/file-00000000c93c81f59120e3d4cda69e4c.png",
+    "cachedQrFileId": "",
+    "customQrImageUrl": "",
+    "buttonCustomEmojis": {
+      "num": "5409357944619802453",
+      "aadhaar": "5418115271267197333",
+      "premium": "5357107601584693888",
+      "refer": "5309958691854754293",
+      "channel": "5309984423003823246",
+      "help": "5417915203100613993",
+      "close": "5379748062124056162",
+      "verify": "5237699328843200968",
+      "bolt": "5312016608254762256",
+      "bot": "5309832892262654231",
+      "search": "5309965701241379366",
+      "fire": "5312241539987020022",
+      "money": "5350452584119279096",
+      "coin": "5377690785674175481"
+    },
+    "botUsername": "HexxOsint_bot",
+    "apiBaseUrl": "http://rajfflivebot.onrender.com/pub/rajfflive/api?num=9876543210&key=RAJBOTSOFC",
+    "bronxApiKey": "111",
+    "developerId": "6672896116",
+    "premiumPlans": [
+      {
+        "days": 7,
+        "label": "7 Days",
+        "priceInr": 1
+      },
+      {
+        "days": 30,
+        "label": "30 Days (1 Month)",
+        "priceInr": 19
+      },
+      {
+        "days": 90,
+        "label": "90 Days (3 Months)",
+        "priceInr": 29
+      },
+      {
+        "days": 365,
+        "label": "365 Days (1 Year)",
+        "priceInr": 49
+      }
+    ],
+    "pendingPremiumByUsername": {},
+    "fampayGmail": "vashudevx1451@gmail.com",
+    "fampayAppPassword": "ztxkbsoywmnuhthm",
+    "fampayUpiId": "utkarsh@fam",
+    "fampayPayeeName": "Utkarsh Kumar",
+    "verifiedTxIds": [],
+    "qrPhotoFileId": "AgACAgUAAxkBAAPNascn_Nyf5qxQhgy0GKx9ccSvgnwAAl4SaxvQUzlWQtHofgl0o5YBAAMCAAN4AAM9BA"
+  },
+  "users": {
+    "6672896116": {
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "firstName": "Uhtkarsh",
+      "joinedAt": "2026-10-08T06:32:15.479Z",
+      "lastActiveAt": "2026-10-09T16:29:43.474Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-09",
+      "dailySearchCount": 0,
+      "totalLookups": 7,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": "2026-10-16T08:57:03.675Z",
+      "awaitingInput": null,
+      "lastBotMessageId": 548,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "6672896116",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "6672896116",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "query": "6672896116",
+              "normalized": "6672896116"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "activePaymentOrder": {
+        "orderId": "VC1791537219084428",
+        "planKey": "weekly",
+        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
+        "amount": 1,
+        "days": 7,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791537219084428&tn=VC1791537219084428&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791537219084428%26tn%3DVC1791537219084428%26cu%3DINR",
+        "createdAt": "2026-10-09T09:13:39.084Z"
+      },
+      "keyboardCleared": true
+    },
+    "8968071078": {
+      "telegramId": "8968071078",
+      "username": "Auraz7",
+      "firstName": "Aura",
+      "joinedAt": "2026-10-08T06:32:15.479Z",
+      "lastActiveAt": "2026-10-09T00:55:49.021Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-09",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 469,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "activePaymentOrder": null,
+      "keyboardCleared": false
+    },
+    "7995520431": {
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "firstName": "Vashu",
+      "joinedAt": "2026-10-08T06:52:52.007Z",
+      "lastActiveAt": "2026-10-09T09:26:14.657Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-09",
+      "dailySearchCount": 0,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 505,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "activePaymentOrder": null,
+      "keyboardCleared": false
+    }
+  },
+  "history": [
+    {
+      "id": "1791537881075-1h2ly",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "6672896116",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-09T09:24:41.075Z"
+    },
+    {
+      "id": "1791537861798-ao4v1",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8676972045",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-09T09:24:21.798Z"
+    },
+    {
+      "id": "1791537367274-lem2h",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-09T09:16:07.275Z"
+    },
+    {
+      "id": "1791507518221-6dyss",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-09T00:58:38.221Z"
+    },
+    {
+      "id": "1791442403085-kcj4r",
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "not_found",
+      "recordCount": 0,
+      "timestamp": "2026-10-08T06:53:23.085Z"
+    },
+    {
+      "id": "1791441475380-kdua5",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "6672896116",
+      "status": "not_found",
+      "recordCount": 0,
+      "timestamp": "2026-10-08T06:37:55.380Z"
+    },
+    {
+      "id": "1791441449698-z2bu5",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9876543210",
+      "status": "not_found",
+      "recordCount": 0,
+      "timestamp": "2026-10-08T06:37:29.698Z"
+    },
+    {
+      "id": "1791441423600-3iuex",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "not_found",
+      "recordCount": 0,
+      "timestamp": "2026-10-08T06:37:03.600Z"
+    },
+    {
+      "id": "1791441148232",
+      "telegramId": "WEB_CONSOLE",
+      "username": "uhtkarshh",
+      "serviceType": "num_aadhaar",
+      "query": "123456789012",
+      "status": "success",
+      "recordCount": 10,
+      "timestamp": "2026-10-08T06:32:28.232Z"
+    }
+  ]
+}

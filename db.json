@@ -86,12 +86,12 @@
       "username": "Uhtkarshh",
       "firstName": "Uhtkarsh",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-09T16:53:33.966Z",
+      "lastActiveAt": "2026-10-09T16:57:31.507Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-09",
       "dailySearchCount": 0,
-      "totalLookups": 9,
+      "totalLookups": 11,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -197,6 +197,26 @@
     }
   },
   "history": [
+    {
+      "id": "1791565034469-7m219",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-09T16:57:14.469Z"
+    },
+    {
+      "id": "1791565015928-ybm9x",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-09T16:56:55.928Z"
+    },
     {
       "id": "1791564808545-m5y62",
       "telegramId": "6672896116",

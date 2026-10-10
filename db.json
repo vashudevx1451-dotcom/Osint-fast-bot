@@ -233,7 +233,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "5520093674": {
       "telegramId": "5520093674",

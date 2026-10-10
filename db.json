@@ -749,38 +749,38 @@
       "username": "Saurabh_Kumar_Tiwari_OG",
       "firstName": "Kiyotaka",
       "joinedAt": "2026-10-10T15:14:52.389Z",
-      "lastActiveAt": "2026-10-10T15:17:22.814Z",
+      "lastActiveAt": "2026-10-10T15:49:49.002Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
-      "dailySearchCount": 1,
-      "totalLookups": 1,
+      "dailySearchCount": 2,
+      "totalLookups": 2,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": null,
+      "lastBotMessageId": 720,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8000796117",
+        "query": "8604604064",
         "records": [
           {
-            "name": "Jay Jayantibhai Patel",
-            "fatherName": "Jayantibhai  Patel",
-            "phone": "8000796117",
-            "altPhone": "8000796117",
-            "carrier": "AIRTEL GUJARAT",
+            "name": "Anup Kumar Pandey",
+            "fatherName": "krishna kant pandey",
+            "phone": "8604604064",
+            "altPhone": "None",
+            "carrier": "UP EAST",
             "email": "None",
-            "address": "00 shrii nilkath timber mart sipor road mahesana Vadnagar",
-            "aadhaarId": "929492514939",
-            "location": "AIRTEL GUJARAT",
+            "address": "233, Sultanpur Haldi, haldi, Ballia, Ballia, Ballia, Uttar Pradesh, 277402",
+            "aadhaarId": "532118830106",
+            "location": "UP EAST",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "mobile_norm": "8000796117"
+              "mobile_norm": "8604604064"
             }
           }
         ],
@@ -859,7 +859,7 @@
       "username": "",
       "firstName": "Gojo Satoru",
       "joinedAt": "2026-10-10T15:17:31.973Z",
-      "lastActiveAt": "2026-10-10T15:23:54.182Z",
+      "lastActiveAt": "2026-10-10T15:48:14.874Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
@@ -870,7 +870,7 @@
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 704,
+      "lastBotMessageId": 714,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -898,9 +898,109 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8499830773": {
+      "telegramId": "8499830773",
+      "username": "",
+      "firstName": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "joinedAt": "2026-10-10T15:48:25.203Z",
+      "lastActiveAt": "2026-10-10T15:52:34.272Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 717,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "6390997240",
+        "records": [
+          {
+            "name": "MR. REBOT GOGAL",
+            "fatherName": "Rama kanta",
+            "phone": "6390997240",
+            "altPhone": "6375990328",
+            "carrier": "VODA UPE",
+            "email": "None",
+            "address": "141 MED, regt C/O 56 APO, allahabad, ALLAHABAD UP, UTTAR PRADESH, 211001",
+            "aadhaarId": "UP7020150049109",
+            "location": "VODA UPE",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "mobile_norm": "6390997240"
+            }
+          },
+          {
+            "name": "MR REBOT GOGAL",
+            "fatherName": "Rama kanta",
+            "phone": "6390997240",
+            "altPhone": "6375990328",
+            "carrier": "UPE",
+            "email": "None",
+            "address": "141 MED, regt C/O 56 APO, allahabad, ALLAHABAD UP, UTTAR PRADESH, 211001",
+            "aadhaarId": "UP7020150049109",
+            "location": "UPE",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "mobile_norm": "6390997240"
+            }
+          }
+        ],
+        "page": 1
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791647412090-3bq41",
+      "telegramId": "8499830773",
+      "username": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "serviceType": "number_info",
+      "query": "6390997240",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-10T15:50:12.090Z"
+    },
+    {
+      "id": "1791647390850-gdd5f",
+      "telegramId": "6720026265",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8604604064",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T15:49:50.850Z"
+    },
+    {
+      "id": "1791647361146-htfgi",
+      "telegramId": "8499830773",
+      "username": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "serviceType": "number_info",
+      "query": "8604604064",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T15:49:21.146Z"
+    },
+    {
+      "id": "1791647321426-ni0kb",
+      "telegramId": "8499830773",
+      "username": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
+      "serviceType": "number_info",
+      "query": "7597117236",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T15:48:41.426Z"
+    },
     {
       "id": "1791646316308-ddike",
       "telegramId": "6672896116",

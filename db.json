@@ -131,12 +131,12 @@
       "username": "Uhtkarshh",
       "firstName": "Uhtkarsh",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-10T15:18:19.789Z",
+      "lastActiveAt": "2026-10-10T15:31:53.003Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
       "dailySearchCount": 0,
-      "totalLookups": 12,
+      "totalLookups": 13,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -147,22 +147,38 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8252464080",
+        "query": "9835216800",
         "records": [
           {
-            "name": "Nibha Kumari",
-            "fatherName": "Jayveer Singh",
-            "phone": "8252464080",
-            "altPhone": "918228097332",
-            "carrier": "BIHAR JIO",
+            "name": "Pintu Kumar . .",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "8294762929",
+            "carrier": "BIHAR BSNL",
             "email": "None",
-            "address": "D/O Jayveer Singh, Ward Number-02 Village-Rajapakar, Thana-Rajapakar, Raja Pakar Vaishali, Bihar, 844124",
-            "aadhaarId": "None",
-            "location": "BIHAR JIO",
+            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "mobile_norm": "8252464080"
+              "mobile_norm": "9835216800"
+            }
+          },
+          {
+            "name": "Pintu Kumar",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "None",
+            "carrier": "BIHAR BSNL",
+            "email": "None",
+            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "mobile_norm": "9835216800"
             }
           }
         ],
@@ -885,6 +901,16 @@
     }
   },
   "history": [
+    {
+      "id": "1791646316308-ddike",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-10T15:31:56.308Z"
+    },
     {
       "id": "1791645836049-lrsr4",
       "telegramId": "8407639114",

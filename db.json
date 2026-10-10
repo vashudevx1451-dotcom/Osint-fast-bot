@@ -1523,9 +1523,73 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true
+    },
+    "8047324570": {
+      "telegramId": "8047324570",
+      "username": "",
+      "firstName": "Kronos",
+      "joinedAt": "2026-10-10T22:33:48.576Z",
+      "lastActiveAt": "2026-10-10T22:35:09.432Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 801,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9835216800",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9835216800",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791671710819-y6pyt",
+      "telegramId": "8047324570",
+      "username": "Kronos",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T22:35:10.819Z"
+    },
+    {
+      "id": "1791671663554-7yc5h",
+      "telegramId": "8047324570",
+      "username": "Kronos",
+      "serviceType": "number_info",
+      "query": "3248249223",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T22:34:23.554Z"
+    },
     {
       "id": "1791666180072-z7u8i",
       "telegramId": "8944120860",

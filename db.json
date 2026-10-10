@@ -86,58 +86,42 @@
       "username": "Uhtkarshh",
       "firstName": "Uhtkarsh",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-10T07:55:02.577Z",
+      "lastActiveAt": "2026-10-10T07:59:36.939Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
       "dailySearchCount": 0,
-      "totalLookups": 11,
+      "totalLookups": 12,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 599,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9835216800",
+        "query": "8252464080",
         "records": [
           {
-            "name": "Pintu Kumar . .",
-            "fatherName": "S/O: Kanhai Saw",
-            "phone": "9835216800",
-            "altPhone": "8294762929",
-            "carrier": "BIHAR BSNL",
+            "name": "Nibha Kumari",
+            "fatherName": "Jayveer Singh",
+            "phone": "8252464080",
+            "altPhone": "918228097332",
+            "carrier": "BIHAR JIO",
             "email": "None",
-            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
-            "aadhaarId": "612041560813",
-            "location": "BIHAR BSNL",
+            "address": "D/O Jayveer Singh, Ward Number-02 Village-Rajapakar, Thana-Rajapakar, Raja Pakar Vaishali, Bihar, 844124",
+            "aadhaarId": "None",
+            "location": "BIHAR JIO",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "mobile_norm": "9835216800"
-            }
-          },
-          {
-            "name": "Pintu Kumar",
-            "fatherName": "S/O: Kanhai Saw",
-            "phone": "9835216800",
-            "altPhone": "None",
-            "carrier": "BIHAR BSNL",
-            "email": "None",
-            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
-            "aadhaarId": "612041560813",
-            "location": "BIHAR BSNL",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "mobile_norm": "9835216800"
+              "mobile_norm": "8252464080"
             }
           }
         ],
-        "page": 1
+        "page": 0
       },
       "activePaymentOrder": {
         "orderId": "VC1791564626200618",
@@ -149,7 +133,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791564626200618%26tn%3DVC1791564626200618%26cu%3DINR",
         "createdAt": "2026-10-09T16:50:26.200Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8968071078": {
       "telegramId": "8968071078",
@@ -260,6 +244,16 @@
     }
   },
   "history": [
+    {
+      "id": "1791619180021-dd44q",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T07:59:40.021Z"
+    },
     {
       "id": "1791591300300-8fuj2",
       "telegramId": "7995520431",

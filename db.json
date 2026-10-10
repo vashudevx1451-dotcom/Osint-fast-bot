@@ -1567,9 +1567,63 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "7678379747": {
+      "telegramId": "7678379747",
+      "username": "",
+      "firstName": "Sathi",
+      "joinedAt": "2026-10-10T23:15:12.005Z",
+      "lastActiveAt": "2026-10-10T23:15:43.631Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 808,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9716717889",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9716717889",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791674145020-cpebw",
+      "telegramId": "7678379747",
+      "username": "Sathi",
+      "serviceType": "number_info",
+      "query": "9716717889",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T23:15:45.020Z"
+    },
     {
       "id": "1791671710819-y6pyt",
       "telegramId": "8047324570",

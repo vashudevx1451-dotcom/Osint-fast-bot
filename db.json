@@ -614,9 +614,64 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true
+    },
+    "8582949733": {
+      "telegramId": "8582949733",
+      "username": "Itachiuchiha1223344",
+      "firstName": "Indonesia 1",
+      "joinedAt": "2026-10-10T13:56:01.586Z",
+      "lastActiveAt": "2026-10-10T13:56:57.912Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 669,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7720944141",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "7720944141",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "query": "7720944141",
+              "normalized": "7720944141"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791640613541-l69tq",
+      "telegramId": "8582949733",
+      "username": "Itachiuchiha1223344",
+      "serviceType": "number_info",
+      "query": "7720944141",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T13:56:53.541Z"
+    },
     {
       "id": "1791639086095-6et55",
       "telegramId": "1408776543",

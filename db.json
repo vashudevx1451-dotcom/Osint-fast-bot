@@ -1413,6 +1413,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8530371631": {
+      "telegramId": "8530371631",
+      "username": "",
+      "firstName": "𝙎 𝙋 𝘼 𝙍 𝙆",
+      "joinedAt": "2026-10-10T19:25:18.290Z",
+      "lastActiveAt": "2026-10-10T19:25:28.324Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 779,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

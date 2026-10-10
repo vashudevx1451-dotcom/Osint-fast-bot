@@ -81,6 +81,51 @@
     "qrPhotoFileId": "AgACAgUAAxkBAAPNascn_Nyf5qxQhgy0GKx9ccSvgnwAAl4SaxvQUzlWQtHofgl0o5YBAAMCAAN4AAM9BA"
   },
   "users": {
+    "1408776543": {
+      "telegramId": "1408776543",
+      "username": "",
+      "firstName": "Unknown",
+      "joinedAt": "2026-10-10T13:30:15.186Z",
+      "lastActiveAt": "2026-10-10T13:32:36.604Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 653,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9021681717",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9021681717",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "query": "9021681717",
+              "normalized": "9021681717"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
     "6672896116": {
       "telegramId": "6672896116",
       "username": "Uhtkarshh",
@@ -363,7 +408,7 @@
       "username": "socialxym",
       "firstName": "Tʀᴜsᴛᴇᴅ Sᴇʟʟᴇʀ",
       "joinedAt": "2026-10-10T13:02:58.726Z",
-      "lastActiveAt": "2026-10-10T13:04:34.352Z",
+      "lastActiveAt": "2026-10-10T13:32:24.540Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
@@ -477,7 +522,7 @@
       "username": "vikash7256",
       "firstName": "One pay",
       "joinedAt": "2026-10-10T13:25:08.844Z",
-      "lastActiveAt": "2026-10-10T13:26:36.212Z",
+      "lastActiveAt": "2026-10-10T13:37:03.284Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
@@ -490,22 +535,86 @@
       "awaitingInput": null,
       "lastBotMessageId": 648,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "dynamic_qr",
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true,
       "activePaymentOrder": {
-        "orderId": "VC1791638796832453",
+        "orderId": "VC179163892402658",
         "planKey": "weekly",
         "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
         "amount": 1,
         "days": 7,
-        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791638796832453&tn=VC1791638796832453&cu=INR",
-        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791638796832453%26tn%3DVC1791638796832453%26cu%3DINR",
-        "createdAt": "2026-10-10T13:26:36.832Z"
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC179163892402658&tn=VC179163892402658&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC179163892402658%26tn%3DVC179163892402658%26cu%3DINR",
+        "createdAt": "2026-10-10T13:28:44.026Z"
       }
+    },
+    "8216594601": {
+      "telegramId": "8216594601",
+      "username": "Punisher09923",
+      "firstName": "Punisher",
+      "joinedAt": "2026-10-10T13:32:28.535Z",
+      "lastActiveAt": "2026-10-10T13:32:28.536Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 659,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
+    },
+    "8317429233": {
+      "telegramId": "8317429233",
+      "username": "",
+      "firstName": "Vinu",
+      "joinedAt": "2026-10-10T13:33:01.728Z",
+      "lastActiveAt": "2026-10-10T13:33:01.729Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 662,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791639086095-6et55",
+      "telegramId": "1408776543",
+      "username": "Unknown",
+      "serviceType": "number_info",
+      "query": "9021681717",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T13:31:26.095Z"
+    },
+    {
+      "id": "1791639059312-sgqu1",
+      "telegramId": "1408776543",
+      "username": "Unknown",
+      "serviceType": "number_info",
+      "query": "7218401247",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T13:30:59.312Z"
+    },
     {
       "id": "1791638525833-jhp10",
       "telegramId": "6502481272",

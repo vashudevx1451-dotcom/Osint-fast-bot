@@ -666,7 +666,7 @@
       "username": "Itachiuchiha1223344",
       "firstName": "Indonesia 1",
       "joinedAt": "2026-10-10T13:56:01.586Z",
-      "lastActiveAt": "2026-10-10T14:00:35.372Z",
+      "lastActiveAt": "2026-10-10T15:17:11.170Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
@@ -727,9 +727,139 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true
+    },
+    "6720026265": {
+      "telegramId": "6720026265",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "firstName": "Kiyotaka",
+      "joinedAt": "2026-10-10T15:14:52.389Z",
+      "lastActiveAt": "2026-10-10T15:17:22.814Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": null,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8000796117",
+        "records": [
+          {
+            "name": "Jay Jayantibhai Patel",
+            "fatherName": "Jayantibhai  Patel",
+            "phone": "8000796117",
+            "altPhone": "8000796117",
+            "carrier": "AIRTEL GUJARAT",
+            "email": "None",
+            "address": "00 shrii nilkath timber mart sipor road mahesana Vadnagar",
+            "aadhaarId": "929492514939",
+            "location": "AIRTEL GUJARAT",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "mobile_norm": "8000796117"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
+    "8283591451": {
+      "telegramId": "8283591451",
+      "username": "",
+      "firstName": "Unbound",
+      "joinedAt": "2026-10-10T15:15:33.572Z",
+      "lastActiveAt": "2026-10-10T15:17:02.245Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 691,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8083882025",
+        "records": [
+          {
+            "name": "Jitendra  Kumar",
+            "fatherName": "Late Badri Prasad",
+            "phone": "8083882025",
+            "altPhone": "None",
+            "carrier": "AIRTEL BHR&JHR",
+            "email": "None",
+            "address": "S/O Late Badri Prasad, Near Bank Of Borada, Swrajpuri Road Gaya Gaya, Gaya Gaya, Bihar, 823001",
+            "aadhaarId": "984338634819",
+            "location": "AIRTEL BHR&JHR",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "mobile_norm": "8083882025"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
+    "8601436739": {
+      "telegramId": "8601436739",
+      "username": "",
+      "firstName": "𝒪𝓂𝓀𝒶𝓇_1",
+      "joinedAt": "2026-10-10T15:15:59.639Z",
+      "lastActiveAt": "2026-10-10T15:15:59.640Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 694,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791645424344-7l70p",
+      "telegramId": "8283591451",
+      "username": "Unbound",
+      "serviceType": "number_info",
+      "query": "8083882025",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T15:17:04.344Z"
+    },
+    {
+      "id": "1791645325238-80hxr",
+      "telegramId": "6720026265",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8000796117",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T15:15:25.238Z"
+    },
     {
       "id": "1791643960173-us4iw",
       "telegramId": "8216594601",

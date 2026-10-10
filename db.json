@@ -598,12 +598,12 @@
       "username": "",
       "firstName": "16",
       "joinedAt": "2026-10-10T13:46:35.150Z",
-      "lastActiveAt": "2026-10-10T13:46:35.150Z",
+      "lastActiveAt": "2026-10-10T14:16:59.478Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
-      "dailySearchCount": 0,
-      "totalLookups": 0,
+      "dailySearchCount": 2,
+      "totalLookups": 2,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -612,7 +612,30 @@
       "lastBotMessageId": 666,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
-      "lastLookupSession": null,
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "3503340052",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "3503340052",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "query": "3503340052",
+              "normalized": "3503340052"
+            }
+          }
+        ],
+        "page": 0
+      },
       "keyboardCleared": true
     },
     "8582949733": {
@@ -684,6 +707,26 @@
     }
   },
   "history": [
+    {
+      "id": "1791641775622-vd59l",
+      "telegramId": "8311674277",
+      "username": "16",
+      "serviceType": "number_info",
+      "query": "3503340052",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T14:16:15.622Z"
+    },
+    {
+      "id": "1791641745008-mvblb",
+      "telegramId": "8311674277",
+      "username": "16",
+      "serviceType": "number_info",
+      "query": "4191696055",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T14:15:45.008Z"
+    },
     {
       "id": "1791640805642-38zpw",
       "telegramId": "8582949733",

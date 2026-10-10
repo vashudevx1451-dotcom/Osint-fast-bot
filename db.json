@@ -958,9 +958,128 @@
         "page": 1
       },
       "keyboardCleared": true
+    },
+    "8469033945": {
+      "telegramId": "8469033945",
+      "username": "",
+      "firstName": "David Jones",
+      "joinedAt": "2026-10-10T16:07:38.787Z",
+      "lastActiveAt": "2026-10-10T16:12:23.406Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 726,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9673573114",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9673573114",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "query": "9673573114",
+              "normalized": "9673573114"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
+    "8926917947": {
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "firstName": "Kiyotaka",
+      "joinedAt": "2026-10-10T16:12:04.139Z",
+      "lastActiveAt": "2026-10-10T16:12:26.481Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 730,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8000796117",
+        "records": [
+          {
+            "name": "Jay Jayantibhai Patel",
+            "fatherName": "Jayantibhai  Patel",
+            "phone": "8000796117",
+            "altPhone": "8000796117",
+            "carrier": "AIRTEL GUJARAT",
+            "email": "None",
+            "address": "00 shrii nilkath timber mart sipor road mahesana Vadnagar",
+            "aadhaarId": "929492514939",
+            "location": "AIRTEL GUJARAT",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "mobile_norm": "8000796117"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791648748140-l2r21",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8000796117",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T16:12:28.140Z"
+    },
+    {
+      "id": "1791648745924-mjnth",
+      "telegramId": "8469033945",
+      "username": "David Jones",
+      "serviceType": "number_info",
+      "query": "9673573114",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T16:12:25.924Z"
+    },
+    {
+      "id": "1791648473309-z3zxj",
+      "telegramId": "8469033945",
+      "username": "David Jones",
+      "serviceType": "number_info",
+      "query": "8101372124",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T16:07:53.309Z"
+    },
     {
       "id": "1791647412090-3bq41",
       "telegramId": "8499830773",

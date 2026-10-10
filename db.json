@@ -620,12 +620,12 @@
       "username": "Itachiuchiha1223344",
       "firstName": "Indonesia 1",
       "joinedAt": "2026-10-10T13:56:01.586Z",
-      "lastActiveAt": "2026-10-10T13:56:57.912Z",
+      "lastActiveAt": "2026-10-10T14:00:35.372Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
-      "dailySearchCount": 1,
-      "totalLookups": 1,
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -636,12 +636,12 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "7720944141",
+        "query": "7908772340",
         "records": [
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "7720944141",
+            "phone": "7908772340",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -651,17 +651,59 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "query": "7720944141",
-              "normalized": "7720944141"
+              "query": "7908772340",
+              "normalized": "7908772340"
             }
           }
         ],
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "5479144889": {
+      "telegramId": "5479144889",
+      "username": "E_r_r_o_r_S_t_r_e_e_t",
+      "firstName": "ℝ𝕙𝕪𝕧𝕖𝕟",
+      "joinedAt": "2026-10-10T13:59:07.234Z",
+      "lastActiveAt": "2026-10-10T14:01:18.989Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 676,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791640805642-38zpw",
+      "telegramId": "8582949733",
+      "username": "Itachiuchiha1223344",
+      "serviceType": "number_info",
+      "query": "7908772340",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T14:00:05.642Z"
+    },
+    {
+      "id": "1791640676667-xtn3i",
+      "telegramId": "8582949733",
+      "username": "Itachiuchiha1223344",
+      "serviceType": "number_info",
+      "query": "8617532628",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T13:57:56.667Z"
+    },
     {
       "id": "1791640613541-l69tq",
       "telegramId": "8582949733",

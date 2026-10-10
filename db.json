@@ -1047,9 +1047,84 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8586435190": {
+      "telegramId": "8586435190",
+      "username": "",
+      "firstName": "Mohd",
+      "joinedAt": "2026-10-10T16:38:45.995Z",
+      "lastActiveAt": "2026-10-10T16:40:37.061Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 735,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7500570043",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "7500570043",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "query": "7500570043",
+              "normalized": "7500570043"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791650438950-n0so0",
+      "telegramId": "8586435190",
+      "username": "Mohd",
+      "serviceType": "number_info",
+      "query": "7500570043",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T16:40:38.950Z"
+    },
+    {
+      "id": "1791650414342-2kav0",
+      "telegramId": "8586435190",
+      "username": "Mohd",
+      "serviceType": "number_info",
+      "query": "9410236164",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T16:40:14.342Z"
+    },
+    {
+      "id": "1791650346987-280jt",
+      "telegramId": "8586435190",
+      "username": "Mohd",
+      "serviceType": "number_info",
+      "query": "9897037108",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T16:39:06.987Z"
+    },
     {
       "id": "1791648748140-l2r21",
       "telegramId": "8926917947",

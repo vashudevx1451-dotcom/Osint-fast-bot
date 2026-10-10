@@ -1419,25 +1419,57 @@
       "username": "",
       "firstName": "𝙎 𝙋 𝘼 𝙍 𝙆",
       "joinedAt": "2026-10-10T19:25:18.290Z",
-      "lastActiveAt": "2026-10-10T19:25:28.324Z",
+      "lastActiveAt": "2026-10-10T19:26:21.017Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
-      "dailySearchCount": 0,
-      "totalLookups": 0,
+      "dailySearchCount": 1,
+      "totalLookups": 1,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 779,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
-      "lastLookupSession": null,
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "6002355873",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "6002355873",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
       "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791660360126-heiu0",
+      "telegramId": "8530371631",
+      "username": "𝙎 𝙋 𝘼 𝙍 𝙆",
+      "serviceType": "number_info",
+      "query": "6002355873",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T19:26:00.126Z"
+    },
     {
       "id": "1791658577588-tg0rk",
       "telegramId": "8552258292",

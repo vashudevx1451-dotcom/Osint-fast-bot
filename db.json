@@ -325,48 +325,68 @@
       "username": "Rota_hu",
       "firstName": "𝙎𝙖𝙣𝙖𝙢🌕🧧",
       "joinedAt": "2026-10-10T12:13:14.486Z",
-      "lastActiveAt": "2026-10-10T12:13:33.323Z",
+      "lastActiveAt": "2026-10-10T12:32:42.142Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
-      "dailySearchCount": 1,
-      "totalLookups": 1,
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 627,
+      "lastBotMessageId": 631,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "7900786941",
+        "query": "7870799904",
         "records": [
           {
-            "name": "RAJESH KUMAR SHARMA",
-            "fatherName": "RAMSEVAK SHARMA",
-            "phone": "7900786941",
-            "altPhone": "7500441219",
-            "carrier": "VODA UPW",
+            "name": "Soni  Kumari",
+            "fatherName": "Prabha Kant Choudhary",
+            "phone": "7870799904",
+            "altPhone": "8789846455",
+            "carrier": "AIRTEL BHR&JHR",
             "email": "None",
-            "address": "Pawan Vihar Foundry Nagar Narayach AgraPawan Vihar Foundry Nagar Narayach Agra Pawan Vihar Foundry Nagar Narayach Agra AGRAAAGRAAGRAUttar Pradesh282006",
-            "aadhaarId": "275829673140",
-            "location": "VODA UPW",
+            "address": "-, Bihar Sharif, Nalanda, South Of Telephone Exchange Bhaisasoor, Nalanda, Bihar, 803101",
+            "aadhaarId": "800868299260",
+            "location": "AIRTEL BHR&JHR",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "mobile_norm": "7900786941"
+              "mobile_norm": "7870799904"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791635564495-ma8v0",
+      "telegramId": "8836636372",
+      "username": "Rota_hu",
+      "serviceType": "number_info",
+      "query": "7870799904",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T12:32:44.495Z"
+    },
+    {
+      "id": "1791635270607-912ho",
+      "telegramId": "8836636372",
+      "username": "Rota_hu",
+      "serviceType": "number_info",
+      "query": "7500441219",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T12:27:50.607Z"
+    },
     {
       "id": "1791634415815-pxu0y",
       "telegramId": "8836636372",

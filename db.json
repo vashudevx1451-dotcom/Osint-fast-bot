@@ -433,7 +433,51 @@
       "username": "",
       "firstName": "Gamer",
       "joinedAt": "2026-10-10T13:03:10.917Z",
-      "lastActiveAt": "2026-10-10T13:14:23.740Z",
+      "lastActiveAt": "2026-10-10T13:26:27.881Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 643,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7247459128",
+        "records": [
+          {
+            "name": "MUKESH KUMAR PATEL",
+            "fatherName": "ANAND RAM PATEL",
+            "phone": "7247459128",
+            "altPhone": "9098973889",
+            "carrier": "VI MP",
+            "email": "None",
+            "address": "S/O Anand Ram Patel, S/O Anand Ram Patel, lofandi, Lofandi Bilaspur , LOFANDI-BILASPUR, CT, 495009",
+            "aadhaarId": "388692241601",
+            "location": "VI MP",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "mobile_norm": "7247459128"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
+    "8552258292": {
+      "telegramId": "8552258292",
+      "username": "vikash7256",
+      "firstName": "One pay",
+      "joinedAt": "2026-10-10T13:25:08.844Z",
+      "lastActiveAt": "2026-10-10T13:26:36.212Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
@@ -443,15 +487,35 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
-      "lastBotMessageId": 643,
+      "awaitingInput": null,
+      "lastBotMessageId": 648,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "banner",
+      "lastBotPhotoKind": "dynamic_qr",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "keyboardCleared": true,
+      "activePaymentOrder": {
+        "orderId": "VC1791638796832453",
+        "planKey": "weekly",
+        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
+        "amount": 1,
+        "days": 7,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791638796832453&tn=VC1791638796832453&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791638796832453%26tn%3DVC1791638796832453%26cu%3DINR",
+        "createdAt": "2026-10-10T13:26:36.832Z"
+      }
     }
   },
   "history": [
+    {
+      "id": "1791638525833-jhp10",
+      "telegramId": "6502481272",
+      "username": "Gamer",
+      "serviceType": "number_info",
+      "query": "7247459128",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T13:22:05.833Z"
+    },
     {
       "id": "1791637422750-6xujw",
       "telegramId": "8066965283",

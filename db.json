@@ -179,23 +179,61 @@
       "username": "Vashubhaiii",
       "firstName": "Vashu",
       "joinedAt": "2026-10-08T06:52:52.007Z",
-      "lastActiveAt": "2026-10-09T09:26:14.657Z",
+      "lastActiveAt": "2026-10-10T00:15:32.827Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-09",
-      "dailySearchCount": 0,
-      "totalLookups": 1,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 3,
+      "totalLookups": 4,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 505,
+      "lastBotMessageId": 581,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
-      "lastLookupSession": null,
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9835216800",
+        "records": [
+          {
+            "name": "Pintu Kumar",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "None",
+            "carrier": "BIHAR BSNL",
+            "email": "None",
+            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "mobile_norm": "9835216800"
+            }
+          },
+          {
+            "name": "Pintu Kumar . .",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "8294762929",
+            "carrier": "BIHAR BSNL",
+            "email": "None",
+            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "mobile_norm": "9835216800"
+            }
+          }
+        ],
+        "page": 0
+      },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "5520093674": {
       "telegramId": "5520093674",
@@ -222,6 +260,36 @@
     }
   },
   "history": [
+    {
+      "id": "1791591300300-8fuj2",
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-10T00:15:00.300Z"
+    },
+    {
+      "id": "1791591286529-s40zl",
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T00:14:46.529Z"
+    },
+    {
+      "id": "1791591256484-fmzf0",
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-10T00:14:16.484Z"
+    },
     {
       "id": "1791565034469-7m219",
       "telegramId": "6672896116",

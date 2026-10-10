@@ -1457,9 +1457,63 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8944120860": {
+      "telegramId": "8944120860",
+      "username": "nbj_hs",
+      "firstName": "رئيس العراق",
+      "joinedAt": "2026-10-10T21:02:33.830Z",
+      "lastActiveAt": "2026-10-10T21:03:58.641Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-10",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 783,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "5282273322",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "5282273322",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791666180072-z7u8i",
+      "telegramId": "8944120860",
+      "username": "nbj_hs",
+      "serviceType": "number_info",
+      "query": "5282273322",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T21:03:00.072Z"
+    },
     {
       "id": "1791660360126-heiu0",
       "telegramId": "8530371631",

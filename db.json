@@ -124,7 +124,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "1961291130": {
       "telegramId": "1961291130",
@@ -183,7 +184,6 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true,
       "activePaymentOrder": {
         "orderId": "VC1791653349956165",
         "planKey": "weekly",
@@ -193,7 +193,8 @@
         "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791653349956165&tn=VC1791653349956165&cu=INR",
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791653349956165%26tn%3DVC1791653349956165%26cu%3DINR",
         "createdAt": "2026-10-10T17:29:09.956Z"
-      }
+      },
+      "keyboardCleared": false
     },
     "6672896116": {
       "telegramId": "6672896116",
@@ -263,7 +264,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791637213921113%26tn%3DVC1791637213921113%26cu%3DINR",
         "createdAt": "2026-10-10T13:00:13.921Z"
       },
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8968071078": {
       "telegramId": "8968071078",
@@ -283,6 +284,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 469,
       "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
@@ -305,6 +307,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 581,
       "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "9835216800",
@@ -365,6 +368,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 574,
       "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
@@ -387,6 +391,7 @@
       "awaitingInput": null,
       "lastBotMessageId": null,
       "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
@@ -409,6 +414,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 615,
       "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": {
         "orderId": "VC1791633424767477",
@@ -440,6 +446,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 618,
       "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
@@ -462,6 +469,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 631,
       "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "7870799904",
@@ -486,7 +494,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8066965283": {
       "telegramId": "8066965283",
@@ -546,7 +554,6 @@
         ],
         "page": 1
       },
-      "keyboardCleared": true,
       "activePaymentOrder": {
         "orderId": "VC179163747497144",
         "planKey": "weekly",
@@ -556,7 +563,8 @@
         "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC179163747497144&tn=VC179163747497144&cu=INR",
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC179163747497144%26tn%3DVC179163747497144%26cu%3DINR",
         "createdAt": "2026-10-10T13:04:34.971Z"
-      }
+      },
+      "keyboardCleared": false
     },
     "6502481272": {
       "telegramId": "6502481272",
@@ -600,7 +608,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8552258292": {
       "telegramId": "8552258292",
@@ -622,7 +631,6 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true,
       "activePaymentOrder": {
         "orderId": "VC179163892402658",
         "planKey": "weekly",
@@ -632,7 +640,8 @@
         "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC179163892402658&tn=VC179163892402658&cu=INR",
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC179163892402658%26tn%3DVC179163892402658%26cu%3DINR",
         "createdAt": "2026-10-10T13:28:44.026Z"
-      }
+      },
+      "keyboardCleared": false
     },
     "8216594601": {
       "telegramId": "8216594601",
@@ -677,7 +686,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8317429233": {
       "telegramId": "8317429233",
@@ -699,7 +709,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8311674277": {
       "telegramId": "8311674277",
@@ -744,7 +755,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8582949733": {
       "telegramId": "8582949733",
@@ -789,7 +801,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "5479144889": {
       "telegramId": "5479144889",
@@ -811,7 +824,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "6720026265": {
       "telegramId": "6720026265",
@@ -855,7 +869,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8283591451": {
       "telegramId": "8283591451",
@@ -899,7 +914,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8601436739": {
       "telegramId": "8601436739",
@@ -921,7 +937,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8407639114": {
       "telegramId": "8407639114",
@@ -966,7 +983,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8499830773": {
       "telegramId": "8499830773",
@@ -1026,7 +1044,8 @@
         ],
         "page": 1
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8469033945": {
       "telegramId": "8469033945",
@@ -1071,7 +1090,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8926917947": {
       "telegramId": "8926917947",
@@ -1130,7 +1150,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8586435190": {
       "telegramId": "8586435190",
@@ -1175,7 +1196,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "7639119817": {
       "telegramId": "7639119817",
@@ -1192,7 +1214,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 744,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -1234,7 +1256,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     }
   },
   "history": [

@@ -554,12 +554,12 @@
       "username": "Punisher09923",
       "firstName": "Punisher",
       "joinedAt": "2026-10-10T13:32:28.535Z",
-      "lastActiveAt": "2026-10-10T13:32:28.536Z",
+      "lastActiveAt": "2026-10-10T14:52:37.854Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-10",
-      "dailySearchCount": 0,
-      "totalLookups": 0,
+      "dailySearchCount": 1,
+      "totalLookups": 1,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -568,7 +568,30 @@
       "lastBotMessageId": 659,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
-      "lastLookupSession": null,
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7815037374",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "7815037374",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "query": "7815037374",
+              "normalized": "7815037374"
+            }
+          }
+        ],
+        "page": 0
+      },
       "keyboardCleared": true
     },
     "8317429233": {
@@ -707,6 +730,16 @@
     }
   },
   "history": [
+    {
+      "id": "1791643960173-us4iw",
+      "telegramId": "8216594601",
+      "username": "Punisher09923",
+      "serviceType": "number_info",
+      "query": "7815037374",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-10T14:52:40.173Z"
+    },
     {
       "id": "1791641775622-vd59l",
       "telegramId": "8311674277",

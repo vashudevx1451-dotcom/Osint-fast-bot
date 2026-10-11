@@ -24,9 +24,10 @@
     "paymentUpiId": "paytm.s1dw5n0@pty",
     "paymentMerchantName": "VC GATEWAY",
     "verifiedOrderIds": [
-      "VC1791536182347733"
+      "VC1791536182347733",
+      "VC179168564565718"
     ],
-    "cachedBannerFileId": "AgACAgUAAxkDAAIC_mrKgParGW75OwSsBXDPPgZJJ93FAAKCIGsbWFRQVhFr-OcpgLTlAQADAgADdwADPQQ",
+    "cachedBannerFileId": "AgACAgUAAxkDAAIDNGrK9AFl2_FeFzmxCEGmUeIH7FnHAAKCIGsbWFRQVhFr-OcpgLTlAQADAgADdwADPQQ",
     "customBannerImageUrl": "https://i.postimg.cc/SRzDjNSF/file-00000000c93c81f59120e3d4cda69e4c.png",
     "cachedQrFileId": "AgACAgUAAxkDAAICV2rKNsyh0Y_tnF_NrsLRUsjv-yWPAAKoFmsbz3JQVoGpmqqWobS4AQADAgADeQADPQQ",
     "customQrImageUrl": "/api/custom-qr.jpg?t=1791637184742",
@@ -294,61 +295,45 @@
       "username": "Vashubhaiii",
       "firstName": "Vashu",
       "joinedAt": "2026-10-08T06:52:52.007Z",
-      "lastActiveAt": "2026-10-10T00:15:32.827Z",
+      "lastActiveAt": "2026-10-11T02:28:37.847Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-10",
-      "dailySearchCount": 3,
-      "totalLookups": 4,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 0,
+      "totalLookups": 6,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
-      "premiumUntil": null,
+      "premiumUntil": "2026-10-18T02:28:01.037Z",
       "awaitingInput": null,
-      "lastBotMessageId": 581,
+      "lastBotMessageId": 820,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9835216800",
+        "query": "8252464080",
         "records": [
           {
-            "name": "Pintu Kumar",
-            "fatherName": "S/O: Kanhai Saw",
-            "phone": "9835216800",
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "8252464080",
             "altPhone": "None",
-            "carrier": "BIHAR BSNL",
+            "carrier": "None",
             "email": "None",
-            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
-            "aadhaarId": "612041560813",
-            "location": "BIHAR BSNL",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "mobile_norm": "9835216800"
-            }
-          },
-          {
-            "name": "Pintu Kumar . .",
-            "fatherName": "S/O: Kanhai Saw",
-            "phone": "9835216800",
-            "altPhone": "8294762929",
-            "carrier": "BIHAR BSNL",
-            "email": "None",
-            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
-            "aadhaarId": "612041560813",
-            "location": "BIHAR BSNL",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "mobile_norm": "9835216800"
+              "error": "Invalid or expired API key"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "5520093674": {
       "telegramId": "5520093674",
@@ -1135,28 +1120,28 @@
       "username": "Saurabh_Kumar_Tiwari_OG",
       "firstName": "Kiyotaka",
       "joinedAt": "2026-10-10T16:12:04.139Z",
-      "lastActiveAt": "2026-10-10T17:43:36.643Z",
+      "lastActiveAt": "2026-10-11T02:31:59.168Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-10",
+      "dailySearchDate": "2026-10-11",
       "dailySearchCount": 3,
-      "totalLookups": 3,
+      "totalLookups": 6,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 755,
+      "lastBotMessageId": 826,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8000796117",
+        "query": "8604606064",
         "records": [
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "8000796117",
+            "phone": "8604606064",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -1166,29 +1151,14 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "type": "https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-502/",
-              "title": "Error 502: Bad gateway",
-              "detail": "The origin web server returned an invalid or incomplete response to Cloudflare. This typically indicates the origin is overloaded or misconfigured.",
-              "instance": "a4876dadb855ebf1",
-              "error_code": "502",
-              "error_name": "origin_bad_gateway",
-              "error_category": "origin",
-              "ray_id": "a4876dadb855ebf1",
-              "timestamp": "2026-10-10T17:43:38Z",
-              "zone": "sized-reviewed-across-nerve.trycloudflare.com",
-              "cloudflare_error": "true",
-              "retryable": "true",
-              "retry_after": "60",
-              "owner_action_required": "true",
-              "what_you_should_do": "**Wait and retry.** Back off for at least 60 seconds. If the error persists, the website operator should check their origin server health and configuration.",
-              "footer": "This error was generated by Cloudflare on behalf of the website owner."
+              "error": "Invalid or expired API key"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8586435190": {
       "telegramId": "8586435190",
@@ -1621,6 +1591,56 @@
     }
   },
   "history": [
+    {
+      "id": "1791685920422-fff1h",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8604606064",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T02:32:00.422Z"
+    },
+    {
+      "id": "1791685858892-k0nyg",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8604604064",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T02:30:58.892Z"
+    },
+    {
+      "id": "1791685827791-wj3uj",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8604604064",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T02:30:27.791Z"
+    },
+    {
+      "id": "1791685715854-c2xrv",
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T02:28:35.854Z"
+    },
+    {
+      "id": "1791685703139-sh4x4",
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T02:28:23.139Z"
+    },
     {
       "id": "1791674181705-a3gqt",
       "telegramId": "7678379747",

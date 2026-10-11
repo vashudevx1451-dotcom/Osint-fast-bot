@@ -1294,7 +1294,7 @@
       "username": "Saurabh_Kumar_Tiwari_OG",
       "firstName": "Kiyotaka",
       "joinedAt": "2026-10-10T16:12:04.139Z",
-      "lastActiveAt": "2026-10-11T15:23:29.749Z",
+      "lastActiveAt": "2026-10-11T23:39:42.298Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
@@ -1305,7 +1305,7 @@
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 1061,
+      "lastBotMessageId": 1147,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -1332,7 +1332,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8586435190": {
       "telegramId": "8586435190",

@@ -1588,9 +1588,127 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "8729620894": {
+      "telegramId": "8729620894",
+      "username": "",
+      "firstName": "Pranjal",
+      "joinedAt": "2026-10-11T03:49:07.803Z",
+      "lastActiveAt": "2026-10-11T03:51:08.479Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 835,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7307760617",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "7307760617",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
+    "6976365330": {
+      "telegramId": "6976365330",
+      "username": "",
+      "firstName": "Samir",
+      "joinedAt": "2026-10-11T03:49:14.515Z",
+      "lastActiveAt": "2026-10-11T03:51:36.891Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": null,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8252464080",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "8252464080",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791690678261-qq4dx",
+      "telegramId": "6976365330",
+      "username": "Samir",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T03:51:18.261Z"
+    },
+    {
+      "id": "1791690653667-qjln9",
+      "telegramId": "8729620894",
+      "username": "Pranjal",
+      "serviceType": "number_info",
+      "query": "7307760617",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T03:50:53.667Z"
+    },
+    {
+      "id": "1791690593308-vyh93",
+      "telegramId": "6976365330",
+      "username": "Samir",
+      "serviceType": "number_info",
+      "query": "6287353444",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T03:49:53.308Z"
+    },
     {
       "id": "1791685920422-fff1h",
       "telegramId": "8926917947",

@@ -2533,9 +2533,63 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "6216830259": {
+      "telegramId": "6216830259",
+      "username": "",
+      "firstName": "nsms",
+      "joinedAt": "2026-10-11T15:28:55.085Z",
+      "lastActiveAt": "2026-10-11T15:29:46.050Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1064,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9835216800",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791732588435-pyb1t",
+      "telegramId": "6216830259",
+      "username": "nsms",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T15:29:48.435Z"
+    },
     {
       "id": "1791731882777-33qqu",
       "telegramId": "1882515926",

@@ -1841,7 +1841,7 @@
       "username": "Chandel_0_1956",
       "firstName": "Naughty",
       "joinedAt": "2026-10-11T04:33:39.925Z",
-      "lastActiveAt": "2026-10-11T04:35:36.736Z",
+      "lastActiveAt": "2026-10-11T16:42:35.711Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
@@ -1879,7 +1879,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8967626693": {
       "telegramId": "8967626693",

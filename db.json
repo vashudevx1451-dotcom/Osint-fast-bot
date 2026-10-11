@@ -561,18 +561,18 @@
       "username": "Rota_hu",
       "firstName": "𝙎𝙖𝙣𝙖𝙢🌕🧧",
       "joinedAt": "2026-10-10T12:13:14.486Z",
-      "lastActiveAt": "2026-10-11T15:11:34.467Z",
+      "lastActiveAt": "2026-10-11T20:45:20.776Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
-      "dailySearchCount": 1,
-      "totalLookups": 4,
+      "dailySearchCount": 3,
+      "totalLookups": 6,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 631,
+      "lastBotMessageId": 1132,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -599,7 +599,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8066965283": {
       "telegramId": "8066965283",
@@ -2952,6 +2952,26 @@
     }
   },
   "history": [
+    {
+      "id": "1791751460802-n3qbn",
+      "telegramId": "8836636372",
+      "username": "Rota_hu",
+      "serviceType": "number_info",
+      "query": "9002264167",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T20:44:20.802Z"
+    },
+    {
+      "id": "1791751428630-n4xo8",
+      "telegramId": "8836636372",
+      "username": "Rota_hu",
+      "serviceType": "number_info",
+      "query": "9002264167",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T20:43:48.630Z"
+    },
     {
       "id": "1791748143163-htil3",
       "telegramId": "5445620277",

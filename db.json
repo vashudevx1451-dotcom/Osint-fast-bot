@@ -216,7 +216,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "1961291130": {
       "telegramId": "1961291130",
@@ -329,7 +330,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "6672896116": {
       "telegramId": "6672896116",
@@ -597,7 +599,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8066965283": {
       "telegramId": "8066965283",
@@ -1055,7 +1057,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8601436739": {
       "telegramId": "8601436739",
@@ -1276,7 +1278,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8586435190": {
       "telegramId": "8586435190",
@@ -1879,7 +1881,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8967626693": {
       "telegramId": "8967626693",
@@ -2532,7 +2534,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8845371942": {
       "telegramId": "8845371942",
@@ -2576,7 +2579,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "6216830259": {
       "telegramId": "6216830259",
@@ -2620,7 +2624,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "5850272371": {
       "telegramId": "5850272371",
@@ -2642,7 +2647,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8963175300": {
       "telegramId": "8963175300",
@@ -2686,7 +2692,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8836183063": {
       "telegramId": "8836183063",
@@ -2730,7 +2737,6 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true,
       "activePaymentOrder": {
         "orderId": "VC1791737590462800",
         "planKey": "weekly",
@@ -2740,7 +2746,8 @@
         "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791737590462800&tn=VC1791737590462800&cu=INR",
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791737590462800%26tn%3DVC1791737590462800%26cu%3DINR",
         "createdAt": "2026-10-11T16:53:10.462Z"
-      }
+      },
+      "keyboardCleared": false
     },
     "6323061716": {
       "telegramId": "6323061716",
@@ -2784,7 +2791,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8935845185": {
       "telegramId": "8935845185",
@@ -2828,7 +2836,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "6001819818": {
       "telegramId": "6001819818",
@@ -2845,7 +2854,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1104,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -2872,7 +2881,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     }
   },
   "history": [

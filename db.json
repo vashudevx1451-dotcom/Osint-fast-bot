@@ -83,6 +83,60 @@
     "qrPhotoFileId": "AgACAgUAAxkBAAPNascn_Nyf5qxQhgy0GKx9ccSvgnwAAl4SaxvQUzlWQtHofgl0o5YBAAMCAAN4AAM9BA"
   },
   "users": {
+    "809722182": {
+      "telegramId": "809722182",
+      "username": "",
+      "firstName": "Ravindra",
+      "joinedAt": "2026-10-11T21:11:43.556Z",
+      "lastActiveAt": "2026-10-11T21:15:11.508Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1141,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7875151856",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true,
+      "activePaymentOrder": {
+        "orderId": "VC1791753273169762",
+        "planKey": "weekly",
+        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
+        "amount": 1,
+        "days": 7,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791753273169762&tn=VC1791753273169762&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791753273169762%26tn%3DVC1791753273169762%26cu%3DINR",
+        "createdAt": "2026-10-11T21:14:33.169Z"
+      }
+    },
     "1408776543": {
       "telegramId": "1408776543",
       "username": "",
@@ -2952,6 +3006,36 @@
     }
   },
   "history": [
+    {
+      "id": "1791753313744-azcqr",
+      "telegramId": "809722182",
+      "username": "Ravindra",
+      "serviceType": "number_info",
+      "query": "7875151856",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T21:15:13.744Z"
+    },
+    {
+      "id": "1791753229260-u82iz",
+      "telegramId": "809722182",
+      "username": "Ravindra",
+      "serviceType": "number_info",
+      "query": "8401356786",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T21:13:49.260Z"
+    },
+    {
+      "id": "1791753177626-v89bc",
+      "telegramId": "809722182",
+      "username": "Ravindra",
+      "serviceType": "number_info",
+      "query": "9723515030",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T21:12:57.626Z"
+    },
     {
       "id": "1791751460802-n3qbn",
       "telegramId": "8836636372",

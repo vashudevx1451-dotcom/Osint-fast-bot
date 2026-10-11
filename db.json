@@ -2213,9 +2213,83 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true
+    },
+    "6338918086": {
+      "telegramId": "6338918086",
+      "username": "akkuxpvt",
+      "firstName": "Abhiiy",
+      "joinedAt": "2026-10-11T11:31:42.023Z",
+      "lastActiveAt": "2026-10-11T11:32:31.852Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 958,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8404897192",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791718353748-crkri",
+      "telegramId": "6338918086",
+      "username": "akkuxpvt",
+      "serviceType": "number_info",
+      "query": "8404897192",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T11:32:33.748Z"
+    },
+    {
+      "id": "1791718345996-usm5m",
+      "telegramId": "6338918086",
+      "username": "akkuxpvt",
+      "serviceType": "number_info",
+      "query": "8404897192",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T11:32:25.996Z"
+    },
+    {
+      "id": "1791718329227-7eztk",
+      "telegramId": "6338918086",
+      "username": "akkuxpvt",
+      "serviceType": "number_info",
+      "query": "8404897192",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T11:32:09.227Z"
+    },
     {
       "id": "1791717994539-9glk4",
       "telegramId": "7639119817",

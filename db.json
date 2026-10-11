@@ -2161,6 +2161,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8441838325": {
+      "telegramId": "8441838325",
+      "username": "Raddiinn_bg",
+      "firstName": "𝙍𝙖𝙙𝙞𝙣",
+      "joinedAt": "2026-10-11T09:54:59.931Z",
+      "lastActiveAt": "2026-10-11T09:55:05.400Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 892,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": false
     }
   },
   "history": [

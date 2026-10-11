@@ -2883,6 +2883,28 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "8945369144": {
+      "telegramId": "8945369144",
+      "username": "",
+      "firstName": "isma",
+      "joinedAt": "2026-10-11T19:24:17.790Z",
+      "lastActiveAt": "2026-10-11T19:25:08.602Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1115,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

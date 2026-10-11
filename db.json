@@ -1802,9 +1802,63 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8309543074": {
+      "telegramId": "8309543074",
+      "username": "ITACHI_ON_TOP9999",
+      "firstName": "𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭࿋࿈༒ɪᴛᴀᴄʜɪッ༒࿈࿋ 𓅓",
+      "joinedAt": "2026-10-11T04:51:47.968Z",
+      "lastActiveAt": "2026-10-11T04:52:38.088Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 879,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8260409309",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791694360427-yo0wu",
+      "telegramId": "8309543074",
+      "username": "ITACHI_ON_TOP9999",
+      "serviceType": "number_info",
+      "query": "8260409309",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T04:52:40.427Z"
+    },
     {
       "id": "1791693457543-e9vvf",
       "telegramId": "8967626693",

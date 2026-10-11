@@ -540,12 +540,12 @@
       "username": "",
       "firstName": "Gamer",
       "joinedAt": "2026-10-10T13:03:10.917Z",
-      "lastActiveAt": "2026-10-11T05:29:10.838Z",
+      "lastActiveAt": "2026-10-11T05:33:42.090Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
-      "dailySearchCount": 2,
-      "totalLookups": 3,
+      "dailySearchCount": 3,
+      "totalLookups": 4,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -556,7 +556,7 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "7722865930",
+        "query": "9131673040",
         "records": [
           {
             "name": "Unknown",
@@ -1846,9 +1846,83 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "5337166443": {
+      "telegramId": "5337166443",
+      "username": "abhiJE99",
+      "firstName": "Abhinav",
+      "joinedAt": "2026-10-11T05:35:49.575Z",
+      "lastActiveAt": "2026-10-11T05:36:22.953Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 887,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9076674103",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791696984605-vp3dw",
+      "telegramId": "5337166443",
+      "username": "abhiJE99",
+      "serviceType": "number_info",
+      "query": "9076674103",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T05:36:24.605Z"
+    },
+    {
+      "id": "1791696969827-ar9zg",
+      "telegramId": "5337166443",
+      "username": "abhiJE99",
+      "serviceType": "number_info",
+      "query": "9076674103",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T05:36:09.827Z"
+    },
+    {
+      "id": "1791696824539-7fmbk",
+      "telegramId": "6502481272",
+      "username": "Gamer",
+      "serviceType": "number_info",
+      "query": "9131673040",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T05:33:44.539Z"
+    },
     {
       "id": "1791696479378-odbtg",
       "telegramId": "6502481272",

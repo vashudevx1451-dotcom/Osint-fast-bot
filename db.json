@@ -2401,9 +2401,63 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "8662738171": {
+      "telegramId": "8662738171",
+      "username": "kidw7s",
+      "firstName": "𝘒𝘪𝘥",
+      "joinedAt": "2026-10-11T13:13:14.284Z",
+      "lastActiveAt": "2026-10-11T13:14:19.805Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1044,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9999132801",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791724447382-ge3uk",
+      "telegramId": "8662738171",
+      "username": "kidw7s",
+      "serviceType": "number_info",
+      "query": "9999132801",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T13:14:07.382Z"
+    },
     {
       "id": "1791722525878-e9d3y",
       "telegramId": "8283591451",

@@ -25,7 +25,8 @@
     "paymentMerchantName": "VC GATEWAY",
     "verifiedOrderIds": [
       "VC1791536182347733",
-      "VC179168564565718"
+      "VC179168564565718",
+      "VC179171794763253"
     ],
     "cachedBannerFileId": "AgACAgUAAxkDAAIDNGrK9AFl2_FeFzmxCEGmUeIH7FnHAAKCIGsbWFRQVhFr-OcpgLTlAQADAgADdwADPQQ",
     "customBannerImageUrl": "https://i.postimg.cc/SRzDjNSF/file-00000000c93c81f59120e3d4cda69e4c.png",
@@ -1239,23 +1240,23 @@
       "username": "",
       "firstName": "Yadav ji",
       "joinedAt": "2026-10-10T17:03:27.560Z",
-      "lastActiveAt": "2026-10-11T11:18:24.345Z",
+      "lastActiveAt": "2026-10-11T11:26:32.687Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
       "dailySearchCount": 1,
-      "totalLookups": 2,
+      "totalLookups": 4,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
-      "premiumUntil": null,
+      "premiumUntil": "2026-10-18T11:26:10.951Z",
       "awaitingInput": null,
       "lastBotMessageId": 951,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9213175217",
+        "query": "9212170966",
         "records": [
           {
             "name": "Unknown",
@@ -2215,6 +2216,26 @@
     }
   },
   "history": [
+    {
+      "id": "1791717994539-9glk4",
+      "telegramId": "7639119817",
+      "username": "Yadav ji",
+      "serviceType": "number_info",
+      "query": "9212170966",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T11:26:34.539Z"
+    },
+    {
+      "id": "1791717982868-1vxrn",
+      "telegramId": "7639119817",
+      "username": "Yadav ji",
+      "serviceType": "number_info",
+      "query": "9213175217",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T11:26:22.868Z"
+    },
     {
       "id": "1791717506742-8mei8",
       "telegramId": "7639119817",

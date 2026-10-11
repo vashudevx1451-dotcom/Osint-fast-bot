@@ -2183,6 +2183,28 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": false
+    },
+    "8804443164": {
+      "telegramId": "8804443164",
+      "username": "",
+      "firstName": "Muhammed",
+      "joinedAt": "2026-10-11T10:36:23.655Z",
+      "lastActiveAt": "2026-10-11T10:36:48.109Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 941,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

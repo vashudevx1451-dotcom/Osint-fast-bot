@@ -128,6 +128,50 @@
       "activePaymentOrder": null,
       "keyboardCleared": false
     },
+    "1772821518": {
+      "telegramId": "1772821518",
+      "username": "",
+      "firstName": "Ak",
+      "joinedAt": "2026-10-11T06:26:28.075Z",
+      "lastActiveAt": "2026-10-11T06:27:30.914Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 906,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8878287560",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
     "1961291130": {
       "telegramId": "1961291130",
       "username": "Neerajk456",
@@ -1939,10 +1983,31 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     }
   },
   "history": [
+    {
+      "id": "1791700052791-8rgox",
+      "telegramId": "1772821518",
+      "username": "Ak",
+      "serviceType": "number_info",
+      "query": "8878287560",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T06:27:32.791Z"
+    },
+    {
+      "id": "1791700021285-vdumk",
+      "telegramId": "1772821518",
+      "username": "Ak",
+      "serviceType": "number_info",
+      "query": "8461885971",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T06:27:01.285Z"
+    },
     {
       "id": "1791699109357-i5fgo",
       "telegramId": "7452294925",

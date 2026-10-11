@@ -2911,23 +2911,23 @@
       "username": "",
       "firstName": "Obito",
       "joinedAt": "2026-10-11T19:41:56.882Z",
-      "lastActiveAt": "2026-10-11T19:45:31.490Z",
+      "lastActiveAt": "2026-10-11T19:49:01.226Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
-      "dailySearchCount": 2,
-      "totalLookups": 2,
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1122,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "0565541940",
+        "query": "0557588670",
         "records": [
           {
             "name": "Unknown",
@@ -2952,6 +2952,16 @@
     }
   },
   "history": [
+    {
+      "id": "1791748143163-htil3",
+      "telegramId": "5445620277",
+      "username": "Obito",
+      "serviceType": "number_info",
+      "query": "0557588670",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T19:49:03.163Z"
+    },
     {
       "id": "1791747901652-chsrf",
       "telegramId": "5445620277",

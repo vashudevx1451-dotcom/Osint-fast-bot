@@ -2073,6 +2073,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8701120919": {
+      "telegramId": "8701120919",
+      "username": "EGOxPoritosh",
+      "firstName": "Poritosh",
+      "joinedAt": "2026-10-11T08:38:35.406Z",
+      "lastActiveAt": "2026-10-11T08:38:47.424Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 931,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

@@ -2577,9 +2577,95 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "5850272371": {
+      "telegramId": "5850272371",
+      "username": "",
+      "firstName": "Tamil",
+      "joinedAt": "2026-10-11T15:59:49.462Z",
+      "lastActiveAt": "2026-10-11T16:00:22.920Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1068,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
+    },
+    "8963175300": {
+      "telegramId": "8963175300",
+      "username": "",
+      "firstName": "PRAKas",
+      "joinedAt": "2026-10-11T16:00:55.281Z",
+      "lastActiveAt": "2026-10-11T16:01:40.640Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1071,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "6372069928",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791734502630-tx6e6",
+      "telegramId": "8963175300",
+      "username": "PRAKas",
+      "serviceType": "number_info",
+      "query": "6372069928",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T16:01:42.630Z"
+    },
+    {
+      "id": "1791734484114-9077h",
+      "telegramId": "8963175300",
+      "username": "PRAKas",
+      "serviceType": "number_info",
+      "query": "6372069928",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T16:01:24.114Z"
+    },
     {
       "id": "1791732588435-pyb1t",
       "telegramId": "6216830259",

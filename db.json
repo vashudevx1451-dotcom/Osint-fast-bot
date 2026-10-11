@@ -249,7 +249,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791637213921113%26tn%3DVC1791637213921113%26cu%3DINR",
         "createdAt": "2026-10-10T13:00:13.921Z"
       },
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8968071078": {
       "telegramId": "8968071078",
@@ -317,7 +317,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "5520093674": {
       "telegramId": "5520093674",
@@ -578,7 +578,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8552258292": {
       "telegramId": "8552258292",
@@ -1007,7 +1007,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 717,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -1142,7 +1142,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8586435190": {
       "telegramId": "8586435190",
@@ -1615,7 +1615,6 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true,
       "activePaymentOrder": {
         "orderId": "VC179169101499099",
         "planKey": "weekly",
@@ -1625,7 +1624,8 @@
         "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC179169101499099&tn=VC179169101499099&cu=INR",
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC179169101499099%26tn%3DVC179169101499099%26cu%3DINR",
         "createdAt": "2026-10-11T03:56:54.990Z"
-      }
+      },
+      "keyboardCleared": false
     },
     "6976365330": {
       "telegramId": "6976365330",
@@ -1669,7 +1669,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "7861204823": {
       "telegramId": "7861204823",
@@ -1713,7 +1714,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8330120823": {
       "telegramId": "8330120823",
@@ -1757,7 +1759,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8967626693": {
       "telegramId": "8967626693",
@@ -1801,7 +1804,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8309543074": {
       "telegramId": "8309543074",
@@ -1818,7 +1822,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 879,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -1845,7 +1849,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "5337166443": {
       "telegramId": "5337166443",
@@ -1889,10 +1894,65 @@
         ],
         "page": 0
       },
+      "activePaymentOrder": null,
+      "keyboardCleared": false
+    },
+    "7452294925": {
+      "telegramId": "7452294925",
+      "username": "suraj3024",
+      "firstName": "Suraj",
+      "joinedAt": "2026-10-11T06:10:48.074Z",
+      "lastActiveAt": "2026-10-11T06:12:03.921Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 902,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "6206050068",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
       "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791699109357-i5fgo",
+      "telegramId": "7452294925",
+      "username": "suraj3024",
+      "serviceType": "number_info",
+      "query": "6206050068",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T06:11:49.357Z"
+    },
     {
       "id": "1791696984605-vp3dw",
       "telegramId": "5337166443",

@@ -1331,18 +1331,18 @@
       "username": "",
       "firstName": "Yadav ji",
       "joinedAt": "2026-10-10T17:03:27.560Z",
-      "lastActiveAt": "2026-10-11T18:55:25.550Z",
+      "lastActiveAt": "2026-10-11T19:10:23.251Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
       "dailySearchCount": 1,
-      "totalLookups": 7,
+      "totalLookups": 9,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-18T11:26:10.951Z",
       "awaitingInput": null,
-      "lastBotMessageId": 951,
+      "lastBotMessageId": 1111,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -2886,6 +2886,26 @@
     }
   },
   "history": [
+    {
+      "id": "1791745824636-f4sg9",
+      "telegramId": "7639119817",
+      "username": "Yadav ji",
+      "serviceType": "number_info",
+      "query": "9213175217",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T19:10:24.636Z"
+    },
+    {
+      "id": "1791745758461-b85tu",
+      "telegramId": "7639119817",
+      "username": "Yadav ji",
+      "serviceType": "number_info",
+      "query": "9213175217",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T19:09:18.461Z"
+    },
     {
       "id": "1791744928270-jipmg",
       "telegramId": "7639119817",

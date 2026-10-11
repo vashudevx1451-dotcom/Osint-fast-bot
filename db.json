@@ -678,7 +678,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC179163892402658%26tn%3DVC179163892402658%26cu%3DINR",
         "createdAt": "2026-10-10T13:28:44.026Z"
       },
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8216594601": {
       "telegramId": "8216594601",
@@ -1353,7 +1353,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "5136695791": {
       "telegramId": "5136695791",
@@ -1412,7 +1413,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8530371631": {
       "telegramId": "8530371631",
@@ -1456,7 +1458,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8944120860": {
       "telegramId": "8944120860",
@@ -1473,7 +1476,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 783,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -1500,7 +1503,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8264924435": {
       "telegramId": "8264924435",
@@ -1517,12 +1521,13 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 795,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8047324570": {
       "telegramId": "8047324570",
@@ -1566,7 +1571,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "7678379747": {
       "telegramId": "7678379747",
@@ -1610,7 +1616,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     }
   },
   "history": [

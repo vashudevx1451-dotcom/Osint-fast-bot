@@ -2741,9 +2741,95 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791737590462800%26tn%3DVC1791737590462800%26cu%3DINR",
         "createdAt": "2026-10-11T16:53:10.462Z"
       }
+    },
+    "6323061716": {
+      "telegramId": "6323061716",
+      "username": "",
+      "firstName": "Yash",
+      "joinedAt": "2026-10-11T17:06:13.044Z",
+      "lastActiveAt": "2026-10-11T17:07:54.481Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1092,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8178828291",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
+    "8935845185": {
+      "telegramId": "8935845185",
+      "username": "",
+      "firstName": "Sizuka",
+      "joinedAt": "2026-10-11T17:08:12.737Z",
+      "lastActiveAt": "2026-10-11T17:08:12.739Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": null,
+      "lastBotMessageIsPhoto": false,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791738476366-btmtp",
+      "telegramId": "6323061716",
+      "username": "Yash",
+      "serviceType": "number_info",
+      "query": "8178828291",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T17:07:56.366Z"
+    },
+    {
+      "id": "1791738443572-6guaq",
+      "telegramId": "6323061716",
+      "username": "Yash",
+      "serviceType": "number_info",
+      "query": "8178828291",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T17:07:23.572Z"
+    },
     {
       "id": "1791735470379-1g80w",
       "telegramId": "2025629580",

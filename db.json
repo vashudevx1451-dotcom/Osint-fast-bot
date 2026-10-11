@@ -1714,9 +1714,137 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8330120823": {
+      "telegramId": "8330120823",
+      "username": "Chandel_0_1956",
+      "firstName": "Naughty",
+      "joinedAt": "2026-10-11T04:33:39.925Z",
+      "lastActiveAt": "2026-10-11T04:35:36.736Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 867,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7310638075",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
+    "8967626693": {
+      "telegramId": "8967626693",
+      "username": "",
+      "firstName": "Mayank",
+      "joinedAt": "2026-10-11T04:36:48.828Z",
+      "lastActiveAt": "2026-10-11T04:37:35.487Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 873,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7310638075",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791693457543-e9vvf",
+      "telegramId": "8967626693",
+      "username": "Mayank",
+      "serviceType": "number_info",
+      "query": "7310638075",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T04:37:37.543Z"
+    },
+    {
+      "id": "1791693338503-g7d0o",
+      "telegramId": "8330120823",
+      "username": "Chandel_0_1956",
+      "serviceType": "number_info",
+      "query": "7310638075",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T04:35:38.503Z"
+    },
+    {
+      "id": "1791693303704-fttiy",
+      "telegramId": "8330120823",
+      "username": "Chandel_0_1956",
+      "serviceType": "number_info",
+      "query": "8239192780",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T04:35:03.704Z"
+    },
+    {
+      "id": "1791693260131-tad58",
+      "telegramId": "8330120823",
+      "username": "Chandel_0_1956",
+      "serviceType": "number_info",
+      "query": "7665256521",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T04:34:20.132Z"
+    },
     {
       "id": "1791692223212-jvb9a",
       "telegramId": "7861204823",

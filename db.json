@@ -2079,25 +2079,77 @@
       "username": "EGOxPoritosh",
       "firstName": "Poritosh",
       "joinedAt": "2026-10-11T08:38:35.406Z",
-      "lastActiveAt": "2026-10-11T08:38:47.424Z",
+      "lastActiveAt": "2026-10-11T08:40:49.694Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
-      "dailySearchCount": 0,
-      "totalLookups": 0,
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 931,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
-      "lastLookupSession": null,
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9907772430",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
       "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791708023602-ej8i1",
+      "telegramId": "8701120919",
+      "username": "EGOxPoritosh",
+      "serviceType": "number_info",
+      "query": "9907772430",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T08:40:23.602Z"
+    },
+    {
+      "id": "1791708005139-vyppf",
+      "telegramId": "8701120919",
+      "username": "EGOxPoritosh",
+      "serviceType": "number_info",
+      "query": "9907772430",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T08:40:05.139Z"
+    },
+    {
+      "id": "1791707959802-kd95m",
+      "telegramId": "8701120919",
+      "username": "EGOxPoritosh",
+      "serviceType": "number_info",
+      "query": "7029207739",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T08:39:19.802Z"
+    },
     {
       "id": "1791707153715-iacs9",
       "telegramId": "8849397506",

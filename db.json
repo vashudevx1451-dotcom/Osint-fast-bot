@@ -247,7 +247,7 @@
       "username": "Uhtkarshh",
       "firstName": "Uhtkarsh",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-11T04:17:23.118Z",
+      "lastActiveAt": "2026-10-11T11:42:49.682Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
@@ -294,7 +294,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791637213921113%26tn%3DVC1791637213921113%26cu%3DINR",
         "createdAt": "2026-10-10T13:00:13.921Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8968071078": {
       "telegramId": "8968071078",
@@ -1240,12 +1240,12 @@
       "username": "",
       "firstName": "Yadav ji",
       "joinedAt": "2026-10-10T17:03:27.560Z",
-      "lastActiveAt": "2026-10-11T11:26:32.687Z",
+      "lastActiveAt": "2026-10-11T11:43:32.370Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
       "dailySearchCount": 1,
-      "totalLookups": 4,
+      "totalLookups": 5,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -1256,7 +1256,7 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9212170966",
+        "query": "9213175217",
         "records": [
           {
             "name": "Unknown",
@@ -2260,6 +2260,16 @@
     }
   },
   "history": [
+    {
+      "id": "1791719014673-9m9sb",
+      "telegramId": "7639119817",
+      "username": "Yadav ji",
+      "serviceType": "number_info",
+      "query": "9213175217",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T11:43:34.673Z"
+    },
     {
       "id": "1791718353748-crkri",
       "telegramId": "6338918086",

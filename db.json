@@ -1594,17 +1594,17 @@
       "username": "",
       "firstName": "Pranjal",
       "joinedAt": "2026-10-11T03:49:07.803Z",
-      "lastActiveAt": "2026-10-11T03:51:08.479Z",
+      "lastActiveAt": "2026-10-11T03:57:20.187Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
-      "dailySearchCount": 1,
-      "totalLookups": 1,
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 835,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -1631,7 +1631,17 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "keyboardCleared": true,
+      "activePaymentOrder": {
+        "orderId": "VC179169101499099",
+        "planKey": "weekly",
+        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
+        "amount": 1,
+        "days": 7,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC179169101499099&tn=VC179169101499099&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC179169101499099%26tn%3DVC179169101499099%26cu%3DINR",
+        "createdAt": "2026-10-11T03:56:54.990Z"
+      }
     },
     "6976365330": {
       "telegramId": "6976365330",
@@ -1679,6 +1689,26 @@
     }
   },
   "history": [
+    {
+      "id": "1791690938120-9ve0d",
+      "telegramId": "8729620894",
+      "username": "Pranjal",
+      "serviceType": "number_info",
+      "query": "7307760617",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T03:55:38.120Z"
+    },
+    {
+      "id": "1791690914312-k6reu",
+      "telegramId": "8729620894",
+      "username": "Pranjal",
+      "serviceType": "number_info",
+      "query": "9198367559",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-11T03:55:14.312Z"
+    },
     {
       "id": "1791690678261-qq4dx",
       "telegramId": "6976365330",

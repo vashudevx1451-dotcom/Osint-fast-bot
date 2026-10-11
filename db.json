@@ -2205,6 +2205,28 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true
+    },
+    "7426469852": {
+      "telegramId": "7426469852",
+      "username": "ustad_gaddar",
+      "firstName": "Subhan",
+      "joinedAt": "2026-10-11T10:50:59.804Z",
+      "lastActiveAt": "2026-10-11T10:51:35.113Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-11",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 947,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

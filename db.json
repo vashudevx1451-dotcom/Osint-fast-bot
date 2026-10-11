@@ -179,7 +179,7 @@
       "username": "",
       "firstName": "Piyush",
       "joinedAt": "2026-10-11T15:16:33.212Z",
-      "lastActiveAt": "2026-10-11T15:18:00.587Z",
+      "lastActiveAt": "2026-10-11T15:18:32.641Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
@@ -190,7 +190,7 @@
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 1054,
+      "lastBotMessageId": null,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -1194,7 +1194,7 @@
       "username": "Saurabh_Kumar_Tiwari_OG",
       "firstName": "Kiyotaka",
       "joinedAt": "2026-10-10T16:12:04.139Z",
-      "lastActiveAt": "2026-10-11T02:31:59.168Z",
+      "lastActiveAt": "2026-10-11T15:23:29.749Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-11",
@@ -1205,7 +1205,7 @@
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 826,
+      "lastBotMessageId": 1061,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -1232,7 +1232,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8586435190": {
       "telegramId": "8586435190",

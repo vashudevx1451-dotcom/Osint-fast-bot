@@ -26,7 +26,8 @@
     "verifiedOrderIds": [
       "VC1791536182347733",
       "VC179168564565718",
-      "VC179171794763253"
+      "VC179171794763253",
+      "VC1791829085994134"
     ],
     "cachedBannerFileId": "AgACAgUAAxkDAAIDNGrK9AFl2_FeFzmxCEGmUeIH7FnHAAKCIGsbWFRQVhFr-OcpgLTlAQADAgADdwADPQQ",
     "customBannerImageUrl": "https://i.postimg.cc/SRzDjNSF/file-00000000c93c81f59120e3d4cda69e4c.png",
@@ -126,7 +127,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "809722182": {
       "telegramId": "809722182",
@@ -182,6 +184,52 @@
       },
       "keyboardCleared": false
     },
+    "951800603": {
+      "telegramId": "951800603",
+      "username": "",
+      "firstName": "MD",
+      "joinedAt": "2026-10-12T18:17:49.216Z",
+      "lastActiveAt": "2026-10-12T18:23:39.773Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 0,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": "2026-10-19T18:19:25.429Z",
+      "awaitingInput": null,
+      "lastBotMessageId": 1376,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9546689372",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9546689372",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true,
+      "activePaymentOrder": null
+    },
     "1387017095": {
       "telegramId": "1387017095",
       "username": "",
@@ -225,7 +273,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "1408776543": {
       "telegramId": "1408776543",
@@ -2886,7 +2935,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8836183063": {
       "telegramId": "8836183063",
@@ -3447,7 +3496,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8810387173": {
       "telegramId": "8810387173",
@@ -3777,7 +3826,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8706423434": {
       "telegramId": "8706423434",
@@ -3822,7 +3872,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8254214306": {
       "telegramId": "8254214306",
@@ -3844,7 +3895,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "7275943377": {
       "telegramId": "7275943377",
@@ -3889,7 +3941,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8936963396": {
       "telegramId": "8936963396",
@@ -3911,7 +3964,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8611567579": {
       "telegramId": "8611567579",
@@ -3933,7 +3987,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8975411446": {
       "telegramId": "8975411446",
@@ -3978,7 +4033,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "6454273877": {
       "telegramId": "6454273877",
@@ -4000,7 +4056,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8924857870": {
       "telegramId": "8924857870",
@@ -4017,12 +4074,13 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1348,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "7311892766": {
       "telegramId": "7311892766",
@@ -4067,7 +4125,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8485523041": {
       "telegramId": "8485523041",
@@ -4112,10 +4171,41 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     }
   },
   "history": [
+    {
+      "id": "1791829404809-z9jzv",
+      "telegramId": "951800603",
+      "username": "MD",
+      "serviceType": "number_info",
+      "query": "9546689372",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T18:23:24.809Z"
+    },
+    {
+      "id": "1791829294975-qioaz",
+      "telegramId": "951800603",
+      "username": "MD",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T18:21:34.975Z"
+    },
+    {
+      "id": "1791829192727-vkv2y",
+      "telegramId": "951800603",
+      "username": "MD",
+      "serviceType": "number_info",
+      "query": "7004451491",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T18:19:52.727Z"
+    },
     {
       "id": "1791825910069-x68y2",
       "telegramId": "8485523041",
@@ -6085,36 +6175,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T12:27:50.607Z"
-    },
-    {
-      "id": "1791634415815-pxu0y",
-      "telegramId": "8836636372",
-      "username": "Rota_hu",
-      "serviceType": "number_info",
-      "query": "7900786941",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T12:13:35.815Z"
-    },
-    {
-      "id": "1791619180021-dd44q",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "8252464080",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T07:59:40.021Z"
-    },
-    {
-      "id": "1791591300300-8fuj2",
-      "telegramId": "7995520431",
-      "username": "Vashubhaiii",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 2,
-      "timestamp": "2026-10-10T00:15:00.300Z"
     }
   ]
 }

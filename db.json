@@ -3147,9 +3147,73 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791780854188452%26tn%3DVC1791780854188452%26cu%3DINR",
         "createdAt": "2026-10-12T04:54:14.188Z"
       }
+    },
+    "8138672923": {
+      "telegramId": "8138672923",
+      "username": "Tp233233",
+      "firstName": "T",
+      "joinedAt": "2026-10-12T05:58:15.694Z",
+      "lastActiveAt": "2026-10-12T05:59:22.189Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1180,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9346782826",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791784754171-wcccb",
+      "telegramId": "8138672923",
+      "username": "Tp233233",
+      "serviceType": "number_info",
+      "query": "9346782826",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T05:59:14.171Z"
+    },
+    {
+      "id": "1791784739288-053qr",
+      "telegramId": "8138672923",
+      "username": "Tp233233",
+      "serviceType": "number_info",
+      "query": "9394595913",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T05:58:59.288Z"
+    },
     {
       "id": "1791781344028-047ad",
       "telegramId": "8836636372",

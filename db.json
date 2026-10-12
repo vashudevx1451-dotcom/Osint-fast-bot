@@ -3049,9 +3049,63 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8980074150": {
+      "telegramId": "8980074150",
+      "username": "",
+      "firstName": "Kumar",
+      "joinedAt": "2026-10-12T04:02:38.563Z",
+      "lastActiveAt": "2026-10-12T04:03:47.239Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1166,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7764071716",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791777806344-cjk0g",
+      "telegramId": "8980074150",
+      "username": "Kumar",
+      "serviceType": "number_info",
+      "query": "7764071716",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T04:03:26.344Z"
+    },
     {
       "id": "1791776422419-7vej9",
       "telegramId": "7639119817",

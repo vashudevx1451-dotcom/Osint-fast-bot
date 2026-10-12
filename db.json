@@ -653,7 +653,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8066965283": {
       "telegramId": "8066965283",
@@ -1332,7 +1332,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8586435190": {
       "telegramId": "8586435190",
@@ -1423,7 +1423,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "7048834406": {
       "telegramId": "7048834406",
@@ -1935,7 +1935,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8967626693": {
       "telegramId": "8967626693",
@@ -3048,7 +3048,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8980074150": {
       "telegramId": "8980074150",
@@ -3065,7 +3066,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1166,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -3092,7 +3093,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8306165476": {
       "telegramId": "8306165476",
@@ -3136,7 +3138,6 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true,
       "activePaymentOrder": {
         "orderId": "VC1791780854188452",
         "planKey": "weekly",
@@ -3146,7 +3147,8 @@
         "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791780854188452&tn=VC1791780854188452&cu=INR",
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791780854188452%26tn%3DVC1791780854188452%26cu%3DINR",
         "createdAt": "2026-10-12T04:54:14.188Z"
-      }
+      },
+      "keyboardCleared": false
     },
     "8138672923": {
       "telegramId": "8138672923",
@@ -3190,6 +3192,29 @@
         ],
         "page": 0
       },
+      "activePaymentOrder": null,
+      "keyboardCleared": false
+    },
+    "8670372021": {
+      "telegramId": "8670372021",
+      "username": "",
+      "firstName": "Himanshu",
+      "joinedAt": "2026-10-12T06:19:18.342Z",
+      "lastActiveAt": "2026-10-12T06:19:29.892Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1185,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
       "keyboardCleared": true
     }
   },

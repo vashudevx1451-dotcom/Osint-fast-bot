@@ -226,7 +226,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "1772821518": {
       "telegramId": "1772821518",
@@ -485,7 +486,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791637213921113%26tn%3DVC1791637213921113%26cu%3DINR",
         "createdAt": "2026-10-10T13:00:13.921Z"
       },
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8968071078": {
       "telegramId": "8968071078",
@@ -1470,7 +1471,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "7048834406": {
       "telegramId": "7048834406",
@@ -3308,7 +3309,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "6783862138": {
       "telegramId": "6783862138",
@@ -3325,7 +3327,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1214,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -3353,7 +3355,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8810387173": {
       "telegramId": "8810387173",
@@ -3370,12 +3373,13 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1230,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "8931696518": {
       "telegramId": "8931696518",
@@ -3420,7 +3424,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "5533249911": {
       "telegramId": "5533249911",
@@ -3442,7 +3447,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "7738123760": {
       "telegramId": "7738123760",
@@ -3487,7 +3493,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "7486531218": {
       "telegramId": "7486531218",
@@ -3532,7 +3539,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "5985640556": {
       "telegramId": "5985640556",
@@ -3577,7 +3585,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "6709466623": {
       "telegramId": "6709466623",
@@ -3622,7 +3631,6 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true,
       "activePaymentOrder": {
         "orderId": "VC1791806469258832",
         "planKey": "lifetime",
@@ -3632,7 +3640,8 @@
         "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=99&tr=VC1791806469258832&tn=VC1791806469258832&cu=INR",
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D99%26tr%3DVC1791806469258832%26tn%3DVC1791806469258832%26cu%3DINR",
         "createdAt": "2026-10-12T12:01:09.258Z"
-      }
+      },
+      "keyboardCleared": false
     }
   },
   "history": [

@@ -615,12 +615,12 @@
       "username": "Rota_hu",
       "firstName": "𝙎𝙖𝙣𝙖𝙢🌕🧧",
       "joinedAt": "2026-10-10T12:13:14.486Z",
-      "lastActiveAt": "2026-10-11T20:54:47.132Z",
+      "lastActiveAt": "2026-10-12T05:02:29.394Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-11",
+      "dailySearchDate": "2026-10-12",
       "dailySearchCount": 3,
-      "totalLookups": 6,
+      "totalLookups": 9,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -653,7 +653,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8066965283": {
       "telegramId": "8066965283",
@@ -3099,12 +3099,12 @@
       "username": "",
       "firstName": "Ramdev",
       "joinedAt": "2026-10-12T04:51:19.945Z",
-      "lastActiveAt": "2026-10-12T04:54:23.341Z",
+      "lastActiveAt": "2026-10-12T04:55:15.233Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-12",
-      "dailySearchCount": 1,
-      "totalLookups": 1,
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -3112,10 +3112,10 @@
       "awaitingInput": null,
       "lastBotMessageId": 1170,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "dynamic_qr",
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "7257905084",
+        "query": "7739059996",
         "records": [
           {
             "name": "Unknown",
@@ -3150,6 +3150,56 @@
     }
   },
   "history": [
+    {
+      "id": "1791781344028-047ad",
+      "telegramId": "8836636372",
+      "username": "Rota_hu",
+      "serviceType": "number_info",
+      "query": "9002264167",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T05:02:24.028Z"
+    },
+    {
+      "id": "1791781327462-hqv38",
+      "telegramId": "8836636372",
+      "username": "Rota_hu",
+      "serviceType": "number_info",
+      "query": "9002264167",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T05:02:07.462Z"
+    },
+    {
+      "id": "1791781296848-bdw4d",
+      "telegramId": "8836636372",
+      "username": "Rota_hu",
+      "serviceType": "number_info",
+      "query": "9242497116",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T05:01:36.848Z"
+    },
+    {
+      "id": "1791780917022-645i0",
+      "telegramId": "8306165476",
+      "username": "Ramdev",
+      "serviceType": "number_info",
+      "query": "7739059996",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T04:55:17.022Z"
+    },
+    {
+      "id": "1791780904786-b93r9",
+      "telegramId": "8306165476",
+      "username": "Ramdev",
+      "serviceType": "number_info",
+      "query": "7782938962",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T04:55:04.786Z"
+    },
     {
       "id": "1791780742796-dfemu",
       "telegramId": "8306165476",

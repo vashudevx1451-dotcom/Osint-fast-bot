@@ -6,7 +6,7 @@
       "7247666284",
       "6672896116"
     ],
-    "numberApiUrl": "https://jgvicvhgfwcfndgookul.supabase.co/functions/v1/bot-api?key=Demo&tool=aadhar&term=",
+    "numberApiUrl": "https://ftosint.world/api/number?key=free7days&num={query}",
     "aadhaarApiUrl": "http://rajfflivebot.onrender.com/pub/rajfflive/adhar?adhar={query}&key=RAJBOTSOFC",
     "aadhaarComingSoon": true,
     "forceJoinEnabled": false,
@@ -437,12 +437,12 @@
       "username": "Uhtkarshh",
       "firstName": "Uhtkarsh",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-12T08:33:43.256Z",
+      "lastActiveAt": "2026-10-12T10:20:50.510Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-12",
       "dailySearchCount": 0,
-      "totalLookups": 25,
+      "totalLookups": 26,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -468,8 +468,8 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "error": "Required: key, tool, term",
-              "note": "DM to buy"
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
             }
           }
         ],
@@ -3491,6 +3491,16 @@
     }
   },
   "history": [
+    {
+      "id": "1791800451266-qcvmc",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T10:20:51.266Z"
+    },
     {
       "id": "1791799495043-vwn8g",
       "telegramId": "7738123760",

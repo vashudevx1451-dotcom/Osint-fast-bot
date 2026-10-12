@@ -1294,28 +1294,28 @@
       "username": "Saurabh_Kumar_Tiwari_OG",
       "firstName": "Kiyotaka",
       "joinedAt": "2026-10-10T16:12:04.139Z",
-      "lastActiveAt": "2026-10-11T23:39:42.298Z",
+      "lastActiveAt": "2026-10-12T01:34:14.852Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-11",
+      "dailySearchDate": "2026-10-12",
       "dailySearchCount": 3,
-      "totalLookups": 6,
+      "totalLookups": 9,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 1147,
+      "lastBotMessageId": 1150,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8604606064",
+        "query": "8604604064",
         "records": [
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "8604606064",
+            "phone": "[object Object]",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -1325,14 +1325,14 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "error": "Invalid or expired API key"
+              "error": "Invalid API key. Contact the developer below for help."
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8586435190": {
       "telegramId": "8586435190",
@@ -3008,6 +3008,36 @@
     }
   },
   "history": [
+    {
+      "id": "1791768856830-usccw",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8604604064",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T01:34:16.830Z"
+    },
+    {
+      "id": "1791768833373-5cla4",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8000796117",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T01:33:53.373Z"
+    },
+    {
+      "id": "1791768807493-y2ybl",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8000796117",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T01:33:27.493Z"
+    },
     {
       "id": "1791753313744-azcqr",
       "telegramId": "809722182",

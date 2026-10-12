@@ -3331,9 +3331,74 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true
+    },
+    "8931696518": {
+      "telegramId": "8931696518",
+      "username": "A92O11",
+      "firstName": "Zeww.evll /~🤎",
+      "joinedAt": "2026-10-12T08:52:37.375Z",
+      "lastActiveAt": "2026-10-12T08:53:46.510Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1234,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9733481194",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9733481194",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Required: key, tool, term",
+              "note": "DM to buy"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791795224247-mr1u6",
+      "telegramId": "8931696518",
+      "username": "A92O11",
+      "serviceType": "number_info",
+      "query": "9733481194",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T08:53:44.247Z"
+    },
+    {
+      "id": "1791795208803-lgzqb",
+      "telegramId": "8931696518",
+      "username": "A92O11",
+      "serviceType": "number_info",
+      "query": "9733481194",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T08:53:28.803Z"
+    },
     {
       "id": "1791793991987-z71oi",
       "telegramId": "6672896116",

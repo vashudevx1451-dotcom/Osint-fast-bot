@@ -1385,12 +1385,12 @@
       "username": "",
       "firstName": "Yadav ji",
       "joinedAt": "2026-10-10T17:03:27.560Z",
-      "lastActiveAt": "2026-10-11T19:10:23.251Z",
+      "lastActiveAt": "2026-10-12T03:40:20.070Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-11",
-      "dailySearchCount": 1,
-      "totalLookups": 9,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 0,
+      "totalLookups": 10,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -1423,7 +1423,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "7048834406": {
       "telegramId": "7048834406",
@@ -3052,6 +3052,16 @@
     }
   },
   "history": [
+    {
+      "id": "1791776422419-7vej9",
+      "telegramId": "7639119817",
+      "username": "Yadav ji",
+      "serviceType": "number_info",
+      "query": "9213175217",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T03:40:22.419Z"
+    },
     {
       "id": "1791771692421-gnjqq",
       "telegramId": "8616020044",

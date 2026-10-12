@@ -83,6 +83,51 @@
     "qrPhotoFileId": "AgACAgUAAxkBAAPNascn_Nyf5qxQhgy0GKx9ccSvgnwAAl4SaxvQUzlWQtHofgl0o5YBAAMCAAN4AAM9BA"
   },
   "users": {
+    "415183931": {
+      "telegramId": "415183931",
+      "username": "DmKharchenko",
+      "firstName": "Dmytro",
+      "joinedAt": "2026-10-12T12:29:04.714Z",
+      "lastActiveAt": "2026-10-12T12:30:09.960Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1282,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "0935499565",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "0935499565",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
     "809722182": {
       "telegramId": "809722182",
       "username": "",
@@ -3645,6 +3690,16 @@
     }
   },
   "history": [
+    {
+      "id": "1791808211050-vcj57",
+      "telegramId": "415183931",
+      "username": "DmKharchenko",
+      "serviceType": "number_info",
+      "query": "0935499565",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T12:30:11.050Z"
+    },
     {
       "id": "1791806402572-yqxfj",
       "telegramId": "6709466623",

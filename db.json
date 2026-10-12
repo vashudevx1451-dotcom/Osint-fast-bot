@@ -3732,9 +3732,84 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8706423434": {
+      "telegramId": "8706423434",
+      "username": "",
+      "firstName": "ㅤㅤ.",
+      "joinedAt": "2026-10-12T13:01:27.401Z",
+      "lastActiveAt": "2026-10-12T13:02:53.707Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1298,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9667075166",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9667075166",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791810174842-qdbyb",
+      "telegramId": "8706423434",
+      "username": "ㅤㅤ.",
+      "serviceType": "number_info",
+      "query": "9667075166",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T13:02:54.842Z"
+    },
+    {
+      "id": "1791810166560-sour1",
+      "telegramId": "8706423434",
+      "username": "ㅤㅤ.",
+      "serviceType": "number_info",
+      "query": "8595901970",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T13:02:46.560Z"
+    },
+    {
+      "id": "1791810149372-9auco",
+      "telegramId": "8706423434",
+      "username": "ㅤㅤ.",
+      "serviceType": "number_info",
+      "query": "8595901970",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T13:02:29.372Z"
+    },
     {
       "id": "1791809555902-z1y5y",
       "telegramId": "6857524427",

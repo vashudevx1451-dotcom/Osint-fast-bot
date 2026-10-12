@@ -1895,10 +1895,10 @@
       "username": "",
       "firstName": "Sathi",
       "joinedAt": "2026-10-10T23:15:12.005Z",
-      "lastActiveAt": "2026-10-11T18:39:24.461Z",
+      "lastActiveAt": "2026-10-12T18:51:03.718Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-11",
+      "dailySearchDate": "2026-10-12",
       "dailySearchCount": 0,
       "totalLookups": 3,
       "referredBy": null,
@@ -1908,7 +1908,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 808,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "qr",
+      "lastBotPhotoKind": "dynamic_qr",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "8750561625",
@@ -1932,7 +1932,16 @@
         ],
         "page": 0
       },
-      "activePaymentOrder": null,
+      "activePaymentOrder": {
+        "orderId": "VC1791831064267466",
+        "planKey": "weekly",
+        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
+        "amount": 1,
+        "days": 7,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791831064267466&tn=VC1791831064267466&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791831064267466%26tn%3DVC1791831064267466%26cu%3DINR",
+        "createdAt": "2026-10-12T18:51:04.267Z"
+      },
       "keyboardCleared": false
     },
     "8729620894": {

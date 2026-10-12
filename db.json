@@ -3309,6 +3309,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8810387173": {
+      "telegramId": "8810387173",
+      "username": "Kayfiyat000",
+      "firstName": "А.",
+      "joinedAt": "2026-10-12T08:39:04.574Z",
+      "lastActiveAt": "2026-10-12T08:39:47.343Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1230,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

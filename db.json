@@ -183,6 +183,51 @@
       "activePaymentOrder": null,
       "keyboardCleared": false
     },
+    "1738253610": {
+      "telegramId": "1738253610",
+      "username": "ri_pnkj",
+      "firstName": "Pnkj",
+      "joinedAt": "2026-10-12T09:19:22.754Z",
+      "lastActiveAt": "2026-10-12T09:20:38.687Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1240,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9286067134",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9286067134",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Required: key, tool, term",
+              "note": "DM to buy"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
     "1772821518": {
       "telegramId": "1772821518",
       "username": "",
@@ -3379,6 +3424,16 @@
     }
   },
   "history": [
+    {
+      "id": "1791796839836-xef8t",
+      "telegramId": "1738253610",
+      "username": "ri_pnkj",
+      "serviceType": "number_info",
+      "query": "9286067134",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T09:20:39.836Z"
+    },
     {
       "id": "1791795232062-9ta7a",
       "telegramId": "8931696518",

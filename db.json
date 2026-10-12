@@ -3978,9 +3978,118 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "6454273877": {
+      "telegramId": "6454273877",
+      "username": "",
+      "firstName": ".",
+      "joinedAt": "2026-10-12T15:48:47.920Z",
+      "lastActiveAt": "2026-10-12T15:52:37.811Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1337,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
+    },
+    "8924857870": {
+      "telegramId": "8924857870",
+      "username": "",
+      "firstName": "Md",
+      "joinedAt": "2026-10-12T15:49:14.487Z",
+      "lastActiveAt": "2026-10-12T15:51:59.425Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1348,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
+    },
+    "7311892766": {
+      "telegramId": "7311892766",
+      "username": "",
+      "firstName": "Aman",
+      "joinedAt": "2026-10-12T15:55:17.917Z",
+      "lastActiveAt": "2026-10-12T15:56:16.760Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1352,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9431007087",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9431007087",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791820577858-4i7z0",
+      "telegramId": "7311892766",
+      "username": "Aman",
+      "serviceType": "number_info",
+      "query": "9431007087",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T15:56:17.858Z"
+    },
+    {
+      "id": "1791820558837-fwpcv",
+      "telegramId": "7311892766",
+      "username": "Aman",
+      "serviceType": "number_info",
+      "query": "9525367214",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T15:55:58.837Z"
+    },
     {
       "id": "1791818542489-8ktn7",
       "telegramId": "8975411446",
@@ -5960,26 +6069,6 @@
       "status": "success",
       "recordCount": 2,
       "timestamp": "2026-10-09T16:56:55.928Z"
-    },
-    {
-      "id": "1791564808545-m5y62",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 2,
-      "timestamp": "2026-10-09T16:53:28.545Z"
-    },
-    {
-      "id": "1791563942155-fa0n6",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "8252464080",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-09T16:39:02.155Z"
     }
   ]
 }

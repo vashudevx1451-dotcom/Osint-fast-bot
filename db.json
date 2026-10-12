@@ -1897,12 +1897,12 @@
       "username": "Chandel_0_1956",
       "firstName": "Naughty",
       "joinedAt": "2026-10-11T04:33:39.925Z",
-      "lastActiveAt": "2026-10-11T16:42:35.711Z",
+      "lastActiveAt": "2026-10-12T01:53:10.989Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-11",
-      "dailySearchCount": 3,
-      "totalLookups": 3,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 2,
+      "totalLookups": 5,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -1913,7 +1913,7 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "7310638075",
+        "query": "8053943821",
         "records": [
           {
             "name": "Unknown",
@@ -1935,7 +1935,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8967626693": {
       "telegramId": "8967626693",
@@ -3008,6 +3008,26 @@
     }
   },
   "history": [
+    {
+      "id": "1791769992301-w00y6",
+      "telegramId": "8330120823",
+      "username": "Chandel_0_1956",
+      "serviceType": "number_info",
+      "query": "8053943821",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T01:53:12.301Z"
+    },
+    {
+      "id": "1791769988460-17rpk",
+      "telegramId": "8330120823",
+      "username": "Chandel_0_1956",
+      "serviceType": "number_info",
+      "query": "8053943821",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T01:53:08.460Z"
+    },
     {
       "id": "1791768856830-usccw",
       "telegramId": "8926917947",

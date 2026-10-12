@@ -2845,14 +2845,14 @@
     "8963175300": {
       "telegramId": "8963175300",
       "username": "",
-      "firstName": "PRAKas",
+      "firstName": "Sam",
       "joinedAt": "2026-10-11T16:00:55.281Z",
-      "lastActiveAt": "2026-10-11T16:01:40.640Z",
+      "lastActiveAt": "2026-10-12T16:14:21.762Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-11",
+      "dailySearchDate": "2026-10-12",
       "dailySearchCount": 2,
-      "totalLookups": 2,
+      "totalLookups": 4,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -2863,12 +2863,12 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "6372069928",
+        "query": "8077594408",
         "records": [
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "[object Object]",
+            "phone": "8077594408",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -2878,14 +2878,15 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "error": "Invalid API key. Contact the developer below for help."
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8836183063": {
       "telegramId": "8836183063",
@@ -4070,6 +4071,26 @@
     }
   },
   "history": [
+    {
+      "id": "1791821663010-er55q",
+      "telegramId": "8963175300",
+      "username": "Sam",
+      "serviceType": "number_info",
+      "query": "8077594408",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T16:14:23.010Z"
+    },
+    {
+      "id": "1791821643682-j7xhs",
+      "telegramId": "8963175300",
+      "username": "Sam",
+      "serviceType": "number_info",
+      "query": "8077594408",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T16:14:03.682Z"
+    },
     {
       "id": "1791820577858-4i7z0",
       "telegramId": "7311892766",
@@ -6049,26 +6070,6 @@
       "status": "success",
       "recordCount": 2,
       "timestamp": "2026-10-10T00:14:16.484Z"
-    },
-    {
-      "id": "1791565034469-7m219",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 2,
-      "timestamp": "2026-10-09T16:57:14.469Z"
-    },
-    {
-      "id": "1791565015928-ybm9x",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 2,
-      "timestamp": "2026-10-09T16:56:55.928Z"
     }
   ]
 }

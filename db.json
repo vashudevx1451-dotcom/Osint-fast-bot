@@ -3799,6 +3799,28 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true
+    },
+    "7275943377": {
+      "telegramId": "7275943377",
+      "username": "immuzammil",
+      "firstName": "💀 𝙼ᴜᴢᴀᴍᴍɪʟʟ 𝙲ᴏᴅᴇʀ! ☠️💠",
+      "joinedAt": "2026-10-12T14:10:53.402Z",
+      "lastActiveAt": "2026-10-12T14:10:53.404Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1309,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

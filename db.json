@@ -3494,25 +3494,78 @@
       "username": "",
       "firstName": "MOHIT",
       "joinedAt": "2026-10-12T10:43:32.196Z",
-      "lastActiveAt": "2026-10-12T10:43:46.662Z",
+      "lastActiveAt": "2026-10-12T10:44:25.587Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-12",
-      "dailySearchCount": 0,
-      "totalLookups": 0,
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1261,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
-      "lastLookupSession": null,
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8375867469",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "8375867469",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
       "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791801866710-pszq2",
+      "telegramId": "7486531218",
+      "username": "MOHIT",
+      "serviceType": "number_info",
+      "query": "8375867469",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T10:44:26.710Z"
+    },
+    {
+      "id": "1791801859311-m5k55",
+      "telegramId": "7486531218",
+      "username": "MOHIT",
+      "serviceType": "number_info",
+      "query": "8375867469",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T10:44:19.311Z"
+    },
+    {
+      "id": "1791801833507-ksm0t",
+      "telegramId": "7486531218",
+      "username": "MOHIT",
+      "serviceType": "number_info",
+      "query": "8375867469",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T10:43:53.507Z"
+    },
     {
       "id": "1791800451266-qcvmc",
       "telegramId": "6672896116",

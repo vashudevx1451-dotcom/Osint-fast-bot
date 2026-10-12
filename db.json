@@ -3421,6 +3421,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "5533249911": {
+      "telegramId": "5533249911",
+      "username": "kiIlerdreamhome",
+      "firstName": "ⲕᥱⲃυⲏ | 𓃮",
+      "joinedAt": "2026-10-12T09:31:53.276Z",
+      "lastActiveAt": "2026-10-12T09:32:51.297Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1249,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

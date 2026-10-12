@@ -6,7 +6,7 @@
       "7247666284",
       "6672896116"
     ],
-    "numberApiUrl": "https://devilswillrise.kotakmahindrabank9090.workers.dev/number?key=trial_001&number={query}",
+    "numberApiUrl": "https://jgvicvhgfwcfndgookul.supabase.co/functions/v1/bot-api?key=Demo&tool=aadhar&term=",
     "aadhaarApiUrl": "http://rajfflivebot.onrender.com/pub/rajfflive/adhar?adhar={query}&key=RAJBOTSOFC",
     "aadhaarComingSoon": true,
     "forceJoinEnabled": false,
@@ -392,12 +392,12 @@
       "username": "Uhtkarshh",
       "firstName": "Uhtkarsh",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-12T08:21:53.931Z",
+      "lastActiveAt": "2026-10-12T08:33:43.256Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-12",
       "dailySearchCount": 0,
-      "totalLookups": 22,
+      "totalLookups": 25,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -423,8 +423,8 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "api": "Devils Will Rise",
-              "_powered_by": "Devils Will Rise"
+              "error": "Required: key, tool, term",
+              "note": "DM to buy"
             }
           }
         ],
@@ -3270,7 +3270,7 @@
       "username": "uttamshk",
       "firstName": "Rakesh",
       "joinedAt": "2026-10-12T08:22:57.078Z",
-      "lastActiveAt": "2026-10-12T08:23:27.038Z",
+      "lastActiveAt": "2026-10-12T08:23:48.792Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-12",
@@ -3280,7 +3280,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": null,
+      "awaitingInput": "number",
       "lastBotMessageId": 1214,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -3312,6 +3312,36 @@
     }
   },
   "history": [
+    {
+      "id": "1791793991987-z71oi",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T08:33:11.987Z"
+    },
+    {
+      "id": "1791793927170-g09px",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T08:32:07.170Z"
+    },
+    {
+      "id": "1791793849022-qxk4j",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T08:30:49.022Z"
+    },
     {
       "id": "1791793417983-8ityr",
       "telegramId": "6783862138",

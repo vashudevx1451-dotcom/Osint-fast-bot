@@ -3210,12 +3210,13 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1185,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     }
   },
   "history": [

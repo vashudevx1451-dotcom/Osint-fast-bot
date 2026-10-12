@@ -3005,9 +3005,73 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "8616020044": {
+      "telegramId": "8616020044",
+      "username": "",
+      "firstName": "#siya",
+      "joinedAt": "2026-10-12T02:20:02.711Z",
+      "lastActiveAt": "2026-10-12T02:21:40.262Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1159,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8888626016",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791771692421-gnjqq",
+      "telegramId": "8616020044",
+      "username": "#siya",
+      "serviceType": "number_info",
+      "query": "8888626016",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T02:21:32.421Z"
+    },
+    {
+      "id": "1791771657263-atwwo",
+      "telegramId": "8616020044",
+      "username": "#siya",
+      "serviceType": "number_info",
+      "query": "8080390956",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T02:20:57.263Z"
+    },
     {
       "id": "1791769992301-w00y6",
       "telegramId": "8330120823",

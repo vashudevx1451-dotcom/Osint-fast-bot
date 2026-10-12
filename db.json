@@ -3093,9 +3093,73 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8306165476": {
+      "telegramId": "8306165476",
+      "username": "",
+      "firstName": "Ramdev",
+      "joinedAt": "2026-10-12T04:51:19.945Z",
+      "lastActiveAt": "2026-10-12T04:54:23.341Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-12",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1170,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "dynamic_qr",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7257905084",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "[object Object]",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid API key. Contact the developer below for help."
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true,
+      "activePaymentOrder": {
+        "orderId": "VC1791780854188452",
+        "planKey": "weekly",
+        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
+        "amount": 1,
+        "days": 7,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791780854188452&tn=VC1791780854188452&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791780854188452%26tn%3DVC1791780854188452%26cu%3DINR",
+        "createdAt": "2026-10-12T04:54:14.188Z"
+      }
     }
   },
   "history": [
+    {
+      "id": "1791780742796-dfemu",
+      "telegramId": "8306165476",
+      "username": "Ramdev",
+      "serviceType": "number_info",
+      "query": "7257905084",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T04:52:22.796Z"
+    },
     {
       "id": "1791777806344-cjk0g",
       "telegramId": "8980074150",

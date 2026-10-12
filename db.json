@@ -4188,12 +4188,12 @@
       "username": "alez2003",
       "firstName": "Alex",
       "joinedAt": "2026-10-12T21:51:35.998Z",
-      "lastActiveAt": "2026-10-12T21:57:00.093Z",
+      "lastActiveAt": "2026-10-12T22:03:26.121Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-12",
-      "dailySearchCount": 2,
-      "totalLookups": 2,
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -4204,12 +4204,12 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "4162593591",
+        "query": "4163562579",
         "records": [
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "4162593591",
+            "phone": "4163562579",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -4226,10 +4226,30 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "keyboardCleared": true,
+      "activePaymentOrder": {
+        "orderId": "VC1791842554557980",
+        "planKey": "monthly",
+        "planLabel": "ᴍᴏɴᴛʜʟʏ ᴘʀᴇᴍɪᴜᴍ (30 ᴅᴀʏs)",
+        "amount": 19,
+        "days": 30,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=19&tr=VC1791842554557980&tn=VC1791842554557980&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D19%26tr%3DVC1791842554557980%26tn%3DVC1791842554557980%26cu%3DINR",
+        "createdAt": "2026-10-12T22:02:34.557Z"
+      }
     }
   },
   "history": [
+    {
+      "id": "1791842313007-xlzwt",
+      "telegramId": "7911828552",
+      "username": "alez2003",
+      "serviceType": "number_info",
+      "query": "4163562579",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-12T21:58:33.007Z"
+    },
     {
       "id": "1791842221121-rcd3i",
       "telegramId": "7911828552",
@@ -6219,16 +6239,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T13:22:05.833Z"
-    },
-    {
-      "id": "1791637422750-6xujw",
-      "telegramId": "8066965283",
-      "username": "socialxym",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 2,
-      "timestamp": "2026-10-10T13:03:42.750Z"
     }
   ]
 }

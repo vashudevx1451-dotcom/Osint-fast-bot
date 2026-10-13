@@ -4060,13 +4060,13 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1337,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8924857870": {
       "telegramId": "8924857870",

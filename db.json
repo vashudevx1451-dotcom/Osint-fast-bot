@@ -577,18 +577,18 @@
       "username": "Uhtkarshh",
       "firstName": "Uhtkarsh",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-12T10:20:50.510Z",
+      "lastActiveAt": "2026-10-13T01:47:51.977Z",
       "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-12",
+      "dailySearchDate": "2026-10-13",
       "dailySearchCount": 0,
-      "totalLookups": 26,
+      "totalLookups": 27,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
       "awaitingInput": null,
-      "lastBotMessageId": 1193,
+      "lastBotMessageId": 1399,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -625,7 +625,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791637213921113%26tn%3DVC1791637213921113%26cu%3DINR",
         "createdAt": "2026-10-10T13:00:13.921Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8968071078": {
       "telegramId": "8968071078",
@@ -4241,6 +4241,16 @@
   },
   "history": [
     {
+      "id": "1791856072916-9ejru",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-13T01:47:52.916Z"
+    },
+    {
       "id": "1791842313007-xlzwt",
       "telegramId": "7911828552",
       "username": "alez2003",
@@ -6229,16 +6239,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T13:30:59.312Z"
-    },
-    {
-      "id": "1791638525833-jhp10",
-      "telegramId": "6502481272",
-      "username": "Gamer",
-      "serviceType": "number_info",
-      "query": "7247459128",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T13:22:05.833Z"
     }
   ]
 }

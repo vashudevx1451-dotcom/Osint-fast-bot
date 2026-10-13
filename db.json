@@ -1575,12 +1575,12 @@
       "username": "",
       "firstName": "Yadav ji",
       "joinedAt": "2026-10-10T17:03:27.560Z",
-      "lastActiveAt": "2026-10-12T08:21:39.671Z",
+      "lastActiveAt": "2026-10-13T11:45:32.621Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-12",
+      "dailySearchDate": "2026-10-13",
       "dailySearchCount": 0,
-      "totalLookups": 12,
+      "totalLookups": 13,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -1606,15 +1606,15 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "api": "Devils Will Rise",
-              "_powered_by": "Devils Will Rise"
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "7048834406": {
       "telegramId": "7048834406",
@@ -4313,6 +4313,16 @@
   },
   "history": [
     {
+      "id": "1791891934349-4cisd",
+      "telegramId": "7639119817",
+      "username": "Yadav ji",
+      "serviceType": "number_info",
+      "query": "9213175217",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-13T11:45:34.349Z"
+    },
+    {
       "id": "1791886038859-x6v6c",
       "telegramId": "8926917947",
       "username": "Saurabh_Kumar_Tiwari_OG",
@@ -6301,16 +6311,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T14:52:40.173Z"
-    },
-    {
-      "id": "1791641775622-vd59l",
-      "telegramId": "8311674277",
-      "username": "16",
-      "serviceType": "number_info",
-      "query": "3503340052",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T14:16:15.622Z"
     }
   ]
 }

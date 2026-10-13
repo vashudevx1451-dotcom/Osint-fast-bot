@@ -4237,6 +4237,38 @@
         "createdAt": "2026-10-12T22:02:34.557Z"
       },
       "keyboardCleared": false
+    },
+    "8789983616": {
+      "telegramId": "8789983616",
+      "username": "",
+      "firstName": "Dmtrek",
+      "joinedAt": "2026-10-13T08:20:30.001Z",
+      "lastActiveAt": "2026-10-13T08:22:45.531Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-13",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1407,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "dynamic_qr",
+      "lastLookupSession": null,
+      "keyboardCleared": true,
+      "activePaymentOrder": {
+        "orderId": "VC1791879762155863",
+        "planKey": "weekly",
+        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
+        "amount": 1,
+        "days": 7,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791879762155863&tn=VC1791879762155863&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791879762155863%26tn%3DVC1791879762155863%26cu%3DINR",
+        "createdAt": "2026-10-13T08:22:42.155Z"
+      }
     }
   },
   "history": [

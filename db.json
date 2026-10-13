@@ -27,7 +27,9 @@
       "VC1791536182347733",
       "VC179168564565718",
       "VC179171794763253",
-      "VC1791829085994134"
+      "VC1791829085994134",
+      "UTR:085801708733",
+      "VC179187977707195"
     ],
     "cachedBannerFileId": "AgACAgUAAxkDAAIDNGrK9AFl2_FeFzmxCEGmUeIH7FnHAAKCIGsbWFRQVhFr-OcpgLTlAQADAgADdwADPQQ",
     "customBannerImageUrl": "https://i.postimg.cc/SRzDjNSF/file-00000000c93c81f59120e3d4cda69e4c.png",
@@ -577,7 +579,7 @@
       "username": "Uhtkarshh",
       "firstName": "Uhtkarsh",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-13T01:47:51.977Z",
+      "lastActiveAt": "2026-10-13T08:30:08.064Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-13",
@@ -625,7 +627,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791637213921113%26tn%3DVC1791637213921113%26cu%3DINR",
         "createdAt": "2026-10-10T13:00:13.921Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8968071078": {
       "telegramId": "8968071078",
@@ -801,12 +803,12 @@
       "username": "Rota_hu",
       "firstName": "𝙎𝙖𝙣𝙖𝙢🌕🧧",
       "joinedAt": "2026-10-10T12:13:14.486Z",
-      "lastActiveAt": "2026-10-12T05:02:29.394Z",
+      "lastActiveAt": "2026-10-13T08:29:54.221Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-12",
-      "dailySearchCount": 3,
-      "totalLookups": 9,
+      "dailySearchDate": "2026-10-13",
+      "dailySearchCount": 1,
+      "totalLookups": 10,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -817,12 +819,12 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9002264167",
+        "query": "8617693416",
         "records": [
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "[object Object]",
+            "phone": "8617693416",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -832,14 +834,15 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "error": "Invalid API key. Contact the developer below for help."
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8066965283": {
       "telegramId": "8066965283",
@@ -4243,7 +4246,7 @@
       "username": "",
       "firstName": "Dmtrek",
       "joinedAt": "2026-10-13T08:20:30.001Z",
-      "lastActiveAt": "2026-10-13T08:22:45.531Z",
+      "lastActiveAt": "2026-10-13T08:24:03.325Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-13",
@@ -4252,26 +4255,27 @@
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
-      "premiumUntil": null,
+      "premiumUntil": "2026-10-20T08:23:40.040Z",
       "awaitingInput": null,
-      "lastBotMessageId": 1407,
+      "lastBotMessageId": 1411,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "dynamic_qr",
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true,
-      "activePaymentOrder": {
-        "orderId": "VC1791879762155863",
-        "planKey": "weekly",
-        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
-        "amount": 1,
-        "days": 7,
-        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791879762155863&tn=VC1791879762155863&cu=INR",
-        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791879762155863%26tn%3DVC1791879762155863%26cu%3DINR",
-        "createdAt": "2026-10-13T08:22:42.155Z"
-      }
+      "activePaymentOrder": null
     }
   },
   "history": [
+    {
+      "id": "1791880196122-8s6yd",
+      "telegramId": "8836636372",
+      "username": "Rota_hu",
+      "serviceType": "number_info",
+      "query": "8617693416",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-13T08:29:56.122Z"
+    },
     {
       "id": "1791856072916-9ejru",
       "telegramId": "6672896116",
@@ -6261,16 +6265,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T13:31:26.095Z"
-    },
-    {
-      "id": "1791639059312-sgqu1",
-      "telegramId": "1408776543",
-      "username": "Unknown",
-      "serviceType": "number_info",
-      "query": "7218401247",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T13:30:59.312Z"
     }
   ]
 }

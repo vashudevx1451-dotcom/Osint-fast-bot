@@ -1483,28 +1483,28 @@
       "username": "Saurabh_Kumar_Tiwari_OG",
       "firstName": "Kiyotaka",
       "joinedAt": "2026-10-10T16:12:04.139Z",
-      "lastActiveAt": "2026-10-12T01:34:14.852Z",
+      "lastActiveAt": "2026-10-13T10:07:17.793Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-12",
+      "dailySearchDate": "2026-10-13",
       "dailySearchCount": 3,
-      "totalLookups": 9,
+      "totalLookups": 12,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 1150,
+      "lastBotMessageId": 1427,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8604604064",
+        "query": "7276108376",
         "records": [
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "[object Object]",
+            "phone": "7276108376",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -1514,14 +1514,15 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "error": "Invalid API key. Contact the developer below for help."
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8586435190": {
       "telegramId": "8586435190",
@@ -4312,6 +4313,36 @@
   },
   "history": [
     {
+      "id": "1791886038859-x6v6c",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "7276108376",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-13T10:07:18.859Z"
+    },
+    {
+      "id": "1791886024002-3u9hc",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "7084653670",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-13T10:07:04.002Z"
+    },
+    {
+      "id": "1791885972825-4ndg0",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8000796117",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-13T10:06:12.825Z"
+    },
+    {
       "id": "1791885273832-1gbsg",
       "telegramId": "8778397294",
       "username": "Yash",
@@ -6280,36 +6311,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T14:16:15.622Z"
-    },
-    {
-      "id": "1791641745008-mvblb",
-      "telegramId": "8311674277",
-      "username": "16",
-      "serviceType": "number_info",
-      "query": "4191696055",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T14:15:45.008Z"
-    },
-    {
-      "id": "1791640805642-38zpw",
-      "telegramId": "8582949733",
-      "username": "Itachiuchiha1223344",
-      "serviceType": "number_info",
-      "query": "7908772340",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T14:00:05.642Z"
-    },
-    {
-      "id": "1791640676667-xtn3i",
-      "telegramId": "8582949733",
-      "username": "Itachiuchiha1223344",
-      "serviceType": "number_info",
-      "query": "8617532628",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T13:57:56.667Z"
     }
   ]
 }

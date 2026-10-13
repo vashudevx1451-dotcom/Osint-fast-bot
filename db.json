@@ -227,8 +227,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true,
-      "activePaymentOrder": null
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "1387017095": {
       "telegramId": "1387017095",
@@ -3974,7 +3974,7 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8611567579": {
       "telegramId": "8611567579",
@@ -4226,7 +4226,6 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true,
       "activePaymentOrder": {
         "orderId": "VC1791842554557980",
         "planKey": "monthly",
@@ -4236,7 +4235,8 @@
         "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=19&tr=VC1791842554557980&tn=VC1791842554557980&cu=INR",
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D19%26tr%3DVC1791842554557980%26tn%3DVC1791842554557980%26cu%3DINR",
         "createdAt": "2026-10-12T22:02:34.557Z"
-      }
+      },
+      "keyboardCleared": false
     }
   },
   "history": [

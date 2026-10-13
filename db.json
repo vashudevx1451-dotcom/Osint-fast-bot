@@ -4263,9 +4263,74 @@
       "lastLookupSession": null,
       "keyboardCleared": true,
       "activePaymentOrder": null
+    },
+    "8778397294": {
+      "telegramId": "8778397294",
+      "username": "",
+      "firstName": "Yash",
+      "joinedAt": "2026-10-13T09:53:53.650Z",
+      "lastActiveAt": "2026-10-13T09:54:48.772Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-13",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1424,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9513031003",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9513031003",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1791885273832-1gbsg",
+      "telegramId": "8778397294",
+      "username": "Yash",
+      "serviceType": "number_info",
+      "query": "9513031003",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-13T09:54:33.832Z"
+    },
+    {
+      "id": "1791885246882-xak4b",
+      "telegramId": "8778397294",
+      "username": "Yash",
+      "serviceType": "number_info",
+      "query": "9513031003",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-13T09:54:06.882Z"
+    },
     {
       "id": "1791880196122-8s6yd",
       "telegramId": "8836636372",
@@ -6245,26 +6310,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T13:57:56.667Z"
-    },
-    {
-      "id": "1791640613541-l69tq",
-      "telegramId": "8582949733",
-      "username": "Itachiuchiha1223344",
-      "serviceType": "number_info",
-      "query": "7720944141",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T13:56:53.541Z"
-    },
-    {
-      "id": "1791639086095-6et55",
-      "telegramId": "1408776543",
-      "username": "Unknown",
-      "serviceType": "number_info",
-      "query": "9021681717",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T13:31:26.095Z"
     }
   ]
 }

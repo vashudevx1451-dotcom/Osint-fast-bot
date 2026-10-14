@@ -2367,12 +2367,12 @@
       "username": "",
       "firstName": "🙂",
       "joinedAt": "2026-10-11T08:25:11.858Z",
-      "lastActiveAt": "2026-10-11T08:25:51.726Z",
+      "lastActiveAt": "2026-10-14T03:17:49.396Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-11",
+      "dailySearchDate": "2026-10-14",
       "dailySearchCount": 2,
-      "totalLookups": 2,
+      "totalLookups": 4,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -2388,7 +2388,7 @@
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "[object Object]",
+            "phone": "8447598642",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -2398,14 +2398,15 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "error": "Invalid API key. Contact the developer below for help."
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8701120919": {
       "telegramId": "8701120919",
@@ -4313,6 +4314,26 @@
     }
   },
   "history": [
+    {
+      "id": "1791947870257-t9vc0",
+      "telegramId": "8849397506",
+      "username": "🙂",
+      "serviceType": "number_info",
+      "query": "8447598642",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-14T03:17:50.257Z"
+    },
+    {
+      "id": "1791947847217-mxax5",
+      "telegramId": "8849397506",
+      "username": "🙂",
+      "serviceType": "number_info",
+      "query": "8447598642",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-14T03:17:27.217Z"
+    },
     {
       "id": "1791906740375-zpak0",
       "telegramId": "6672896116",
@@ -6292,26 +6313,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T15:18:03.576Z"
-    },
-    {
-      "id": "1791645424344-7l70p",
-      "telegramId": "8283591451",
-      "username": "Unbound",
-      "serviceType": "number_info",
-      "query": "8083882025",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T15:17:04.344Z"
-    },
-    {
-      "id": "1791645325238-80hxr",
-      "telegramId": "6720026265",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "8000796117",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T15:15:25.238Z"
     }
   ]
 }

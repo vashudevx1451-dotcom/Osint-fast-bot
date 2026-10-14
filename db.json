@@ -1483,28 +1483,28 @@
       "username": "Saurabh_Kumar_Tiwari_OG",
       "firstName": "Kiyotaka",
       "joinedAt": "2026-10-10T16:12:04.139Z",
-      "lastActiveAt": "2026-10-13T10:07:17.793Z",
+      "lastActiveAt": "2026-10-14T16:37:38.283Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-13",
-      "dailySearchCount": 3,
-      "totalLookups": 12,
+      "dailySearchDate": "2026-10-14",
+      "dailySearchCount": 2,
+      "totalLookups": 14,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 1427,
+      "lastBotMessageId": 1465,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "7276108376",
+        "query": "8604604064",
         "records": [
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "7276108376",
+            "phone": "8604604064",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -1522,7 +1522,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8586435190": {
       "telegramId": "8586435190",
@@ -4361,6 +4361,26 @@
   },
   "history": [
     {
+      "id": "1791995859365-fuh7z",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8604604064",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-14T16:37:39.365Z"
+    },
+    {
+      "id": "1791995823665-mnt50",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8000796117",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-14T16:37:03.665Z"
+    },
+    {
       "id": "1791990799054-clj2k",
       "telegramId": "8407639114",
       "username": "Gojo Satoru",
@@ -6339,26 +6359,6 @@
       "status": "success",
       "recordCount": 2,
       "timestamp": "2026-10-10T15:50:12.090Z"
-    },
-    {
-      "id": "1791647390850-gdd5f",
-      "telegramId": "6720026265",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "8604604064",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T15:49:50.850Z"
-    },
-    {
-      "id": "1791647361146-htfgi",
-      "telegramId": "8499830773",
-      "username": "𝒪𝓂𝓀𝒶𝓇_𝒫𝒶𝓉𝒾𝓁.",
-      "serviceType": "number_info",
-      "query": "8604604064",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T15:49:21.146Z"
     }
   ]
 }

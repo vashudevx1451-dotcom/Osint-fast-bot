@@ -1828,26 +1828,49 @@
     },
     "8264924435": {
       "telegramId": "8264924435",
-      "username": "musab_77",
-      "firstName": "Muhammad",
+      "username": "musab_008",
+      "firstName": "MᴜʜAᴍᴍAᴅ",
       "joinedAt": "2026-10-10T21:13:04.526Z",
-      "lastActiveAt": "2026-10-10T21:18:26.779Z",
+      "lastActiveAt": "2026-10-14T10:56:10.599Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-10",
-      "dailySearchCount": 0,
-      "totalLookups": 0,
+      "dailySearchDate": "2026-10-14",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 795,
+      "lastBotMessageId": 1447,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
-      "lastLookupSession": null,
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "3115385180",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "3115385180",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8047324570": {
       "telegramId": "8047324570",
@@ -4337,6 +4360,36 @@
   },
   "history": [
     {
+      "id": "1791975371631-zbwo8",
+      "telegramId": "8264924435",
+      "username": "musab_008",
+      "serviceType": "number_info",
+      "query": "3115385180",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-14T10:56:11.631Z"
+    },
+    {
+      "id": "1791975363081-upv2t",
+      "telegramId": "8264924435",
+      "username": "musab_008",
+      "serviceType": "number_info",
+      "query": "3072005415",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-14T10:56:03.081Z"
+    },
+    {
+      "id": "1791975327765-fyzo3",
+      "telegramId": "8264924435",
+      "username": "musab_008",
+      "serviceType": "number_info",
+      "query": "3072005415",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-14T10:55:27.765Z"
+    },
+    {
       "id": "1791963468003-34hab",
       "telegramId": "7639119817",
       "username": "Yadav ji",
@@ -6305,36 +6358,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T15:23:56.049Z"
-    },
-    {
-      "id": "1791645778940-1cujy",
-      "telegramId": "8407639114",
-      "username": "Gojo Satoru",
-      "serviceType": "number_info",
-      "query": "8434197001",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T15:22:58.940Z"
-    },
-    {
-      "id": "1791645605810-j0hf2",
-      "telegramId": "8283591451",
-      "username": "Unbound",
-      "serviceType": "number_info",
-      "query": "9934265003",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T15:20:05.810Z"
-    },
-    {
-      "id": "1791645516482-8cr7f",
-      "telegramId": "8283591451",
-      "username": "Unbound",
-      "serviceType": "number_info",
-      "query": "9508891614",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T15:18:36.482Z"
     }
   ]
 }

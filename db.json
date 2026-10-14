@@ -1187,7 +1187,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "5479144889": {
       "telegramId": "5479144889",
@@ -1369,7 +1369,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8499830773": {
       "telegramId": "8499830773",
@@ -1522,7 +1522,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8586435190": {
       "telegramId": "8586435190",

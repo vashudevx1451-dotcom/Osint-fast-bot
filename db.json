@@ -1575,12 +1575,12 @@
       "username": "",
       "firstName": "Yadav ji",
       "joinedAt": "2026-10-10T17:03:27.560Z",
-      "lastActiveAt": "2026-10-13T11:45:32.621Z",
+      "lastActiveAt": "2026-10-14T07:37:46.220Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-13",
+      "dailySearchDate": "2026-10-14",
       "dailySearchCount": 0,
-      "totalLookups": 13,
+      "totalLookups": 14,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -1614,7 +1614,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "7048834406": {
       "telegramId": "7048834406",
@@ -4315,6 +4315,16 @@
   },
   "history": [
     {
+      "id": "1791963468003-34hab",
+      "telegramId": "7639119817",
+      "username": "Yadav ji",
+      "serviceType": "number_info",
+      "query": "9213175217",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-14T07:37:48.003Z"
+    },
+    {
       "id": "1791947870257-t9vc0",
       "telegramId": "8849397506",
       "username": "🙂",
@@ -6303,16 +6313,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T15:18:36.482Z"
-    },
-    {
-      "id": "1791645483576-39b13",
-      "telegramId": "8407639114",
-      "username": "Gojo Satoru",
-      "serviceType": "number_info",
-      "query": "8000796117",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T15:18:03.576Z"
     }
   ]
 }

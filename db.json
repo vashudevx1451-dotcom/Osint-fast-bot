@@ -4311,6 +4311,28 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "8803989517": {
+      "telegramId": "8803989517",
+      "username": "",
+      "firstName": "Fidel Castro",
+      "joinedAt": "2026-10-14T09:39:14.959Z",
+      "lastActiveAt": "2026-10-14T09:39:14.961Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-14",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1444,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

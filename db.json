@@ -4565,9 +4565,74 @@
       "lastLookupSession": null,
       "keyboardCleared": true,
       "activePaymentOrder": null
+    },
+    "7414001304": {
+      "telegramId": "7414001304",
+      "username": "ROYAL_RDX_1",
+      "firstName": "ƦƊ᙭ ᏤᎬᎬᏒꪊ ♠",
+      "joinedAt": "2026-10-15T14:05:32.571Z",
+      "lastActiveAt": "2026-10-15T14:06:21.855Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-15",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1502,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9509133288",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9509133288",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792073182759-hg7gq",
+      "telegramId": "7414001304",
+      "username": "ROYAL_RDX_1",
+      "serviceType": "number_info",
+      "query": "9509133288",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T14:06:22.759Z"
+    },
+    {
+      "id": "1792073150507-rtd9r",
+      "telegramId": "7414001304",
+      "username": "ROYAL_RDX_1",
+      "serviceType": "number_info",
+      "query": "1974445620",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T14:05:50.507Z"
+    },
     {
       "id": "1792059855000-dzkbu",
       "telegramId": "6678853699",
@@ -6547,26 +6612,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T18:50:52.143Z"
-    },
-    {
-      "id": "1791658112219-vnbru",
-      "telegramId": "5136695791",
-      "username": "rajstillrare",
-      "serviceType": "number_info",
-      "query": "9888620907",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T18:48:32.219Z"
-    },
-    {
-      "id": "1791656180397-87m4b",
-      "telegramId": "7048834406",
-      "username": "Akshu",
-      "serviceType": "number_info",
-      "query": "7987445633",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T18:16:20.397Z"
     }
   ]
 }

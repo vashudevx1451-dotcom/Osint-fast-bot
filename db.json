@@ -4517,6 +4517,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8567690591": {
+      "telegramId": "8567690591",
+      "username": "",
+      "firstName": ".",
+      "joinedAt": "2026-10-15T10:47:05.650Z",
+      "lastActiveAt": "2026-10-15T10:47:22.092Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-15",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1495,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

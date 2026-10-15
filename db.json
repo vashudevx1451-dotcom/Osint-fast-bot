@@ -4563,8 +4563,8 @@
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
-      "keyboardCleared": true,
-      "activePaymentOrder": null
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "7414001304": {
       "telegramId": "7414001304",
@@ -4609,7 +4609,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "7726491842": {
       "telegramId": "7726491842",
@@ -4654,7 +4655,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     },
     "6788534959": {
       "telegramId": "6788534959",
@@ -4671,7 +4673,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1512,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -4699,7 +4701,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     }
   },
   "history": [

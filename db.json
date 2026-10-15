@@ -4472,9 +4472,84 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "6678853699": {
+      "telegramId": "6678853699",
+      "username": "",
+      "firstName": "Rakx",
+      "joinedAt": "2026-10-15T10:22:39.379Z",
+      "lastActiveAt": "2026-10-15T10:24:14.019Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-15",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1489,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9999999084",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9999999084",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792059855000-dzkbu",
+      "telegramId": "6678853699",
+      "username": "Rakx",
+      "serviceType": "number_info",
+      "query": "9999999084",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T10:24:15.000Z"
+    },
+    {
+      "id": "1792059845375-5qvk8",
+      "telegramId": "6678853699",
+      "username": "Rakx",
+      "serviceType": "number_info",
+      "query": "9748636695",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T10:24:05.375Z"
+    },
+    {
+      "id": "1792059816453-l9yaj",
+      "telegramId": "6678853699",
+      "username": "Rakx",
+      "serviceType": "number_info",
+      "query": "6230178965",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T10:23:36.453Z"
+    },
     {
       "id": "1792053157802-1bthc",
       "telegramId": "8803989517",
@@ -6444,36 +6519,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T18:16:20.397Z"
-    },
-    {
-      "id": "1791654218184-wkuee",
-      "telegramId": "8926917947",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "8000796117",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T17:43:38.184Z"
-    },
-    {
-      "id": "1791653276010-wsfnz",
-      "telegramId": "1961291130",
-      "username": "Neerajk456",
-      "serviceType": "number_info",
-      "query": "8467586449",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T17:27:56.010Z"
-    },
-    {
-      "id": "1791653226144-pui2f",
-      "telegramId": "8926917947",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "6280064021",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T17:27:06.144Z"
     }
   ]
 }

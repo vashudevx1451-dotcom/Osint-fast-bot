@@ -4264,7 +4264,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D19%26tr%3DVC1791842554557980%26tn%3DVC1791842554557980%26cu%3DINR",
         "createdAt": "2026-10-12T22:02:34.557Z"
       },
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "8789983616": {
       "telegramId": "8789983616",

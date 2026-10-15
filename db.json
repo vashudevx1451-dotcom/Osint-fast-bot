@@ -4888,9 +4888,74 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8156629638": {
+      "telegramId": "8156629638",
+      "username": "Butrastagno",
+      "firstName": "N",
+      "joinedAt": "2026-10-15T21:26:13.270Z",
+      "lastActiveAt": "2026-10-15T21:26:45.873Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-15",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1545,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "3270530007",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "3270530007",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792099606748-cjauy",
+      "telegramId": "8156629638",
+      "username": "Butrastagno",
+      "serviceType": "number_info",
+      "query": "3270530007",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T21:26:46.748Z"
+    },
+    {
+      "id": "1792099583947-mdk3u",
+      "telegramId": "8156629638",
+      "username": "Butrastagno",
+      "serviceType": "number_info",
+      "query": "3928362329",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T21:26:23.947Z"
+    },
     {
       "id": "1792098799254-monum",
       "telegramId": "8007292878",
@@ -6870,26 +6935,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T03:49:53.308Z"
-    },
-    {
-      "id": "1791685920422-fff1h",
-      "telegramId": "8926917947",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "8604606064",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T02:32:00.422Z"
-    },
-    {
-      "id": "1791685858892-k0nyg",
-      "telegramId": "8926917947",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "8604604064",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T02:30:58.892Z"
     }
   ]
 }

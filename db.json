@@ -29,7 +29,8 @@
       "VC179171794763253",
       "VC1791829085994134",
       "UTR:085801708733",
-      "VC179187977707195"
+      "VC179187977707195",
+      "VC1792070783341909"
     ],
     "cachedBannerFileId": "AgACAgUAAxkDAAIDNGrK9AFl2_FeFzmxCEGmUeIH7FnHAAKCIGsbWFRQVhFr-OcpgLTlAQADAgADdwADPQQ",
     "customBannerImageUrl": "https://i.postimg.cc/SRzDjNSF/file-00000000c93c81f59120e3d4cda69e4c.png",
@@ -4541,6 +4542,29 @@
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "6290086233": {
+      "telegramId": "6290086233",
+      "username": "",
+      "firstName": "Ashutosh",
+      "joinedAt": "2026-10-15T13:25:32.868Z",
+      "lastActiveAt": "2026-10-15T13:27:25.851Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-15",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": "2026-11-14T13:27:07.902Z",
+      "awaitingInput": null,
+      "lastBotMessageId": 1498,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true,
+      "activePaymentOrder": null
     }
   },
   "history": [

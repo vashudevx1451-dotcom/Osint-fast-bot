@@ -4757,7 +4757,7 @@
       "username": "",
       "firstName": "Б",
       "joinedAt": "2026-10-15T17:37:20.908Z",
-      "lastActiveAt": "2026-10-15T19:49:28.978Z",
+      "lastActiveAt": "2026-10-15T21:42:59.315Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-15",
@@ -4767,7 +4767,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-11-14T19:49:06.198Z",
-      "awaitingInput": null,
+      "awaitingInput": "number",
       "lastBotMessageId": 1525,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -4796,7 +4796,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "7330608857": {
       "telegramId": "7330608857",
@@ -4978,9 +4978,84 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "5514369560": {
+      "telegramId": "5514369560",
+      "username": "cencored_boom",
+      "firstName": "CENCORED",
+      "joinedAt": "2026-10-15T21:37:57.988Z",
+      "lastActiveAt": "2026-10-15T21:39:25.538Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-15",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1559,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8368572984",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "8368572984",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792100366407-7rt3d",
+      "telegramId": "5514369560",
+      "username": "cencored_boom",
+      "serviceType": "number_info",
+      "query": "8368572984",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T21:39:26.407Z"
+    },
+    {
+      "id": "1792100323518-41h8o",
+      "telegramId": "5514369560",
+      "username": "cencored_boom",
+      "serviceType": "number_info",
+      "query": "8054725054",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T21:38:43.518Z"
+    },
+    {
+      "id": "1792100299088-r6e57",
+      "telegramId": "5514369560",
+      "username": "cencored_boom",
+      "serviceType": "number_info",
+      "query": "8054725054",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T21:38:19.088Z"
+    },
     {
       "id": "1792099761753-y9xc0",
       "telegramId": "8804127354",
@@ -6950,36 +7025,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T04:06:17.964Z"
-    },
-    {
-      "id": "1791690938120-9ve0d",
-      "telegramId": "8729620894",
-      "username": "Pranjal",
-      "serviceType": "number_info",
-      "query": "7307760617",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T03:55:38.120Z"
-    },
-    {
-      "id": "1791690914312-k6reu",
-      "telegramId": "8729620894",
-      "username": "Pranjal",
-      "serviceType": "number_info",
-      "query": "9198367559",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T03:55:14.312Z"
-    },
-    {
-      "id": "1791690678261-qq4dx",
-      "telegramId": "6976365330",
-      "username": "Samir",
-      "serviceType": "number_info",
-      "query": "8252464080",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T03:51:18.261Z"
     }
   ]
 }

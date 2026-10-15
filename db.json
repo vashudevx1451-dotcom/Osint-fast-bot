@@ -4754,20 +4754,20 @@
       "username": "",
       "firstName": "Б",
       "joinedAt": "2026-10-15T17:37:20.908Z",
-      "lastActiveAt": "2026-10-15T19:09:14.124Z",
+      "lastActiveAt": "2026-10-15T19:47:31.619Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-15",
-      "dailySearchCount": 1,
-      "totalLookups": 1,
+      "dailySearchCount": 2,
+      "totalLookups": 2,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1525,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "banner",
+      "lastBotPhotoKind": "dynamic_qr",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "7840472210",
@@ -4792,7 +4792,17 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "keyboardCleared": true,
+      "activePaymentOrder": {
+        "orderId": "VC1792093651920435",
+        "planKey": "monthly",
+        "planLabel": "ᴍᴏɴᴛʜʟʏ ᴘʀᴇᴍɪᴜᴍ (30 ᴅᴀʏs)",
+        "amount": 19,
+        "days": 30,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=19&tr=VC1792093651920435&tn=VC1792093651920435&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D19%26tr%3DVC1792093651920435%26tn%3DVC1792093651920435%26cu%3DINR",
+        "createdAt": "2026-10-15T19:47:31.920Z"
+      }
     },
     "7330608857": {
       "telegramId": "7330608857",
@@ -4841,6 +4851,16 @@
     }
   },
   "history": [
+    {
+      "id": "1792093204265-xmgzn",
+      "telegramId": "8442543661",
+      "username": "Б",
+      "serviceType": "number_info",
+      "query": "7840472210",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T19:40:04.265Z"
+    },
     {
       "id": "1792091348279-xr0h8",
       "telegramId": "8442543661",
@@ -6830,16 +6850,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T02:28:23.139Z"
-    },
-    {
-      "id": "1791674181705-a3gqt",
-      "telegramId": "7678379747",
-      "username": "Sathi",
-      "serviceType": "number_info",
-      "query": "8750561625",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T23:16:21.705Z"
     }
   ]
 }

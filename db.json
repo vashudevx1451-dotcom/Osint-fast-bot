@@ -4340,12 +4340,12 @@
       "username": "",
       "firstName": "Fidel Castro",
       "joinedAt": "2026-10-14T09:39:14.959Z",
-      "lastActiveAt": "2026-10-14T09:39:14.961Z",
+      "lastActiveAt": "2026-10-15T08:32:36.735Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-14",
-      "dailySearchCount": 0,
-      "totalLookups": 0,
+      "dailySearchDate": "2026-10-15",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -4354,9 +4354,32 @@
       "lastBotMessageId": 1444,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
-      "lastLookupSession": null,
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8368610699",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "8368610699",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8309598845": {
       "telegramId": "8309598845",
@@ -4450,6 +4473,36 @@
     }
   },
   "history": [
+    {
+      "id": "1792053157802-1bthc",
+      "telegramId": "8803989517",
+      "username": "Fidel Castro",
+      "serviceType": "number_info",
+      "query": "8368610699",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T08:32:37.802Z"
+    },
+    {
+      "id": "1792053142414-rckkq",
+      "telegramId": "8803989517",
+      "username": "Fidel Castro",
+      "serviceType": "number_info",
+      "query": "9389811658",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T08:32:22.414Z"
+    },
+    {
+      "id": "1792053127737-z41ct",
+      "telegramId": "8803989517",
+      "username": "Fidel Castro",
+      "serviceType": "number_info",
+      "query": "9389811658",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T08:32:07.737Z"
+    },
     {
       "id": "1792052341593-viiuh",
       "telegramId": "8657626936",
@@ -6419,36 +6472,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T17:27:06.144Z"
-    },
-    {
-      "id": "1791653183045-4xq52",
-      "telegramId": "1961291130",
-      "username": "Neerajk456",
-      "serviceType": "number_info",
-      "query": "8887765917",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T17:26:23.045Z"
-    },
-    {
-      "id": "1791651826058-y39f6",
-      "telegramId": "7639119817",
-      "username": "Yadav ji",
-      "serviceType": "number_info",
-      "query": "9213175217",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T17:03:46.058Z"
-    },
-    {
-      "id": "1791650438950-n0so0",
-      "telegramId": "8586435190",
-      "username": "Mohd",
-      "serviceType": "number_info",
-      "query": "7500570043",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T16:40:38.950Z"
     }
   ]
 }

@@ -4748,6 +4748,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8442543661": {
+      "telegramId": "8442543661",
+      "username": "",
+      "firstName": "Б",
+      "joinedAt": "2026-10-15T17:37:20.908Z",
+      "lastActiveAt": "2026-10-15T17:37:33.776Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-15",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1522,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

@@ -4655,9 +4655,64 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "6788534959": {
+      "telegramId": "6788534959",
+      "username": "",
+      "firstName": "Aadi",
+      "joinedAt": "2026-10-15T15:37:20.662Z",
+      "lastActiveAt": "2026-10-15T15:38:02.215Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-15",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1512,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8950077665",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "8950077665",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "key_status": "suspended",
+              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792078671613-cghsb",
+      "telegramId": "6788534959",
+      "username": "Aadi",
+      "serviceType": "number_info",
+      "query": "8950077665",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-15T15:37:51.613Z"
+    },
     {
       "id": "1792077113437-3z5ou",
       "telegramId": "7726491842",
@@ -6647,16 +6702,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-10T21:03:00.072Z"
-    },
-    {
-      "id": "1791660360126-heiu0",
-      "telegramId": "8530371631",
-      "username": "𝙎 𝙋 𝘼 𝙍 𝙆",
-      "serviceType": "number_info",
-      "query": "6002355873",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-10T19:26:00.126Z"
     }
   ]
 }

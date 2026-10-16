@@ -3831,18 +3831,18 @@
       "username": "",
       "firstName": "༺𝕾𝖊ñ𝖔𝖗𝖎𝖙𝖔༻",
       "joinedAt": "2026-10-12T11:58:26.632Z",
-      "lastActiveAt": "2026-10-12T12:03:29.931Z",
+      "lastActiveAt": "2026-10-16T16:45:47.637Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-12",
-      "dailySearchCount": 3,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 0,
       "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": null,
-      "lastBotMessageId": 1274,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1857,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -3879,7 +3879,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D99%26tr%3DVC1791806469258832%26tn%3DVC1791806469258832%26cu%3DINR",
         "createdAt": "2026-10-12T12:01:09.258Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "6857524427": {
       "telegramId": "6857524427",

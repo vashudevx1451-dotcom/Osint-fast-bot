@@ -190,6 +190,50 @@
       },
       "keyboardCleared": false
     },
+    "900710364": {
+      "telegramId": "900710364",
+      "username": "mrxop7",
+      "firstName": "RAJPUT",
+      "joinedAt": "2026-10-16T13:01:32.867Z",
+      "lastActiveAt": "2026-10-16T13:02:07.965Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1827,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8639370966",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "8639370966",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
     "951800603": {
       "telegramId": "951800603",
       "username": "",
@@ -5247,6 +5291,16 @@
   },
   "history": [
     {
+      "id": "1792155729504-a5csi",
+      "telegramId": "900710364",
+      "username": "mrxop7",
+      "serviceType": "number_info",
+      "query": "8639370966",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T13:02:09.504Z"
+    },
+    {
       "id": "1792149536796-8lhmi",
       "telegramId": "6354268596",
       "username": "Nitinptel",
@@ -7235,16 +7289,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T07:11:04.517Z"
-    },
-    {
-      "id": "1791702617834-l802z",
-      "telegramId": "8967626693",
-      "username": "Mayank",
-      "serviceType": "number_info",
-      "query": "7070780872",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T07:10:17.834Z"
     }
   ]
 }

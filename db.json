@@ -5199,9 +5199,73 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "6354268596": {
+      "telegramId": "6354268596",
+      "username": "Nitinptel",
+      "firstName": "Nitin",
+      "joinedAt": "2026-10-16T11:17:53.401Z",
+      "lastActiveAt": "2026-10-16T11:18:55.483Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1822,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9302179360",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9302179360",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792149536796-8lhmi",
+      "telegramId": "6354268596",
+      "username": "Nitinptel",
+      "serviceType": "number_info",
+      "query": "9302179360",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T11:18:56.796Z"
+    },
+    {
+      "id": "1792149500328-80wiz",
+      "telegramId": "6354268596",
+      "username": "Nitinptel",
+      "serviceType": "number_info",
+      "query": "7610483123",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T11:18:20.328Z"
+    },
     {
       "id": "1792139110133-ceztg",
       "telegramId": "8066965283",
@@ -7181,26 +7245,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T07:10:17.834Z"
-    },
-    {
-      "id": "1791701622315-jzqe5",
-      "telegramId": "8709847526",
-      "username": "Bi1",
-      "serviceType": "number_info",
-      "query": "1501934232",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T06:53:42.315Z"
-    },
-    {
-      "id": "1791700052791-8rgox",
-      "telegramId": "1772821518",
-      "username": "Ak",
-      "serviceType": "number_info",
-      "query": "8878287560",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T06:27:32.791Z"
     }
   ]
 }

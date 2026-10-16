@@ -1545,28 +1545,28 @@
       "username": "Saurabh_Kumar_Tiwari_OG",
       "firstName": "Kiyotaka",
       "joinedAt": "2026-10-10T16:12:04.139Z",
-      "lastActiveAt": "2026-10-14T16:37:38.283Z",
+      "lastActiveAt": "2026-10-16T23:42:19.143Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-14",
-      "dailySearchCount": 2,
-      "totalLookups": 14,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 1,
+      "totalLookups": 15,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 1465,
+      "lastBotMessageId": 1868,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8604604064",
+        "query": "8000796117",
         "records": [
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "8604604064",
+            "phone": "8000796117",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -1576,15 +1576,14 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "key_status": "suspended",
-              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+              "error": "Invalid or expired API key"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8586435190": {
       "telegramId": "8586435190",
@@ -5468,6 +5467,16 @@
   },
   "history": [
     {
+      "id": "1792194140601-090ya",
+      "telegramId": "8926917947",
+      "username": "Saurabh_Kumar_Tiwari_OG",
+      "serviceType": "number_info",
+      "query": "8000796117",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T23:42:20.601Z"
+    },
+    {
       "id": "1792169820586-g8vqs",
       "telegramId": "8536009426",
       "username": "Jitendra",
@@ -7456,16 +7465,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T11:32:09.227Z"
-    },
-    {
-      "id": "1791717994539-9glk4",
-      "telegramId": "7639119817",
-      "username": "Yadav ji",
-      "serviceType": "number_info",
-      "query": "9212170966",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T11:26:34.539Z"
     }
   ]
 }

@@ -3841,7 +3841,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1857,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -3879,7 +3879,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D99%26tr%3DVC1791806469258832%26tn%3DVC1791806469258832%26cu%3DINR",
         "createdAt": "2026-10-12T12:01:09.258Z"
       },
-      "keyboardCleared": true
+      "keyboardCleared": false
     },
     "6857524427": {
       "telegramId": "6857524427",
@@ -5435,7 +5435,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1861,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -5462,7 +5462,8 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "activePaymentOrder": null,
+      "keyboardCleared": false
     }
   },
   "history": [

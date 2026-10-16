@@ -287,28 +287,28 @@
       "username": "",
       "firstName": "Unknown",
       "joinedAt": "2026-10-10T13:30:15.186Z",
-      "lastActiveAt": "2026-10-10T13:32:36.604Z",
+      "lastActiveAt": "2026-10-16T04:38:06.852Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-10",
-      "dailySearchCount": 2,
-      "totalLookups": 2,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 3,
+      "totalLookups": 5,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 653,
+      "lastBotMessageId": 1795,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9021681717",
+        "query": "7218401247",
         "records": [
           {
             "name": "Unknown",
             "fatherName": "None",
-            "phone": "9021681717",
+            "phone": "7218401247",
             "altPhone": "None",
             "carrier": "None",
             "email": "None",
@@ -318,15 +318,14 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "query": "9021681717",
-              "normalized": "9021681717"
+              "error": "Invalid or expired API key"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "1738253610": {
       "telegramId": "1738253610",
@@ -5130,6 +5129,36 @@
   },
   "history": [
     {
+      "id": "1792125419300-boqw6",
+      "telegramId": "1408776543",
+      "username": "Unknown",
+      "serviceType": "number_info",
+      "query": "7218401247",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T04:36:59.300Z"
+    },
+    {
+      "id": "1792125366431-6z9u3",
+      "telegramId": "1408776543",
+      "username": "Unknown",
+      "serviceType": "number_info",
+      "query": "7218401247",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T04:36:06.431Z"
+    },
+    {
+      "id": "1792125349766-nfsqg",
+      "telegramId": "1408776543",
+      "username": "Unknown",
+      "serviceType": "number_info",
+      "query": "7218401247",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T04:35:49.766Z"
+    },
+    {
       "id": "1792123045636-ivzhj",
       "telegramId": "6822959930",
       "username": "Singh",
@@ -7098,36 +7127,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T04:37:37.543Z"
-    },
-    {
-      "id": "1791693338503-g7d0o",
-      "telegramId": "8330120823",
-      "username": "Chandel_0_1956",
-      "serviceType": "number_info",
-      "query": "7310638075",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T04:35:38.503Z"
-    },
-    {
-      "id": "1791693303704-fttiy",
-      "telegramId": "8330120823",
-      "username": "Chandel_0_1956",
-      "serviceType": "number_info",
-      "query": "8239192780",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T04:35:03.704Z"
-    },
-    {
-      "id": "1791693260131-tad58",
-      "telegramId": "8330120823",
-      "username": "Chandel_0_1956",
-      "serviceType": "number_info",
-      "query": "7665256521",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T04:34:20.132Z"
     }
   ]
 }

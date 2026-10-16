@@ -3496,17 +3496,17 @@
       "username": "uttamshk",
       "firstName": "Rakesh",
       "joinedAt": "2026-10-12T08:22:57.078Z",
-      "lastActiveAt": "2026-10-12T15:21:19.619Z",
+      "lastActiveAt": "2026-10-16T07:36:09.960Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-12",
-      "dailySearchCount": 2,
-      "totalLookups": 2,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 1,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": null,
+      "awaitingInput": "number",
       "lastBotMessageId": 1214,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -3527,15 +3527,14 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "key_status": "suspended",
-              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+              "error": "Invalid or expired API key"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8810387173": {
       "telegramId": "8810387173",
@@ -5172,6 +5171,16 @@
     }
   },
   "history": [
+    {
+      "id": "1792136160194-yb32x",
+      "telegramId": "6783862138",
+      "username": "uttamshk",
+      "serviceType": "number_info",
+      "query": "9313384161",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T07:36:00.194Z"
+    },
     {
       "id": "1792126473142-le4m0",
       "telegramId": "5619660972",
@@ -7161,16 +7170,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T05:33:44.539Z"
-    },
-    {
-      "id": "1791696479378-odbtg",
-      "telegramId": "6502481272",
-      "username": "Gamer",
-      "serviceType": "number_info",
-      "query": "7722865930",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T05:27:59.378Z"
     }
   ]
 }

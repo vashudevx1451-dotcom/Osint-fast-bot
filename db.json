@@ -5023,6 +5023,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8480475272": {
+      "telegramId": "8480475272",
+      "username": "Davidpto420",
+      "firstName": "David",
+      "joinedAt": "2026-10-16T01:38:55.620Z",
+      "lastActiveAt": "2026-10-16T01:39:52.659Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1568,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

@@ -16,9 +16,9 @@
     "secondChannelUrl": "https://t.me/followxpresss",
     "dailyFreeLimit": 3,
     "referralBonusCredits": 5,
-    "premiumWeeklyPrice": "₹1 / 7 Days",
+    "premiumWeeklyPrice": "₹5 / 7 Days",
     "premiumMonthlyPrice": "₹19 / 30 Days",
-    "premiumLifetimePrice": "₹99 / Lifetime",
+    "premiumLifetimePrice": "₹49 / Lifetime",
     "premiumPaymentNote": "Auto-Generate QR & Instant Auto-Verify via UPI",
     "paymentApiKey": "PAY7E2B0B6556E10671E2F47212",
     "paymentUpiId": "paytm.s1dw5n0@pty",
@@ -580,12 +580,12 @@
     "6672896116": {
       "telegramId": "6672896116",
       "username": "Uhtkarshh",
-      "firstName": "Uhtkarsh",
+      "firstName": "ᶠᶸᶜᵏме𓀐",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-13T15:52:18.560Z",
+      "lastActiveAt": "2026-10-16T02:02:20.515Z",
       "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-13",
+      "dailySearchDate": "2026-10-16",
       "dailySearchCount": 0,
       "totalLookups": 28,
       "referredBy": null,
@@ -630,7 +630,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791637213921113%26tn%3DVC1791637213921113%26cu%3DINR",
         "createdAt": "2026-10-10T13:00:13.921Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8968071078": {
       "telegramId": "8968071078",

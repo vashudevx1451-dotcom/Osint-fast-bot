@@ -851,58 +851,42 @@
       "username": "socialxym",
       "firstName": "Tʀᴜsᴛᴇᴅ Sᴇʟʟᴇʀ",
       "joinedAt": "2026-10-10T13:02:58.726Z",
-      "lastActiveAt": "2026-10-10T13:32:24.540Z",
+      "lastActiveAt": "2026-10-16T08:25:19.736Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-10",
-      "dailySearchCount": 1,
-      "totalLookups": 1,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 2,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 640,
+      "lastBotMessageId": 1818,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "dynamic_qr",
+      "lastBotPhotoKind": "qr",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "9835216800",
         "records": [
           {
-            "name": "Pintu Kumar . .",
-            "fatherName": "S/O: Kanhai Saw",
-            "phone": "9835216800",
-            "altPhone": "8294762929",
-            "carrier": "BIHAR BSNL",
-            "email": "None",
-            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
-            "aadhaarId": "612041560813",
-            "location": "BIHAR BSNL",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "mobile_norm": "9835216800"
-            }
-          },
-          {
-            "name": "Pintu Kumar",
-            "fatherName": "S/O: Kanhai Saw",
+            "name": "Unknown",
+            "fatherName": "None",
             "phone": "9835216800",
             "altPhone": "None",
-            "carrier": "BIHAR BSNL",
+            "carrier": "None",
             "email": "None",
-            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
-            "aadhaarId": "612041560813",
-            "location": "BIHAR BSNL",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "mobile_norm": "9835216800"
+              "error": "Invalid or expired API key"
             }
           }
         ],
-        "page": 1
+        "page": 0
       },
       "activePaymentOrder": {
         "orderId": "VC179163747497144",
@@ -914,7 +898,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC179163747497144%26tn%3DVC179163747497144%26cu%3DINR",
         "createdAt": "2026-10-10T13:04:34.971Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "6502481272": {
       "telegramId": "6502481272",
@@ -5168,9 +5152,103 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8764442996": {
+      "telegramId": "8764442996",
+      "username": "",
+      "firstName": "Ram",
+      "joinedAt": "2026-10-16T08:20:57.803Z",
+      "lastActiveAt": "2026-10-16T08:22:23.111Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1811,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9422100378",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9422100378",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792139110133-ceztg",
+      "telegramId": "8066965283",
+      "username": "socialxym",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T08:25:10.133Z"
+    },
+    {
+      "id": "1792139095783-fi35r",
+      "telegramId": "8066965283",
+      "username": "socialxym",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T08:24:55.783Z"
+    },
+    {
+      "id": "1792138924604-cq6qt",
+      "telegramId": "8764442996",
+      "username": "Ram",
+      "serviceType": "number_info",
+      "query": "9422100378",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T08:22:04.604Z"
+    },
+    {
+      "id": "1792138906530-r8wzt",
+      "telegramId": "8764442996",
+      "username": "Ram",
+      "serviceType": "number_info",
+      "query": "8275505004",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T08:21:46.530Z"
+    },
+    {
+      "id": "1792138877464-t0aw7",
+      "telegramId": "8764442996",
+      "username": "Ram",
+      "serviceType": "number_info",
+      "query": "8830251338",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T08:21:17.464Z"
+    },
     {
       "id": "1792136160194-yb32x",
       "telegramId": "6783862138",
@@ -7120,56 +7198,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T06:27:32.791Z"
-    },
-    {
-      "id": "1791700021285-vdumk",
-      "telegramId": "1772821518",
-      "username": "Ak",
-      "serviceType": "number_info",
-      "query": "8461885971",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T06:27:01.285Z"
-    },
-    {
-      "id": "1791699109357-i5fgo",
-      "telegramId": "7452294925",
-      "username": "suraj3024",
-      "serviceType": "number_info",
-      "query": "6206050068",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T06:11:49.357Z"
-    },
-    {
-      "id": "1791696984605-vp3dw",
-      "telegramId": "5337166443",
-      "username": "abhiJE99",
-      "serviceType": "number_info",
-      "query": "9076674103",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T05:36:24.605Z"
-    },
-    {
-      "id": "1791696969827-ar9zg",
-      "telegramId": "5337166443",
-      "username": "abhiJE99",
-      "serviceType": "number_info",
-      "query": "9076674103",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T05:36:09.827Z"
-    },
-    {
-      "id": "1791696824539-7fmbk",
-      "telegramId": "6502481272",
-      "username": "Gamer",
-      "serviceType": "number_info",
-      "query": "9131673040",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T05:33:44.539Z"
     }
   ]
 }

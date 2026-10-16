@@ -4815,7 +4815,7 @@
       "username": "",
       "firstName": "Б",
       "joinedAt": "2026-10-15T17:37:20.908Z",
-      "lastActiveAt": "2026-10-16T04:02:12.909Z",
+      "lastActiveAt": "2026-10-16T23:08:39.534Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-16",
@@ -4825,7 +4825,7 @@
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-11-14T19:49:06.198Z",
-      "awaitingInput": null,
+      "awaitingInput": "number",
       "lastBotMessageId": 1678,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -4863,7 +4863,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D49%26tr%3DVC179212064010514%26tn%3DVC179212064010514%26cu%3DINR",
         "createdAt": "2026-10-16T03:17:20.105Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "7330608857": {
       "telegramId": "7330608857",

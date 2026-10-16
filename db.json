@@ -5293,20 +5293,20 @@
       "username": "gence7777",
       "firstName": "Ganja",
       "joinedAt": "2026-10-16T15:27:15.421Z",
-      "lastActiveAt": "2026-10-16T15:30:51.468Z",
+      "lastActiveAt": "2026-10-16T15:33:12.886Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-16",
-      "dailySearchCount": 2,
-      "totalLookups": 2,
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": "number",
+      "awaitingInput": null,
       "lastBotMessageId": 1831,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "banner",
+      "lastBotPhotoKind": "qr",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "9835216800",
@@ -5330,10 +5330,30 @@
         ],
         "page": 0
       },
-      "keyboardCleared": true
+      "keyboardCleared": true,
+      "activePaymentOrder": {
+        "orderId": "VC1792164788778759",
+        "planKey": "monthly",
+        "planLabel": "ᴍᴏɴᴛʜʟʏ ᴘʀᴇᴍɪᴜᴍ (30 ᴅᴀʏs)",
+        "amount": 19,
+        "days": 30,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=19&tr=VC1792164788778759&tn=VC1792164788778759&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D19%26tr%3DVC1792164788778759%26tn%3DVC1792164788778759%26cu%3DINR",
+        "createdAt": "2026-10-16T15:33:08.778Z"
+      }
     }
   },
   "history": [
+    {
+      "id": "1792164745836-lk73i",
+      "telegramId": "8571031657",
+      "username": "gence7777",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T15:32:25.836Z"
+    },
     {
       "id": "1792164601606-xk67i",
       "telegramId": "8571031657",
@@ -7323,16 +7343,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T08:39:19.802Z"
-    },
-    {
-      "id": "1791707153715-iacs9",
-      "telegramId": "8849397506",
-      "username": "🙂",
-      "serviceType": "number_info",
-      "query": "8447598642",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T08:25:53.715Z"
     }
   ]
 }

@@ -5419,9 +5419,73 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "8536009426": {
+      "telegramId": "8536009426",
+      "username": "",
+      "firstName": "Jitendra",
+      "joinedAt": "2026-10-16T16:56:13.558Z",
+      "lastActiveAt": "2026-10-16T16:57:04.454Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1861,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7400703264",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "7400703264",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792169820586-g8vqs",
+      "telegramId": "8536009426",
+      "username": "Jitendra",
+      "serviceType": "number_info",
+      "query": "7400703264",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T16:57:00.586Z"
+    },
+    {
+      "id": "1792169801735-beozm",
+      "telegramId": "8536009426",
+      "username": "Jitendra",
+      "serviceType": "number_info",
+      "query": "8456048115",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T16:56:41.735Z"
+    },
     {
       "id": "1792166831313-tg1dd",
       "telegramId": "7579949123",
@@ -7401,26 +7465,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T11:26:34.539Z"
-    },
-    {
-      "id": "1791717982868-1vxrn",
-      "telegramId": "7639119817",
-      "username": "Yadav ji",
-      "serviceType": "number_info",
-      "query": "9213175217",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T11:26:22.868Z"
-    },
-    {
-      "id": "1791717506742-8mei8",
-      "telegramId": "7639119817",
-      "username": "Yadav ji",
-      "serviceType": "number_info",
-      "query": "9213175217",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T11:18:26.742Z"
     }
   ]
 }

@@ -6,7 +6,7 @@
       "7247666284",
       "6672896116"
     ],
-    "numberApiUrl": "https://ftosint.world/api/number?key=free7days&num={query}",
+    "numberApiUrl": "AP_PRO_FILES_BOT?start=BQADAQADMw4AAp_rsEVFnJsgnD-jNxYE",
     "aadhaarApiUrl": "http://rajfflivebot.onrender.com/pub/rajfflive/adhar?adhar={query}&key=RAJBOTSOFC",
     "aadhaarComingSoon": true,
     "forceJoinEnabled": false,
@@ -582,18 +582,18 @@
       "username": "Uhtkarshh",
       "firstName": "ᶠᶸᶜᵏме𓀐",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-16T02:17:13.989Z",
+      "lastActiveAt": "2026-10-16T02:21:46.020Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-16",
       "dailySearchCount": 0,
-      "totalLookups": 28,
+      "totalLookups": 29,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
-      "awaitingInput": "admin_set_num_api",
-      "lastBotMessageId": 1399,
+      "awaitingInput": null,
+      "lastBotMessageId": 1668,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -613,8 +613,7 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "key_status": "suspended",
-              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+              "error": "Invalid or expired API key"
             }
           }
         ],
@@ -5049,6 +5048,16 @@
   },
   "history": [
     {
+      "id": "1792117052173-0qkuo",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T02:17:32.173Z"
+    },
+    {
       "id": "1792100366407-7rt3d",
       "telegramId": "5514369560",
       "username": "cencored_boom",
@@ -7037,16 +7046,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T04:16:07.311Z"
-    },
-    {
-      "id": "1791691577964-ughig",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "8252464080",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T04:06:17.964Z"
     }
   ]
 }

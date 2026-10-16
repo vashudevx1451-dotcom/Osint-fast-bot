@@ -5372,9 +5372,63 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D19%26tr%3DVC1792164788778759%26tn%3DVC1792164788778759%26cu%3DINR",
         "createdAt": "2026-10-16T15:33:08.778Z"
       }
+    },
+    "7579949123": {
+      "telegramId": "7579949123",
+      "username": "wh0asad",
+      "firstName": "wh0asad_",
+      "joinedAt": "2026-10-16T16:06:36.896Z",
+      "lastActiveAt": "2026-10-16T16:07:15.618Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1849,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7762879387",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "7762879387",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792166831313-tg1dd",
+      "telegramId": "7579949123",
+      "username": "wh0asad",
+      "serviceType": "number_info",
+      "query": "7762879387",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T16:07:11.313Z"
+    },
     {
       "id": "1792165645248-bjmk5",
       "telegramId": "8968071078",
@@ -7364,16 +7418,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T11:18:26.742Z"
-    },
-    {
-      "id": "1791711466838-ufizu",
-      "telegramId": "8426348309",
-      "username": "RealllllGod",
-      "serviceType": "number_info",
-      "query": "8776399317",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T09:37:46.838Z"
     }
   ]
 }

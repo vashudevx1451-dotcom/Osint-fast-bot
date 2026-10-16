@@ -5287,9 +5287,73 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8571031657": {
+      "telegramId": "8571031657",
+      "username": "gence7777",
+      "firstName": "Ganja",
+      "joinedAt": "2026-10-16T15:27:15.421Z",
+      "lastActiveAt": "2026-10-16T15:30:51.468Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 1831,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9835216800",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9835216800",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792164601606-xk67i",
+      "telegramId": "8571031657",
+      "username": "gence7777",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T15:30:01.606Z"
+    },
+    {
+      "id": "1792164447231-uv074",
+      "telegramId": "8571031657",
+      "username": "gence7777",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T15:27:27.231Z"
+    },
     {
       "id": "1792155729504-a5csi",
       "telegramId": "900710364",
@@ -7269,26 +7333,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T08:25:53.715Z"
-    },
-    {
-      "id": "1791707135547-0r7t4",
-      "telegramId": "8849397506",
-      "username": "🙂",
-      "serviceType": "number_info",
-      "query": "8447598642",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T08:25:35.547Z"
-    },
-    {
-      "id": "1791702664517-5nhio",
-      "telegramId": "8967626693",
-      "username": "Mayank",
-      "serviceType": "number_info",
-      "query": "7060780862",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T07:11:04.517Z"
     }
   ]
 }

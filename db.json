@@ -680,23 +680,54 @@
       "username": "Auraz7",
       "firstName": "Aura",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-11T00:18:26.465Z",
+      "lastActiveAt": "2026-10-16T15:50:56.923Z",
       "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-11",
-      "dailySearchCount": 0,
-      "totalLookups": 0,
+      "dailySearchDate": "2026-10-16",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 815,
+      "lastBotMessageId": null,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
-      "lastLookupSession": null,
-      "activePaymentOrder": null,
-      "keyboardCleared": false
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8252464080",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "8252464080",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "activePaymentOrder": {
+        "orderId": "VC1792165844119960",
+        "planKey": "weekly",
+        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
+        "amount": 5,
+        "days": 7,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=5&tr=VC1792165844119960&tn=VC1792165844119960&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D5%26tr%3DVC1792165844119960%26tn%3DVC1792165844119960%26cu%3DINR",
+        "createdAt": "2026-10-16T15:50:44.119Z"
+      },
+      "keyboardCleared": true
     },
     "7995520431": {
       "telegramId": "7995520431",
@@ -5345,6 +5376,36 @@
   },
   "history": [
     {
+      "id": "1792165645248-bjmk5",
+      "telegramId": "8968071078",
+      "username": "Auraz7",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T15:47:25.248Z"
+    },
+    {
+      "id": "1792165643734-ml8x3",
+      "telegramId": "8968071078",
+      "username": "Auraz7",
+      "serviceType": "number_info",
+      "query": "8968071078",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T15:47:23.734Z"
+    },
+    {
+      "id": "1792165554315-tidjd",
+      "telegramId": "8968071078",
+      "username": "Auraz7",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-16T15:45:54.315Z"
+    },
+    {
       "id": "1792164745836-lk73i",
       "telegramId": "8571031657",
       "username": "gence7777",
@@ -7313,36 +7374,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T09:37:46.838Z"
-    },
-    {
-      "id": "1791708023602-ej8i1",
-      "telegramId": "8701120919",
-      "username": "EGOxPoritosh",
-      "serviceType": "number_info",
-      "query": "9907772430",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T08:40:23.602Z"
-    },
-    {
-      "id": "1791708005139-vyppf",
-      "telegramId": "8701120919",
-      "username": "EGOxPoritosh",
-      "serviceType": "number_info",
-      "query": "9907772430",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T08:40:05.139Z"
-    },
-    {
-      "id": "1791707959802-kd95m",
-      "telegramId": "8701120919",
-      "username": "EGOxPoritosh",
-      "serviceType": "number_info",
-      "query": "7029207739",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T08:39:19.802Z"
     }
   ]
 }

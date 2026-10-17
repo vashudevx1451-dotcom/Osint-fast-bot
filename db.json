@@ -5199,7 +5199,7 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T06:34:42.969Z",
+      "lastActiveAt": "2026-10-17T06:43:58.090Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
@@ -5212,7 +5212,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 1693,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "qr",
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "7033373844",
@@ -5744,12 +5744,12 @@
       "username": "Dhsvsjavshs",
       "firstName": "Kush",
       "joinedAt": "2026-10-17T06:36:25.271Z",
-      "lastActiveAt": "2026-10-17T06:37:11.449Z",
+      "lastActiveAt": "2026-10-17T06:41:58.255Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
-      "dailySearchCount": 2,
-      "totalLookups": 2,
+      "dailySearchCount": 3,
+      "totalLookups": 3,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5760,22 +5760,38 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8955286262",
+        "query": "9315933155",
         "records": [
           {
-            "name": "Unknown",
-            "fatherName": "None",
-            "phone": "8955286262",
-            "altPhone": "None",
-            "carrier": "None",
+            "name": "Shamsher Paswan",
+            "fatherName": "Arun Kumar",
+            "phone": "9315933155",
+            "altPhone": "8527380878",
+            "carrier": "JIO DELHI",
             "email": "None",
-            "address": "None",
+            "address": "House No 241 Bhangel Near Shiv Mandir, Sector 82 Noida, Ghaziabad Gautam Buddha Nagar, Uttar Pradesh, 201301",
             "aadhaarId": "None",
-            "location": "India",
+            "location": "JIO DELHI",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "truecaller_name": "HOME"
+              "truecaller_name": "Jatis"
+            }
+          },
+          {
+            "name": "Zyotish",
+            "fatherName": "Mhangu Lal Ram",
+            "phone": "9315933155",
+            "altPhone": "9958588994",
+            "carrier": "Delhi Jio",
+            "email": "None",
+            "address": "B 1175, B 1175mangolpuri, mangolpuri, Delhi NorthNorth West, Delhi, 110083",
+            "aadhaarId": "625601040811",
+            "location": "Delhi Jio",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Jatis"
             }
           }
         ],
@@ -5785,6 +5801,16 @@
     }
   },
   "history": [
+    {
+      "id": "1792219321297-liiei",
+      "telegramId": "7745647682",
+      "username": "Dhsvsjavshs",
+      "serviceType": "number_info",
+      "query": "9315933155",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T06:42:01.297Z"
+    },
     {
       "id": "1792219034304-v5pug",
       "telegramId": "7745647682",
@@ -7774,16 +7800,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T19:44:47.157Z"
-    },
-    {
-      "id": "1791745824636-f4sg9",
-      "telegramId": "7639119817",
-      "username": "Yadav ji",
-      "serviceType": "number_info",
-      "query": "9213175217",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T19:10:24.636Z"
     }
   ]
 }

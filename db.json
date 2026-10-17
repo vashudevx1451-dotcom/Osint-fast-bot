@@ -281,6 +281,50 @@
       "activePaymentOrder": null,
       "keyboardCleared": false
     },
+    "1292470797": {
+      "telegramId": "1292470797",
+      "username": "qwerty123098656",
+      "firstName": "Sh.",
+      "joinedAt": "2026-10-17T04:21:34.558Z",
+      "lastActiveAt": "2026-10-17T04:23:01.795Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1906,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9669615796",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9669615796",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
     "1387017095": {
       "telegramId": "1387017095",
       "username": "",
@@ -5646,6 +5690,26 @@
   },
   "history": [
     {
+      "id": "1792210960765-ep30c",
+      "telegramId": "1292470797",
+      "username": "qwerty123098656",
+      "serviceType": "number_info",
+      "query": "9669615796",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T04:22:40.765Z"
+    },
+    {
+      "id": "1792210941074-3mbj3",
+      "telegramId": "1292470797",
+      "username": "qwerty123098656",
+      "serviceType": "number_info",
+      "query": "7224978779",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T04:22:21.074Z"
+    },
+    {
       "id": "1792210486499-nc4ye",
       "telegramId": "8954312375",
       "username": "Mishra",
@@ -7624,26 +7688,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T12:42:05.878Z"
-    },
-    {
-      "id": "1791720785670-axb3s",
-      "telegramId": "7639119817",
-      "username": "Yadav ji",
-      "serviceType": "number_info",
-      "query": "7404151533",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T12:13:05.670Z"
-    },
-    {
-      "id": "1791719797138-tzmcz",
-      "telegramId": "8813782227",
-      "username": "User",
-      "serviceType": "number_info",
-      "query": "9322487774",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T11:56:37.138Z"
     }
   ]
 }

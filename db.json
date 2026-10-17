@@ -672,7 +672,7 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T05:36:48.421Z",
+      "lastActiveAt": "2026-10-17T08:17:22.492Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
@@ -683,7 +683,7 @@
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
       "awaitingInput": null,
-      "lastBotMessageId": 2012,
+      "lastBotMessageId": 2067,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -3617,7 +3617,7 @@
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
-      "premiumUntil": "2036-10-14T07:22:13.179Z",
+      "premiumUntil": "2036-10-14T08:17:22.921Z",
       "awaitingInput": null,
       "lastBotMessageId": 1214,
       "lastBotMessageIsPhoto": true,
@@ -5213,7 +5213,7 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T07:52:09.702Z",
+      "lastActiveAt": "2026-10-17T08:11:23.805Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
@@ -5280,7 +5280,7 @@
             }
           }
         ],
-        "page": 1
+        "page": 2
       },
       "activePaymentOrder": null,
       "keyboardCleared": true

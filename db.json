@@ -5272,12 +5272,12 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T12:13:06.108Z",
+      "lastActiveAt": "2026-10-17T12:18:23.441Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 23,
+      "totalLookups": 25,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5302,9 +5302,7 @@
             "location": "JIO MP",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Salman Ansari"
-            }
+            "additionalFields": {}
           },
           {
             "name": "Ram Das Nagwanshi",
@@ -5318,9 +5316,7 @@
             "location": "AIRTEL MP",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Salman Ansari"
-            }
+            "additionalFields": {}
           },
           {
             "name": "Salman Ansari",
@@ -5334,9 +5330,7 @@
             "location": "JIO MP",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Salman Ansari"
-            }
+            "additionalFields": {}
           },
           {
             "name": "Atal Kumar Dehariya",
@@ -5350,9 +5344,7 @@
             "location": "JIO MP",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Salman Ansari"
-            }
+            "additionalFields": {}
           },
           {
             "name": "MR AKIL AHAMAD",
@@ -5366,9 +5358,7 @@
             "location": "VI MP",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Salman Ansari"
-            }
+            "additionalFields": {}
           },
           {
             "name": "MR NANDKISHOR KAHAR",
@@ -5382,9 +5372,7 @@
             "location": "VI MP",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Salman Ansari"
-            }
+            "additionalFields": {}
           },
           {
             "name": "MR SALMAN ANSARI",
@@ -5398,12 +5386,10 @@
             "location": "VI MP",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Salman Ansari"
-            }
+            "additionalFields": {}
           }
         ],
-        "page": 1
+        "page": 6
       },
       "activePaymentOrder": null,
       "keyboardCleared": true
@@ -6063,9 +6049,125 @@
       "lastLookupSession": null,
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "8162431260": {
+      "telegramId": "8162431260",
+      "username": "",
+      "firstName": "FREE PANEL",
+      "joinedAt": "2026-10-17T12:13:55.349Z",
+      "lastActiveAt": "2026-10-17T12:19:05.156Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2206,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9761196306",
+        "records": [
+          {
+            "name": "Fareed Khan",
+            "fatherName": "Yaqoob Ali",
+            "phone": "9557943438",
+            "altPhone": "9761196306",
+            "carrier": "JIO UPE UPW",
+            "email": "None",
+            "address": "S/O Yaqoob Ali, 484 Nek, Gram post nek, Nek Meerut Meerut, Uttar Pradesh, 250501",
+            "aadhaarId": "457887716634",
+            "location": "JIO UPE UPW",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Sanu"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
+    "8299737228": {
+      "telegramId": "8299737228",
+      "username": "",
+      "firstName": "FREE",
+      "joinedAt": "2026-10-17T12:16:41.135Z",
+      "lastActiveAt": "2026-10-17T12:16:50.900Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2216,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792239414054-zk8b9",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "8962678900",
+      "status": "success",
+      "recordCount": 7,
+      "timestamp": "2026-10-17T12:16:54.054Z"
+    },
+    {
+      "id": "1792239377287-0tb02",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "9852354483",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T12:16:17.287Z"
+    },
+    {
+      "id": "1792239343531-cidju",
+      "telegramId": "8162431260",
+      "username": "FREE PANEL",
+      "serviceType": "number_info",
+      "query": "9761196306",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T12:15:43.531Z"
+    },
+    {
+      "id": "1792239316017-etq9o",
+      "telegramId": "8162431260",
+      "username": "FREE PANEL",
+      "serviceType": "number_info",
+      "query": "9557943438",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T12:15:16.017Z"
+    },
+    {
+      "id": "1792239270563-ndpml",
+      "telegramId": "8162431260",
+      "username": "FREE PANEL",
+      "serviceType": "number_info",
+      "query": "7983468100",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T12:14:30.563Z"
+    },
     {
       "id": "1792238923214-bgnyc",
       "telegramId": "6822959930",
@@ -8015,56 +8117,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T08:21:52.677Z"
-    },
-    {
-      "id": "1791793294528-hhg5m",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T08:21:34.528Z"
-    },
-    {
-      "id": "1791792966698-eg5tw",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T08:16:06.698Z"
-    },
-    {
-      "id": "1791792934109-mni7j",
-      "telegramId": "5643630649",
-      "username": "@",
-      "serviceType": "number_info",
-      "query": "9430039776",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T08:15:34.109Z"
-    },
-    {
-      "id": "1791792904748-3gqdp",
-      "telegramId": "5643630649",
-      "username": "@",
-      "serviceType": "number_info",
-      "query": "8340533461",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T08:15:04.748Z"
-    },
-    {
-      "id": "1791792761656-svusw",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "8252464080",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T08:12:41.656Z"
     }
   ]
 }

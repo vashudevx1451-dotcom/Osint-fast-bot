@@ -718,12 +718,12 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T12:51:48.702Z",
+      "lastActiveAt": "2026-10-17T13:02:55.352Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 46,
+      "totalLookups": 55,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -731,7 +731,7 @@
       "awaitingInput": null,
       "lastBotMessageId": 2283,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "banner",
+      "lastBotPhotoKind": "dynamic_qr",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "9835216800",
@@ -768,14 +768,14 @@
         "page": 0
       },
       "activePaymentOrder": {
-        "orderId": "VC1792241484564937",
+        "orderId": "VC1792242134275541",
         "planKey": "weekly",
         "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
         "amount": 9,
         "days": 7,
-        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=9&tr=VC1792241484564937&tn=VC1792241484564937&cu=INR",
-        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D9%26tr%3DVC1792241484564937%26tn%3DVC1792241484564937%26cu%3DINR",
-        "createdAt": "2026-10-17T12:51:24.564Z"
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=9&tr=VC1792242134275541&tn=VC1792242134275541&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D9%26tr%3DVC1792242134275541%26tn%3DVC1792242134275541%26cu%3DINR",
+        "createdAt": "2026-10-17T13:02:14.275Z"
       },
       "keyboardCleared": true
     },
@@ -6079,6 +6079,96 @@
   },
   "history": [
     {
+      "id": "1792241912099-4y5kz",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T12:58:32.099Z"
+    },
+    {
+      "id": "1792241880649-34r99",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9142089721",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T12:58:00.649Z"
+    },
+    {
+      "id": "1792241855391-xmtap",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9708398593",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T12:57:35.391Z"
+    },
+    {
+      "id": "1792241836043-swvds",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "7061224270",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T12:57:16.043Z"
+    },
+    {
+      "id": "1792241820621-7viay",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8676972045",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T12:57:00.621Z"
+    },
+    {
+      "id": "1792241804131-hajlq",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T12:56:44.131Z"
+    },
+    {
+      "id": "1792241787629-xa3wk",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T12:56:27.629Z"
+    },
+    {
+      "id": "1792241729104-iqtu4",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T12:55:29.104Z"
+    },
+    {
+      "id": "1792241613665-2xra3",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T12:53:33.665Z"
+    },
+    {
       "id": "1792241356860-diw7c",
       "telegramId": "6672896116",
       "username": "Uhtkarshh",
@@ -7987,96 +8077,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T11:59:08.599Z"
-    },
-    {
-      "id": "1791806332461-9fgh0",
-      "telegramId": "6709466623",
-      "username": "༺𝕾𝖊ñ𝖔𝖗𝖎𝖙𝖔༻",
-      "serviceType": "number_info",
-      "query": "8594859827",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T11:58:52.461Z"
-    },
-    {
-      "id": "1791802578816-henhk",
-      "telegramId": "5985640556",
-      "username": "shiwanigupta1",
-      "serviceType": "number_info",
-      "query": "9296229315",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T10:56:18.816Z"
-    },
-    {
-      "id": "1791802530516-665hx",
-      "telegramId": "5985640556",
-      "username": "shiwanigupta1",
-      "serviceType": "number_info",
-      "query": "9296229315",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T10:55:30.516Z"
-    },
-    {
-      "id": "1791801866710-pszq2",
-      "telegramId": "7486531218",
-      "username": "MOHIT",
-      "serviceType": "number_info",
-      "query": "8375867469",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T10:44:26.710Z"
-    },
-    {
-      "id": "1791801859311-m5k55",
-      "telegramId": "7486531218",
-      "username": "MOHIT",
-      "serviceType": "number_info",
-      "query": "8375867469",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T10:44:19.311Z"
-    },
-    {
-      "id": "1791801833507-ksm0t",
-      "telegramId": "7486531218",
-      "username": "MOHIT",
-      "serviceType": "number_info",
-      "query": "8375867469",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T10:43:53.507Z"
-    },
-    {
-      "id": "1791800451266-qcvmc",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T10:20:51.266Z"
-    },
-    {
-      "id": "1791799495043-vwn8g",
-      "telegramId": "7738123760",
-      "username": "Mr_spire",
-      "serviceType": "number_info",
-      "query": "9509563022",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T10:04:55.043Z"
-    },
-    {
-      "id": "1791796839836-xef8t",
-      "telegramId": "1738253610",
-      "username": "ri_pnkj",
-      "serviceType": "number_info",
-      "query": "9286067134",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T09:20:39.836Z"
     }
   ]
 }

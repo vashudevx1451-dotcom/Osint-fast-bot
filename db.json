@@ -4969,18 +4969,18 @@
       "username": "",
       "firstName": "Chandu",
       "joinedAt": "2026-10-15T21:12:02.215Z",
-      "lastActiveAt": "2026-10-15T21:14:13.619Z",
-      "joinedChannel": false,
+      "lastActiveAt": "2026-10-17T06:51:33.224Z",
+      "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-15",
-      "dailySearchCount": 3,
-      "totalLookups": 3,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 1,
+      "totalLookups": 4,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": null,
+      "lastBotMessageId": 2054,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -5000,15 +5000,14 @@
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "key_status": "suspended",
-              "suspend_reason": "Auto: 100 unique IPs (≥3 calls each)"
+              "truecaller_name": "Sruthi"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8156629638": {
       "telegramId": "8156629638",
@@ -5801,6 +5800,16 @@
     }
   },
   "history": [
+    {
+      "id": "1792219850097-w54wy",
+      "telegramId": "8007292878",
+      "username": "Chandu",
+      "serviceType": "number_info",
+      "query": "7702715834",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T06:50:50.097Z"
+    },
     {
       "id": "1792219321297-liiei",
       "telegramId": "7745647682",
@@ -7790,16 +7799,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T19:45:01.652Z"
-    },
-    {
-      "id": "1791747887157-zzpn5",
-      "telegramId": "5445620277",
-      "username": "Obito",
-      "serviceType": "number_info",
-      "query": "0540284750",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T19:44:47.157Z"
     }
   ]
 }

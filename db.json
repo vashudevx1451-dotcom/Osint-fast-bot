@@ -6392,6 +6392,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8783894488": {
+      "telegramId": "8783894488",
+      "username": "",
+      "firstName": "Ankit Shukla",
+      "joinedAt": "2026-10-17T16:50:42.931Z",
+      "lastActiveAt": "2026-10-17T16:50:42.933Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2482,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

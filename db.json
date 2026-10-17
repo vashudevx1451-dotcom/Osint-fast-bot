@@ -716,12 +716,12 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T08:43:15.467Z",
+      "lastActiveAt": "2026-10-17T08:58:37.773Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 38,
+      "totalLookups": 39,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -732,22 +732,38 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8676972045",
+        "query": "9835216800",
         "records": [
           {
-            "name": "Ranju Devi",
-            "fatherName": "Pankaj Kumar",
-            "phone": "8676972045",
-            "altPhone": "9708250034",
-            "carrier": "BIHAR JIO",
+            "name": "Pintu Kumar",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "None",
+            "carrier": "BIHAR BSNL",
             "email": "None",
-            "address": "rajapakar Vaishali Bihar block rajapakar Thana rajapakar pos, west tola ward no 3 rajapakar Vaishali Bihar, Rajya pakshi Mandir, rajapakar Vaishali Bihar block rajapakar Thana rajapakar, Vaishali, Vaisha",
-            "aadhaarId": "794299567181",
-            "location": "BIHAR JIO",
+            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "truecaller_name": "Asha Devi 16"
+              "truecaller_name": "Pintu Cd"
+            }
+          },
+          {
+            "name": "Pintu Kumar . .",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "8294762929",
+            "carrier": "BIHAR BSNL",
+            "email": "None",
+            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Pintu Cd"
             }
           }
         ],
@@ -5952,6 +5968,16 @@
   },
   "history": [
     {
+      "id": "1792227025893-x5buk",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T08:50:25.893Z"
+    },
+    {
       "id": "1792226918432-6f8zw",
       "telegramId": "6822959930",
       "username": "Singh",
@@ -7940,16 +7966,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T05:01:36.848Z"
-    },
-    {
-      "id": "1791780917022-645i0",
-      "telegramId": "8306165476",
-      "username": "Ramdev",
-      "serviceType": "number_info",
-      "query": "7739059996",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T04:55:17.022Z"
     }
   ]
 }

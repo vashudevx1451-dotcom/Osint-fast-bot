@@ -5598,9 +5598,73 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "8954312375": {
+      "telegramId": "8954312375",
+      "username": "",
+      "firstName": "Mishra",
+      "joinedAt": "2026-10-17T04:14:05.113Z",
+      "lastActiveAt": "2026-10-17T04:14:50.994Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1899,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8877441250",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "8877441250",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792210486499-nc4ye",
+      "telegramId": "8954312375",
+      "username": "Mishra",
+      "serviceType": "number_info",
+      "query": "8877441250",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T04:14:46.499Z"
+    },
+    {
+      "id": "1792210468646-p457t",
+      "telegramId": "8954312375",
+      "username": "Mishra",
+      "serviceType": "number_info",
+      "query": "8893968940",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T04:14:28.646Z"
+    },
     {
       "id": "1792200412768-om7f7",
       "telegramId": "6672896116",
@@ -7580,26 +7644,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T11:56:37.138Z"
-    },
-    {
-      "id": "1791719761783-c88b4",
-      "telegramId": "7642957228",
-      "username": "Ji Ji bro",
-      "serviceType": "number_info",
-      "query": "6397249947",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T11:56:01.783Z"
-    },
-    {
-      "id": "1791719744976-tohbp",
-      "telegramId": "7642957228",
-      "username": "Ji Ji bro",
-      "serviceType": "number_info",
-      "query": "8035208342",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T11:55:44.976Z"
     }
   ]
 }

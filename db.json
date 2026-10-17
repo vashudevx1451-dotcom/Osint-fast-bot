@@ -718,20 +718,20 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T11:12:33.723Z",
+      "lastActiveAt": "2026-10-17T11:22:05.357Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 39,
+      "totalLookups": 41,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
       "awaitingInput": null,
-      "lastBotMessageId": 2157,
+      "lastBotMessageId": 2164,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "banner",
+      "lastBotPhotoKind": "dynamic_qr",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "9835216800",
@@ -748,9 +748,7 @@
             "location": "BIHAR BSNL",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Pintu Cd"
-            }
+            "additionalFields": {}
           },
           {
             "name": "Pintu Kumar . .",
@@ -764,22 +762,20 @@
             "location": "BIHAR BSNL",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Pintu Cd"
-            }
+            "additionalFields": {}
           }
         ],
         "page": 0
       },
       "activePaymentOrder": {
-        "orderId": "VC1792235524514119",
+        "orderId": "VC1792236125642519",
         "planKey": "weekly",
         "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
         "amount": 5,
         "days": 7,
-        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=5&tr=VC1792235524514119&tn=VC1792235524514119&cu=INR",
-        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D5%26tr%3DVC1792235524514119%26tn%3DVC1792235524514119%26cu%3DINR",
-        "createdAt": "2026-10-17T11:12:04.514Z"
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=5&tr=VC1792236125642519&tn=VC1792236125642519&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D5%26tr%3DVC1792236125642519%26tn%3DVC1792236125642519%26cu%3DINR",
+        "createdAt": "2026-10-17T11:22:05.642Z"
       },
       "keyboardCleared": true
     },
@@ -5975,6 +5971,26 @@
   },
   "history": [
     {
+      "id": "1792235663158-9j02q",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T11:14:23.158Z"
+    },
+    {
+      "id": "1792235615193-j8ow2",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T11:13:35.193Z"
+    },
+    {
       "id": "1792229771196-ny1me",
       "telegramId": "8963175300",
       "username": "Sam",
@@ -7953,26 +7969,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T05:58:59.288Z"
-    },
-    {
-      "id": "1791781344028-047ad",
-      "telegramId": "8836636372",
-      "username": "Rota_hu",
-      "serviceType": "number_info",
-      "query": "9002264167",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T05:02:24.028Z"
-    },
-    {
-      "id": "1791781327462-hqv38",
-      "telegramId": "8836636372",
-      "username": "Rota_hu",
-      "serviceType": "number_info",
-      "query": "9002264167",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T05:02:07.462Z"
     }
   ]
 }

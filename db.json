@@ -3609,12 +3609,12 @@
       "username": "uttamshk",
       "firstName": "Rakesh",
       "joinedAt": "2026-10-12T08:22:57.078Z",
-      "lastActiveAt": "2026-10-16T07:36:09.960Z",
-      "joinedChannel": false,
+      "lastActiveAt": "2026-10-17T07:19:19.190Z",
+      "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-16",
-      "dailySearchCount": 1,
-      "totalLookups": 3,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 3,
+      "totalLookups": 6,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -3625,29 +3625,45 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9313384161",
+        "query": "9814704286",
         "records": [
           {
-            "name": "Unknown",
-            "fatherName": "None",
-            "phone": "9313384161",
-            "altPhone": "None",
-            "carrier": "None",
+            "name": "HAPPY SHARMA",
+            "fatherName": "Suresh Kumar Sharma",
+            "phone": "9646724286",
+            "altPhone": "9814704286",
+            "carrier": "VODA PUNJAB",
             "email": "None",
-            "address": "None",
-            "aadhaarId": "None",
-            "location": "India",
+            "address": "house no 164 sunam, mohalla kohlian WALA sunam sangrur, sunam sangrurSANGRUR, SUNAM, SANGRUR, PUNJAB, 148028",
+            "aadhaarId": "282202584305",
+            "location": "VODA PUNJAB",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "error": "Invalid or expired API key"
+              "truecaller_name": "Naam Me Kya Rakha Hai"
+            }
+          },
+          {
+            "name": "HAPPY SHARMA",
+            "fatherName": "Suresh Kumar Sharma",
+            "phone": "8054580970",
+            "altPhone": "9814704286",
+            "carrier": "VODA PUNJAB",
+            "email": "None",
+            "address": "house no 164, mohalla kohlian WALA sunam sangrur, sunam sangrurSANGRUR, SUNAM, SANGRUR, PUNJAB, 148028",
+            "aadhaarId": "282202584305",
+            "location": "VODA PUNJAB",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Naam Me Kya Rakha Hai"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8810387173": {
       "telegramId": "8810387173",
@@ -5797,9 +5813,93 @@
         "page": 1
       },
       "keyboardCleared": true
+    },
+    "6519394978": {
+      "telegramId": "6519394978",
+      "username": "jessin2022",
+      "firstName": "💕💕",
+      "joinedAt": "2026-10-17T07:12:19.970Z",
+      "lastActiveAt": "2026-10-17T07:14:37.319Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2059,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9381606799",
+        "records": [
+          {
+            "name": "Chaithanya Babu J V C",
+            "fatherName": "chandrasekhara rao j",
+            "phone": "9381606799",
+            "altPhone": "9121195932",
+            "carrier": "JIO AP",
+            "email": "None",
+            "address": "MUSUNUR CHENCHUGANI PALEM, Musunuru rural Nellore, Andhra Pradesh, 524201",
+            "aadhaarId": "None",
+            "location": "JIO AP",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Tamil"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792221561395-e9i7q",
+      "telegramId": "6783862138",
+      "username": "uttamshk",
+      "serviceType": "number_info",
+      "query": "9814704286",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T07:19:21.395Z"
+    },
+    {
+      "id": "1792221477721-ar108",
+      "telegramId": "6783862138",
+      "username": "uttamshk",
+      "serviceType": "number_info",
+      "query": "9646207380",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T07:17:57.721Z"
+    },
+    {
+      "id": "1792221438584-ib73e",
+      "telegramId": "6783862138",
+      "username": "uttamshk",
+      "serviceType": "number_info",
+      "query": "9313384161",
+      "status": "success",
+      "recordCount": 4,
+      "timestamp": "2026-10-17T07:17:18.584Z"
+    },
+    {
+      "id": "1792221167562-cne1o",
+      "telegramId": "6519394978",
+      "username": "jessin2022",
+      "serviceType": "number_info",
+      "query": "9381606799",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T07:12:47.562Z"
+    },
     {
       "id": "1792219850097-w54wy",
       "telegramId": "8007292878",
@@ -7759,46 +7859,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T21:12:57.626Z"
-    },
-    {
-      "id": "1791751460802-n3qbn",
-      "telegramId": "8836636372",
-      "username": "Rota_hu",
-      "serviceType": "number_info",
-      "query": "9002264167",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T20:44:20.802Z"
-    },
-    {
-      "id": "1791751428630-n4xo8",
-      "telegramId": "8836636372",
-      "username": "Rota_hu",
-      "serviceType": "number_info",
-      "query": "9002264167",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T20:43:48.630Z"
-    },
-    {
-      "id": "1791748143163-htil3",
-      "telegramId": "5445620277",
-      "username": "Obito",
-      "serviceType": "number_info",
-      "query": "0557588670",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T19:49:03.163Z"
-    },
-    {
-      "id": "1791747901652-chsrf",
-      "telegramId": "5445620277",
-      "username": "Obito",
-      "serviceType": "number_info",
-      "query": "0565541940",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T19:45:01.652Z"
     }
   ]
 }

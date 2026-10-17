@@ -671,18 +671,18 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T05:09:56.895Z",
+      "lastActiveAt": "2026-10-17T05:14:57.669Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 33,
+      "totalLookups": 35,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
       "awaitingInput": null,
-      "lastBotMessageId": 1896,
+      "lastBotMessageId": 2012,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -701,9 +701,7 @@
             "location": "BIHAR BSNL",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Pintu Cd"
-            }
+            "additionalFields": {}
           },
           {
             "name": "Pintu Kumar . .",
@@ -717,22 +715,20 @@
             "location": "BIHAR BSNL",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Pintu Cd"
-            }
+            "additionalFields": {}
           }
         ],
-        "page": 0
+        "page": 1
       },
       "activePaymentOrder": {
-        "orderId": "VC1791637213921113",
+        "orderId": "VC1792214070812577",
         "planKey": "weekly",
         "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
-        "amount": 1,
+        "amount": 5,
         "days": 7,
-        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=1&tr=VC1791637213921113&tn=VC1791637213921113&cu=INR",
-        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791637213921113%26tn%3DVC1791637213921113%26cu%3DINR",
-        "createdAt": "2026-10-10T13:00:13.921Z"
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=5&tr=VC1792214070812577&tn=VC1792214070812577&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D5%26tr%3DVC1792214070812577%26tn%3DVC1792214070812577%26cu%3DINR",
+        "createdAt": "2026-10-17T05:14:30.812Z"
       },
       "keyboardCleared": true
     },
@@ -987,42 +983,54 @@
       "username": "socialxym",
       "firstName": "Tʀᴜsᴛᴇᴅ Sᴇʟʟᴇʀ",
       "joinedAt": "2026-10-10T13:02:58.726Z",
-      "lastActiveAt": "2026-10-16T08:25:19.736Z",
-      "joinedChannel": false,
+      "lastActiveAt": "2026-10-17T05:17:29.149Z",
+      "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-16",
-      "dailySearchCount": 2,
-      "totalLookups": 3,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 1,
+      "totalLookups": 4,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": null,
+      "awaitingInput": "number",
       "lastBotMessageId": 1818,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "qr",
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "9835216800",
         "records": [
           {
-            "name": "Unknown",
-            "fatherName": "None",
+            "name": "Pintu Kumar",
+            "fatherName": "S/O: Kanhai Saw",
             "phone": "9835216800",
             "altPhone": "None",
-            "carrier": "None",
+            "carrier": "BIHAR BSNL",
             "email": "None",
-            "address": "None",
-            "aadhaarId": "None",
-            "location": "India",
+            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "error": "Invalid or expired API key"
-            }
+            "additionalFields": {}
+          },
+          {
+            "name": "Pintu Kumar . .",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "8294762929",
+            "carrier": "BIHAR BSNL",
+            "email": "None",
+            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {}
           }
         ],
-        "page": 0
+        "page": 1
       },
       "activePaymentOrder": {
         "orderId": "VC179163747497144",
@@ -1034,7 +1042,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC179163747497144%26tn%3DVC179163747497144%26cu%3DINR",
         "createdAt": "2026-10-10T13:04:34.971Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "6502481272": {
       "telegramId": "6502481272",
@@ -5706,6 +5714,36 @@
   },
   "history": [
     {
+      "id": "1792214228280-uz67y",
+      "telegramId": "8066965283",
+      "username": "socialxym",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T05:17:08.280Z"
+    },
+    {
+      "id": "1792213977679-3crl7",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T05:12:57.679Z"
+    },
+    {
+      "id": "1792213798180-0kw3k",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:09:58.180Z"
+    },
+    {
       "id": "1792213787393-b5yqm",
       "telegramId": "6672896116",
       "username": "Uhtkarshh",
@@ -7674,36 +7712,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T15:17:16.407Z"
-    },
-    {
-      "id": "1791731497814-qzq74",
-      "telegramId": "8836636372",
-      "username": "Rota_hu",
-      "serviceType": "number_info",
-      "query": "9002264167",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T15:11:37.814Z"
-    },
-    {
-      "id": "1791727636054-9tmok",
-      "telegramId": "8845371942",
-      "username": "Mirshohid",
-      "serviceType": "number_info",
-      "query": "8845371942",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T14:07:16.054Z"
-    },
-    {
-      "id": "1791724447382-ge3uk",
-      "telegramId": "8662738171",
-      "username": "kidw7s",
-      "serviceType": "number_info",
-      "query": "9999132801",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T13:14:07.382Z"
     }
   ]
 }

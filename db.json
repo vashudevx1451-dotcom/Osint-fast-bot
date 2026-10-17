@@ -718,18 +718,18 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T11:22:05.357Z",
+      "lastActiveAt": "2026-10-17T11:25:07.274Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 41,
+      "totalLookups": 42,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
       "awaitingInput": null,
-      "lastBotMessageId": 2164,
+      "lastBotMessageId": 2165,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "dynamic_qr",
       "lastLookupSession": {
@@ -768,14 +768,14 @@
         "page": 0
       },
       "activePaymentOrder": {
-        "orderId": "VC1792236125642519",
-        "planKey": "weekly",
-        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
-        "amount": 5,
-        "days": 7,
-        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=5&tr=VC1792236125642519&tn=VC1792236125642519&cu=INR",
-        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D5%26tr%3DVC1792236125642519%26tn%3DVC1792236125642519%26cu%3DINR",
-        "createdAt": "2026-10-17T11:22:05.642Z"
+        "orderId": "VC1792236307796787",
+        "planKey": "monthly",
+        "planLabel": "ᴍᴏɴᴛʜʟʏ ᴘʀᴇᴍɪᴜᴍ (30 ᴅᴀʏs)",
+        "amount": 19,
+        "days": 30,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=19&tr=VC1792236307796787&tn=VC1792236307796787&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D19%26tr%3DVC1792236307796787%26tn%3DVC1792236307796787%26cu%3DINR",
+        "createdAt": "2026-10-17T11:25:07.796Z"
       },
       "keyboardCleared": true
     },
@@ -5272,12 +5272,12 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T08:48:35.529Z",
+      "lastActiveAt": "2026-10-17T11:32:47.163Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 20,
+      "totalLookups": 21,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5288,29 +5288,77 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "7270165833",
+        "query": "6299335618",
         "records": [
           {
-            "name": "Unknown",
-            "fatherName": "None",
-            "phone": "7270165833",
-            "altPhone": "None",
-            "carrier": "None",
+            "name": "RAJUSINGH",
+            "fatherName": "MAHESH SINGH",
+            "phone": "9472231780",
+            "altPhone": "6299335618",
+            "carrier": "BIHAR BSNL",
             "email": "None",
-            "address": "None",
-            "aadhaarId": "None",
-            "location": "India",
+            "address": "ward no09, Bettiah, Bettiah, Bettiah, West Champaran, BIHAR, 845438",
+            "aadhaarId": "870845796399",
+            "location": "BIHAR BSNL",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "error": "Invalid or expired API key"
+              "truecaller_name": "Abhishek"
+            }
+          },
+          {
+            "name": "RINKU KUMAR",
+            "fatherName": "Chandan Kumar",
+            "phone": "9031215462",
+            "altPhone": "6299335618",
+            "carrier": "VODA BHR&JHR",
+            "email": "None",
+            "address": "-, GAIS LALCHOWK PURANI GUDARI WARD N0-10, BETTIAH West Champaran, PURANI GUDARI WARD N0-10, BETTIAH, West Champaran, BIHAR, 845438",
+            "aadhaarId": "None",
+            "location": "VODA BHR&JHR",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Abhishek"
+            }
+          },
+          {
+            "name": "RAJU SINGH",
+            "fatherName": "C/O: Mahesh Singh",
+            "phone": "8986958464",
+            "altPhone": "6299335618",
+            "carrier": "BIHAR BSNL",
+            "email": "None",
+            "address": "Bettiah ward no 09 purani gudri gaislal chauk Bettiah West Champaran Bihar 845438",
+            "aadhaarId": "xxxxxxxx6399",
+            "location": "BIHAR BSNL",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Abhishek"
+            }
+          },
+          {
+            "name": "RAJU SINGH",
+            "fatherName": "Mahesh singh",
+            "phone": "9905740541",
+            "altPhone": "6299335618",
+            "carrier": "BIHAR JIO",
+            "email": "None",
+            "address": "C/O Mahesh Singh, ward no 09, purani gudri gaislal chauk, Bettiah West Champaran, Bihar, 845438",
+            "aadhaarId": "None",
+            "location": "BIHAR JIO",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Abhishek"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "5619660972": {
       "telegramId": "5619660972",
@@ -5970,6 +6018,26 @@
     }
   },
   "history": [
+    {
+      "id": "1792236774050-wm4vn",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "6299335618",
+      "status": "success",
+      "recordCount": 4,
+      "timestamp": "2026-10-17T11:32:54.050Z"
+    },
+    {
+      "id": "1792236290182-yj17x",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T11:24:50.182Z"
+    },
     {
       "id": "1792235663158-9j02q",
       "telegramId": "6672896116",
@@ -7949,26 +8017,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T06:41:32.588Z"
-    },
-    {
-      "id": "1791784754171-wcccb",
-      "telegramId": "8138672923",
-      "username": "Tp233233",
-      "serviceType": "number_info",
-      "query": "9346782826",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T05:59:14.171Z"
-    },
-    {
-      "id": "1791784739288-053qr",
-      "telegramId": "8138672923",
-      "username": "Tp233233",
-      "serviceType": "number_info",
-      "query": "9394595913",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T05:58:59.288Z"
     }
   ]
 }

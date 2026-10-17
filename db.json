@@ -6,7 +6,7 @@
       "7247666284",
       "6672896116"
     ],
-    "numberApiUrl": "Ghop",
+    "numberApiUrl": "https://ftosint.world/api/number?key=tsneww-num2info&num={query}",
     "aadhaarApiUrl": "http://rajfflivebot.onrender.com/pub/rajfflive/adhar?adhar={query}&key=RAJBOTSOFC",
     "aadhaarComingSoon": true,
     "forceJoinEnabled": true,
@@ -671,12 +671,12 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T02:05:41.508Z",
+      "lastActiveAt": "2026-10-17T05:09:56.895Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 32,
+      "totalLookups": 33,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -690,19 +690,35 @@
         "query": "9835216800",
         "records": [
           {
-            "name": "Unknown",
-            "fatherName": "None",
+            "name": "Pintu Kumar",
+            "fatherName": "S/O: Kanhai Saw",
             "phone": "9835216800",
             "altPhone": "None",
-            "carrier": "None",
+            "carrier": "BIHAR BSNL",
             "email": "None",
-            "address": "None",
-            "aadhaarId": "None",
-            "location": "India",
+            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "error": "Invalid or expired API key"
+              "truecaller_name": "Pintu Cd"
+            }
+          },
+          {
+            "name": "Pintu Kumar . .",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "8294762929",
+            "carrier": "BIHAR BSNL",
+            "email": "None",
+            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Pintu Cd"
             }
           }
         ],
@@ -718,7 +734,7 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D1%26tr%3DVC1791637213921113%26tn%3DVC1791637213921113%26cu%3DINR",
         "createdAt": "2026-10-10T13:00:13.921Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8968071078": {
       "telegramId": "8968071078",
@@ -5690,6 +5706,16 @@
   },
   "history": [
     {
+      "id": "1792213787393-b5yqm",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T05:09:47.393Z"
+    },
+    {
       "id": "1792210960765-ep30c",
       "telegramId": "1292470797",
       "username": "qwerty123098656",
@@ -7678,16 +7704,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T13:14:07.382Z"
-    },
-    {
-      "id": "1791722525878-e9d3y",
-      "telegramId": "8283591451",
-      "username": "Unbound",
-      "serviceType": "number_info",
-      "query": "8434331916",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T12:42:05.878Z"
     }
   ]
 }

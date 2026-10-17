@@ -16,9 +16,9 @@
     "secondChannelUrl": "https://t.me/followxpresss",
     "dailyFreeLimit": 3,
     "referralBonusCredits": 5,
-    "premiumWeeklyPrice": "₹5 / 7 Days",
+    "premiumWeeklyPrice": "₹9 / 7 Days",
     "premiumMonthlyPrice": "₹19 / 30 Days",
-    "premiumLifetimePrice": "₹49 / Lifetime",
+    "premiumLifetimePrice": "₹99 / Lifetime",
     "premiumPaymentNote": "Auto-Generate QR & Instant Auto-Verify via UPI",
     "paymentApiKey": "PAY7E2B0B6556E10671E2F47212",
     "paymentUpiId": "paytm.s1dw5n0@pty",
@@ -718,18 +718,18 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T11:43:01.810Z",
+      "lastActiveAt": "2026-10-17T11:48:31.355Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 43,
+      "totalLookups": 44,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
       "awaitingInput": null,
-      "lastBotMessageId": 2185,
+      "lastBotMessageId": 2196,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -768,14 +768,14 @@
         "page": 0
       },
       "activePaymentOrder": {
-        "orderId": "VC1792236307796787",
-        "planKey": "monthly",
-        "planLabel": "ᴍᴏɴᴛʜʟʏ ᴘʀᴇᴍɪᴜᴍ (30 ᴅᴀʏs)",
-        "amount": 19,
-        "days": 30,
-        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=19&tr=VC1792236307796787&tn=VC1792236307796787&cu=INR",
-        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D19%26tr%3DVC1792236307796787%26tn%3DVC1792236307796787%26cu%3DINR",
-        "createdAt": "2026-10-17T11:25:07.796Z"
+        "orderId": "VC1792237632125602",
+        "planKey": "weekly",
+        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
+        "amount": 9,
+        "days": 7,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=9&tr=VC1792237632125602&tn=VC1792237632125602&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D9%26tr%3DVC1792237632125602%26tn%3DVC1792237632125602%26cu%3DINR",
+        "createdAt": "2026-10-17T11:47:12.125Z"
       },
       "keyboardCleared": true
     },
@@ -6019,6 +6019,16 @@
   },
   "history": [
     {
+      "id": "1792237510110-3oybz",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T11:45:10.110Z"
+    },
+    {
       "id": "1792237166200-le4ig",
       "telegramId": "6672896116",
       "username": "Uhtkarshh",
@@ -8007,16 +8017,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T08:11:45.939Z"
-    },
-    {
-      "id": "1791792659299-22qcl",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 2,
-      "timestamp": "2026-10-12T08:10:59.299Z"
     }
   ]
 }

@@ -5513,7 +5513,7 @@
       "username": "npzyrexx",
       "firstName": "Ada",
       "joinedAt": "2026-10-17T00:50:02.772Z",
-      "lastActiveAt": "2026-10-17T00:51:35.861Z",
+      "lastActiveAt": "2026-10-17T01:20:30.177Z",
       "joinedChannel": false,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
@@ -5551,9 +5551,73 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "7502352923": {
+      "telegramId": "7502352923",
+      "username": "Adarshni4",
+      "firstName": "Saurah",
+      "joinedAt": "2026-10-17T01:19:21.554Z",
+      "lastActiveAt": "2026-10-17T01:20:11.558Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 1888,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9073416936",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9073416936",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792200012678-54af9",
+      "telegramId": "7502352923",
+      "username": "Adarshni4",
+      "serviceType": "number_info",
+      "query": "9073416936",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T01:20:12.678Z"
+    },
+    {
+      "id": "1792199990315-igbbs",
+      "telegramId": "7502352923",
+      "username": "Adarshni4",
+      "serviceType": "number_info",
+      "query": "9073416936",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T01:19:50.315Z"
+    },
     {
       "id": "1792198283401-r52f2",
       "telegramId": "7238553431",
@@ -7533,26 +7597,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T11:55:30.627Z"
-    },
-    {
-      "id": "1791719666805-7osh6",
-      "telegramId": "8813782227",
-      "username": "User",
-      "serviceType": "number_info",
-      "query": "9903677415",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T11:54:26.805Z"
-    },
-    {
-      "id": "1791719496349-4gzkx",
-      "telegramId": "8437164102",
-      "username": "NickProfile",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T11:51:36.349Z"
     }
   ]
 }

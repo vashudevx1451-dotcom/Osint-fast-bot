@@ -3709,12 +3709,12 @@
       "username": "uttamshk",
       "firstName": "Rakesh",
       "joinedAt": "2026-10-12T08:22:57.078Z",
-      "lastActiveAt": "2026-10-17T19:04:47.859Z",
+      "lastActiveAt": "2026-10-17T19:25:02.933Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 3,
-      "totalLookups": 16,
+      "totalLookups": 17,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -3725,22 +3725,22 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8959856422",
+        "query": "8198065271",
         "records": [
           {
-            "name": "Teena Baghela",
-            "fatherName": "W/O Vijay Baghela",
-            "phone": "8959856422",
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "8198065271",
             "altPhone": "None",
-            "carrier": "VI MP",
+            "carrier": "None",
             "email": "None",
-            "address": "W/O Vijay Baghela, ., .Ward No 27 Pragya Nagar Chhipaner Road, Infront Of Bhagya Shree Petrol PumpHarda, Ward No 27 Pragya Nagar Chhipaner Road, HARDA, Harda, Madhya Pradesh, 461331",
+            "address": "None",
             "aadhaarId": "None",
-            "location": "VI MP",
+            "location": "India",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "truecaller_name": "Babu Parmar Home"
+              "error": "Invalid or expired API key"
             }
           }
         ],
@@ -6546,9 +6546,85 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true
+    },
+    "8957819296": {
+      "telegramId": "8957819296",
+      "username": "RZVN97",
+      "firstName": "RZVN",
+      "joinedAt": "2026-10-17T19:17:44.769Z",
+      "lastActiveAt": "2026-10-17T19:20:02.435Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 1,
+      "totalLookups": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": "number",
+      "lastBotMessageId": 2510,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9835216800",
+        "records": [
+          {
+            "name": "Pintu Kumar",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "None",
+            "carrier": "BIHAR BSNL",
+            "email": "None",
+            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {}
+          },
+          {
+            "name": "Pintu Kumar . .",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "8294762929",
+            "carrier": "BIHAR BSNL",
+            "email": "None",
+            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {}
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792265106383-oyde5",
+      "telegramId": "6783862138",
+      "username": "uttamshk",
+      "serviceType": "number_info",
+      "query": "8198065271",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T19:25:06.383Z"
+    },
+    {
+      "id": "1792264754226-pzi9q",
+      "telegramId": "8957819296",
+      "username": "RZVN97",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T19:19:14.226Z"
+    },
     {
       "id": "1792263890810-vw2kt",
       "telegramId": "6783862138",
@@ -8528,26 +8604,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-13T15:52:20.375Z"
-    },
-    {
-      "id": "1791891934349-4cisd",
-      "telegramId": "7639119817",
-      "username": "Yadav ji",
-      "serviceType": "number_info",
-      "query": "9213175217",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-13T11:45:34.349Z"
-    },
-    {
-      "id": "1791886038859-x6v6c",
-      "telegramId": "8926917947",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "7276108376",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-13T10:07:18.859Z"
     }
   ]
 }

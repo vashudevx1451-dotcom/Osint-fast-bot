@@ -969,7 +969,7 @@
       "username": "socialxym",
       "firstName": "Tʀᴜsᴛᴇᴅ Sᴇʟʟᴇʀ",
       "joinedAt": "2026-10-10T13:02:58.726Z",
-      "lastActiveAt": "2026-10-17T05:30:13.982Z",
+      "lastActiveAt": "2026-10-17T05:42:32.368Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
@@ -980,7 +980,7 @@
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 1818,
+      "lastBotMessageId": null,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -5199,12 +5199,12 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T05:35:42.202Z",
+      "lastActiveAt": "2026-10-17T05:48:52.312Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 5,
+      "totalLookups": 9,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5215,40 +5215,8 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "7277165815",
+        "query": "7033373844",
         "records": [
-          {
-            "name": "Harsh Kumar",
-            "fatherName": "Harendra Kumar Singh",
-            "phone": "7277165815",
-            "altPhone": "None",
-            "carrier": "AIRTEL BHR&JHR",
-            "email": "None",
-            "address": "NA, Chapra PO, SARAN, sahebganj Chapra Chapra, Saran, Saran, Bihar, 841301",
-            "aadhaarId": "389921054799",
-            "location": "AIRTEL BHR&JHR",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Harsh"
-            }
-          },
-          {
-            "name": "Harsh Kumar",
-            "fatherName": "harendra kumar singh",
-            "phone": "7488639831",
-            "altPhone": "7277165815",
-            "carrier": "BIHAR JIO",
-            "email": "None",
-            "address": "s/o harendra kumar singh, Chapra, sahebganj chapra, chapra Chapra, saran, Bihar, 841301",
-            "aadhaarId": "389921054799",
-            "location": "BIHAR JIO",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Harsh"
-            }
-          },
           {
             "name": "Harsh Kumar",
             "fatherName": "harendra kumar singh",
@@ -5261,25 +5229,7 @@
             "location": "BIHAR JIO",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Harsh"
-            }
-          },
-          {
-            "name": "MR HARSH KUMAR",
-            "fatherName": "Harendra Kumar Singh",
-            "phone": "7979752124",
-            "altPhone": "7277165815",
-            "carrier": "BIHAR VODAFONE",
-            "email": "None",
-            "address": "S/O HARENDRA KUMAR SINGH SAHEBGANJ SAHEBGANJ CHAPRA SARAN CHAPRA SARAN 841301 BIHAR",
-            "aadhaarId": "389921054799",
-            "location": "BIHAR VODAFONE",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Harsh"
-            }
+            "additionalFields": {}
           }
         ],
         "page": 0
@@ -5747,6 +5697,46 @@
     }
   },
   "history": [
+    {
+      "id": "1792216112868-88avn",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7033373844",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:48:32.868Z"
+    },
+    {
+      "id": "1792215909502-69rsh",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7033373844",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:45:09.502Z"
+    },
+    {
+      "id": "1792215878876-qspt4",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7488639831",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:44:38.876Z"
+    },
+    {
+      "id": "1792215738786-yls9p",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7277165815",
+      "status": "success",
+      "recordCount": 4,
+      "timestamp": "2026-10-17T05:42:18.786Z"
+    },
     {
       "id": "1792215163011-kf5mh",
       "telegramId": "1292470797",
@@ -7706,46 +7696,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T17:07:23.572Z"
-    },
-    {
-      "id": "1791735470379-1g80w",
-      "telegramId": "2025629580",
-      "username": "TCsujal",
-      "serviceType": "number_info",
-      "query": "6232052123",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T16:17:50.379Z"
-    },
-    {
-      "id": "1791735454354-idgo6",
-      "telegramId": "8836183063",
-      "username": "Rakib",
-      "serviceType": "number_info",
-      "query": "9800755250",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T16:17:34.354Z"
-    },
-    {
-      "id": "1791735365770-9n8vj",
-      "telegramId": "8836183063",
-      "username": "Rakib",
-      "serviceType": "number_info",
-      "query": "9800755250",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T16:16:05.770Z"
-    },
-    {
-      "id": "1791735342140-cc2r2",
-      "telegramId": "8836183063",
-      "username": "Rakib",
-      "serviceType": "number_info",
-      "query": "9800755250",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T16:15:42.140Z"
     }
   ]
 }

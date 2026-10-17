@@ -5846,7 +5846,7 @@
       "username": "Dhsvsjavshs",
       "firstName": "Kush",
       "joinedAt": "2026-10-17T06:36:25.271Z",
-      "lastActiveAt": "2026-10-17T07:01:34.040Z",
+      "lastActiveAt": "2026-10-17T22:27:06.659Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
@@ -5900,7 +5900,7 @@
         "page": 1
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "6519394978": {
       "telegramId": "6519394978",
@@ -6656,9 +6656,73 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": false
+    },
+    "7482361767": {
+      "telegramId": "7482361767",
+      "username": "",
+      "firstName": "Vinayak",
+      "joinedAt": "2026-10-17T22:27:42.660Z",
+      "lastActiveAt": "2026-10-17T22:29:21.547Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2525,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "7665892631",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "7665892631",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792276165091-u7l4z",
+      "telegramId": "7482361767",
+      "username": "Vinayak",
+      "serviceType": "number_info",
+      "query": "7665892631",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T22:29:25.091Z"
+    },
+    {
+      "id": "1792276109624-aa0p9",
+      "telegramId": "7482361767",
+      "username": "Vinayak",
+      "serviceType": "number_info",
+      "query": "8630599565",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T22:28:29.624Z"
+    },
     {
       "id": "1792266591263-cwz5r",
       "telegramId": "6748340416",
@@ -8638,26 +8702,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-14T10:56:03.081Z"
-    },
-    {
-      "id": "1791975327765-fyzo3",
-      "telegramId": "8264924435",
-      "username": "musab_008",
-      "serviceType": "number_info",
-      "query": "3072005415",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-14T10:55:27.765Z"
-    },
-    {
-      "id": "1791963468003-34hab",
-      "telegramId": "7639119817",
-      "username": "Yadav ji",
-      "serviceType": "number_info",
-      "query": "9213175217",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-14T07:37:48.003Z"
     }
   ]
 }

@@ -5213,12 +5213,12 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T07:49:51.367Z",
+      "lastActiveAt": "2026-10-17T07:52:09.702Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 14,
+      "totalLookups": 17,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5229,24 +5229,58 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "7033373844",
+        "query": "9999281526",
         "records": [
           {
-            "name": "Harsh Kumar",
-            "fatherName": "harendra kumar singh",
-            "phone": "7033373844",
-            "altPhone": "7277165815",
-            "carrier": "BIHAR JIO",
-            "email": "None",
-            "address": "s/o harendra kumar singh, Chapra, sahebganj chapra, chapra Chapra, saran, Bihar, 841301",
-            "aadhaarId": "389921054799",
-            "location": "BIHAR JIO",
+            "name": "Ram ji kumar singh",
+            "fatherName": "Bhrigunath singh",
+            "phone": "9999281526",
+            "altPhone": "9911002993",
+            "carrier": "JIO DELHI",
+            "email": "ramidea8@gmail.com",
+            "address": "H NO A-81, A -block rajiv nagar mandoli extension delhi, north east delhi, Delhi East, North East, Delhi, 110093",
+            "aadhaarId": "RRP1642768",
+            "location": "JIO DELHI",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {}
+            "additionalFields": {
+              "truecaller_name": "Singh 98 Travels"
+            }
+          },
+          {
+            "name": "Rajesh",
+            "fatherName": "S/O  Hoshiyar Singh",
+            "phone": "7290998117",
+            "altPhone": "9999281526",
+            "carrier": "VI DELHI",
+            "email": "None",
+            "address": "S/O Hoshiyar Singh, House Number - A - 82, Gali Numaber - 5 A- Block, Rajiv Nagar Mandoli Extn North East Delhi, DELHI, North East Delhi, Delhi, 110093",
+            "aadhaarId": "None",
+            "location": "VI DELHI",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Singh 98 Travels"
+            }
+          },
+          {
+            "name": "ANJALI",
+            "fatherName": "D/O Naresh Kumar",
+            "phone": "7065798110",
+            "altPhone": "9999281526",
+            "carrier": "VI DELHI",
+            "email": "None",
+            "address": "D/O Naresh Kumar, A-81, Gali No-5, Rajeev Nagar North East Delhi, DELHI, North East Delhi, Delhi, 110093",
+            "aadhaarId": "None",
+            "location": "VI DELHI",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Singh 98 Travels"
+            }
           }
         ],
-        "page": 0
+        "page": 1
       },
       "activePaymentOrder": null,
       "keyboardCleared": true
@@ -5714,7 +5748,7 @@
       "username": "",
       "firstName": "Nightmare 🪈",
       "joinedAt": "2026-10-17T06:22:38.632Z",
-      "lastActiveAt": "2026-10-17T07:49:55.637Z",
+      "lastActiveAt": "2026-10-17T07:50:21.301Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
@@ -5881,6 +5915,36 @@
     }
   },
   "history": [
+    {
+      "id": "1792223508364-6sg76",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "9999281526",
+      "status": "success",
+      "recordCount": 3,
+      "timestamp": "2026-10-17T07:51:48.364Z"
+    },
+    {
+      "id": "1792223459092-mc69s",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "6299335618",
+      "status": "success",
+      "recordCount": 4,
+      "timestamp": "2026-10-17T07:50:59.092Z"
+    },
+    {
+      "id": "1792223430952-waepe",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "9934009815",
+      "status": "success",
+      "recordCount": 4,
+      "timestamp": "2026-10-17T07:50:30.952Z"
+    },
     {
       "id": "1792222251948-ygpih",
       "telegramId": "6783862138",
@@ -7850,36 +7914,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T01:53:12.301Z"
-    },
-    {
-      "id": "1791769988460-17rpk",
-      "telegramId": "8330120823",
-      "username": "Chandel_0_1956",
-      "serviceType": "number_info",
-      "query": "8053943821",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T01:53:08.460Z"
-    },
-    {
-      "id": "1791768856830-usccw",
-      "telegramId": "8926917947",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "8604604064",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T01:34:16.830Z"
-    },
-    {
-      "id": "1791768833373-5cla4",
-      "telegramId": "8926917947",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "8000796117",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T01:33:53.373Z"
     }
   ]
 }

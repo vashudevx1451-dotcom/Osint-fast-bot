@@ -6436,9 +6436,73 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true
+    },
+    "6027780529": {
+      "telegramId": "6027780529",
+      "username": "",
+      "firstName": "TG",
+      "joinedAt": "2026-10-17T17:09:26.825Z",
+      "lastActiveAt": "2026-10-17T17:11:54.944Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 2,
+      "totalLookups": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2490,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "qr",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "8276046450",
+        "records": [
+          {
+            "name": "Nazia Khatoon",
+            "fatherName": "md faruk khan",
+            "phone": "8276046450",
+            "altPhone": "8240359254",
+            "carrier": "AIRTEL WB",
+            "email": "None",
+            "address": "41/C G J KHAN ROAD TILJALA Tiljala S O Kolkata Kolkata West Bengal 700039",
+            "aadhaarId": "399827206856",
+            "location": "AIRTEL WB",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Nazifa,Khan"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792257085501-k03ra",
+      "telegramId": "6027780529",
+      "username": "TG",
+      "serviceType": "number_info",
+      "query": "8276046450",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T17:11:25.501Z"
+    },
+    {
+      "id": "1792257013589-jgjsy",
+      "telegramId": "6027780529",
+      "username": "TG",
+      "serviceType": "number_info",
+      "query": "8910590255",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T17:10:13.589Z"
+    },
     {
       "id": "1792255075516-hnkmw",
       "telegramId": "6783862138",
@@ -8418,26 +8482,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T21:58:33.007Z"
-    },
-    {
-      "id": "1791842221121-rcd3i",
-      "telegramId": "7911828552",
-      "username": "alez2003",
-      "serviceType": "number_info",
-      "query": "4162593591",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T21:57:01.121Z"
-    },
-    {
-      "id": "1791842012039-jamwd",
-      "telegramId": "7911828552",
-      "username": "alez2003",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T21:53:32.039Z"
     }
   ]
 }

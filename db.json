@@ -6246,9 +6246,115 @@
       },
       "activePaymentOrder": null,
       "keyboardCleared": true
+    },
+    "8095960201": {
+      "telegramId": "8095960201",
+      "username": "JgJeevan",
+      "firstName": "JgJeevan ❤️",
+      "joinedAt": "2026-10-17T15:53:07.952Z",
+      "lastActiveAt": "2026-10-17T15:55:51.903Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2456,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9691227661",
+        "records": [
+          {
+            "name": "Mangilal Pitawja",
+            "fatherName": "Kaarulal",
+            "phone": "9691227661",
+            "altPhone": "None",
+            "carrier": "JIO MP",
+            "email": "None",
+            "address": "S/O Kaarulal, Makan N 6 Ward N 16 Mundla, Th Shyamgadh, Hatuniya Mandsaur, Madhya Pradesh, 458883",
+            "aadhaarId": "None",
+            "location": "JIO MP",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Harish Harish"
+            }
+          },
+          {
+            "name": "Nainabai Banjara",
+            "fatherName": "ishwarlal",
+            "phone": "9691409336",
+            "altPhone": "9691227661",
+            "carrier": "JIO MP",
+            "email": "None",
+            "address": "w/o ishwarlal, makan no 111. gram mundala teh shamgarh, Shamgarh, Gram Mundala Teh Shamgarh, hatuniya, mandsaur, Madhya Pradesh, 458883",
+            "aadhaarId": "523802955496",
+            "location": "JIO MP",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Harish Harish"
+            }
+          },
+          {
+            "name": "Deepak Pitawja",
+            "fatherName": "bhagatram",
+            "phone": "8450809948",
+            "altPhone": "9691227661",
+            "carrier": "JIO MP",
+            "email": "None",
+            "address": "s/o bhagatram, makan n 6, Ward N 16 Hatunia, Mundla, ward n 16 mundla th shyamgadh hatuniya, hatunia, mandsaur, Madhya Pradesh, 458883",
+            "aadhaarId": "727737868010",
+            "location": "JIO MP",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Harish Harish"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792252554379-xx8et",
+      "telegramId": "8095960201",
+      "username": "JgJeevan",
+      "serviceType": "number_info",
+      "query": "9691227661",
+      "status": "success",
+      "recordCount": 3,
+      "timestamp": "2026-10-17T15:55:54.379Z"
+    },
+    {
+      "id": "1792252429682-m98p1",
+      "telegramId": "8095960201",
+      "username": "JgJeevan",
+      "serviceType": "number_info",
+      "query": "9165187531",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T15:53:49.682Z"
+    },
+    {
+      "id": "1792252408510-we1jb",
+      "telegramId": "8095960201",
+      "username": "JgJeevan",
+      "serviceType": "number_info",
+      "query": "7024127881",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T15:53:28.510Z"
+    },
     {
       "id": "1792251491578-9isle",
       "telegramId": "5678301674",
@@ -8218,36 +8324,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T15:55:58.837Z"
-    },
-    {
-      "id": "1791818542489-8ktn7",
-      "telegramId": "8975411446",
-      "username": "Jeetuhck43",
-      "serviceType": "number_info",
-      "query": "6204821580",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T15:22:22.489Z"
-    },
-    {
-      "id": "1791818529354-y8dls",
-      "telegramId": "8975411446",
-      "username": "Jeetuhck43",
-      "serviceType": "number_info",
-      "query": "8984830887",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T15:22:09.354Z"
-    },
-    {
-      "id": "1791818494538-5ee97",
-      "telegramId": "8975411446",
-      "username": "Jeetuhck43",
-      "serviceType": "number_info",
-      "query": "8984830887",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T15:21:34.538Z"
     }
   ]
 }

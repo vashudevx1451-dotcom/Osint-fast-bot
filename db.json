@@ -718,12 +718,12 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T14:41:32.259Z",
+      "lastActiveAt": "2026-10-17T14:47:45.567Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 58,
+      "totalLookups": 59,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -734,26 +734,38 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8092013425",
+        "query": "9835216800",
         "records": [
           {
-            "name": "Sanjay Kumar",
-            "fatherName": "Basudeo Prasad",
-            "phone": "8092013425",
-            "altPhone": "8092013425",
-            "carrier": "JIO BHR&JHR",
+            "name": "Pintu Kumar",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "None",
+            "carrier": "BIHAR BSNL",
             "email": "None",
-            "address": "S/O Basudeo Prasad, Mirza Nagar, NA, Parsaunia Vaishali Mirza Nagar, Parsaunia Mahua Vaishali, NA, Bihar, 844139",
-            "aadhaarId": "757838898227",
-            "location": "JIO BHR&JHR",
+            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Dr sanjay"
-            }
+            "additionalFields": {}
+          },
+          {
+            "name": "Pintu Kumar . .",
+            "fatherName": "S/O: Kanhai Saw",
+            "phone": "9835216800",
+            "altPhone": "8294762929",
+            "carrier": "BIHAR BSNL",
+            "email": "None",
+            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
+            "aadhaarId": "612041560813",
+            "location": "BIHAR BSNL",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {}
           }
         ],
-        "page": 0
+        "page": 1
       },
       "activePaymentOrder": {
         "orderId": "VC179224278160936",
@@ -6229,6 +6241,16 @@
   },
   "history": [
     {
+      "id": "1792248459046-w0bwy",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T14:47:39.046Z"
+    },
+    {
       "id": "1792248094535-oopcf",
       "telegramId": "6672896116",
       "username": "Uhtkarshh",
@@ -8217,16 +8239,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T15:21:21.461Z"
-    },
-    {
-      "id": "1791815335197-9j378",
-      "telegramId": "7275943377",
-      "username": "immuzammil",
-      "serviceType": "number_info",
-      "query": "9315048083",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T14:28:55.197Z"
     }
   ]
 }

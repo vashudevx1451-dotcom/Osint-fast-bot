@@ -671,12 +671,12 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T05:14:57.669Z",
+      "lastActiveAt": "2026-10-17T05:23:36.058Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 35,
+      "totalLookups": 37,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -687,38 +687,24 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9835216800",
+        "query": "8676972045",
         "records": [
           {
-            "name": "Pintu Kumar",
-            "fatherName": "S/O: Kanhai Saw",
-            "phone": "9835216800",
-            "altPhone": "None",
-            "carrier": "BIHAR BSNL",
+            "name": "Ranju Devi",
+            "fatherName": "Pankaj Kumar",
+            "phone": "8676972045",
+            "altPhone": "9708250034",
+            "carrier": "BIHAR JIO",
             "email": "None",
-            "address": "pawer ganj post r s, Gaya Gaya, Gaya, Bihar, 823001",
-            "aadhaarId": "612041560813",
-            "location": "BIHAR BSNL",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {}
-          },
-          {
-            "name": "Pintu Kumar . .",
-            "fatherName": "S/O: Kanhai Saw",
-            "phone": "9835216800",
-            "altPhone": "8294762929",
-            "carrier": "BIHAR BSNL",
-            "email": "None",
-            "address": "pawer ganj post r s Gaya Gaya Gaya Bihar 823001",
-            "aadhaarId": "612041560813",
-            "location": "BIHAR BSNL",
+            "address": "rajapakar Vaishali Bihar block rajapakar Thana rajapakar pos, west tola ward no 3 rajapakar Vaishali Bihar, Rajya pakshi Mandir, rajapakar Vaishali Bihar block rajapakar Thana rajapakar, Vaishali, Vaisha",
+            "aadhaarId": "794299567181",
+            "location": "BIHAR JIO",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {}
           }
         ],
-        "page": 1
+        "page": 0
       },
       "activePaymentOrder": {
         "orderId": "VC1792214070812577",
@@ -2168,7 +2154,7 @@
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
-      "premiumUntil": null,
+      "premiumUntil": "2026-11-16T05:23:36.492Z",
       "awaitingInput": null,
       "lastBotMessageId": null,
       "lastBotMessageIsPhoto": true,
@@ -5213,12 +5199,12 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-16T06:51:47.518Z",
-      "joinedChannel": false,
+      "lastActiveAt": "2026-10-17T05:29:55.451Z",
+      "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-16",
-      "dailySearchCount": 1,
-      "totalLookups": 2,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 0,
+      "totalLookups": 4,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5229,29 +5215,29 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "6299335618",
+        "query": "7979752124",
         "records": [
           {
-            "name": "Unknown",
-            "fatherName": "None",
-            "phone": "6299335618",
-            "altPhone": "None",
-            "carrier": "None",
+            "name": "MR HARSH KUMAR",
+            "fatherName": "Harendra Kumar Singh",
+            "phone": "7979752124",
+            "altPhone": "7277165815",
+            "carrier": "BIHAR VODAFONE",
             "email": "None",
-            "address": "None",
-            "aadhaarId": "None",
-            "location": "India",
+            "address": "S/O HARENDRA KUMAR SINGH SAHEBGANJ SAHEBGANJ CHAPRA SARAN CHAPRA SARAN 841301 BIHAR",
+            "aadhaarId": "389921054799",
+            "location": "BIHAR VODAFONE",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "error": "Invalid or expired API key"
+              "truecaller_name": "Hars Jio"
             }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "5619660972": {
       "telegramId": "5619660972",
@@ -5713,6 +5699,46 @@
     }
   },
   "history": [
+    {
+      "id": "1792214997173-2k4am",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7979752124",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:29:57.173Z"
+    },
+    {
+      "id": "1792214948668-3b78e",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "6299335618",
+      "status": "success",
+      "recordCount": 4,
+      "timestamp": "2026-10-17T05:29:08.668Z"
+    },
+    {
+      "id": "1792214495159-uc15h",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8676972045",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:21:35.159Z"
+    },
+    {
+      "id": "1792214473958-3z81m",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8676972045",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:21:13.958Z"
+    },
     {
       "id": "1792214228280-uz67y",
       "telegramId": "8066965283",
@@ -7672,46 +7698,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T16:01:24.114Z"
-    },
-    {
-      "id": "1791732588435-pyb1t",
-      "telegramId": "6216830259",
-      "username": "nsms",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T15:29:48.435Z"
-    },
-    {
-      "id": "1791731882777-33qqu",
-      "telegramId": "1882515926",
-      "username": "Piyush",
-      "serviceType": "number_info",
-      "query": "7080246746",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T15:18:02.777Z"
-    },
-    {
-      "id": "1791731850704-7gbeu",
-      "telegramId": "1882515926",
-      "username": "Piyush",
-      "serviceType": "number_info",
-      "query": "7080246746",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T15:17:30.704Z"
-    },
-    {
-      "id": "1791731836407-n3ocr",
-      "telegramId": "1882515926",
-      "username": "Piyush",
-      "serviceType": "number_info",
-      "query": "7080246746",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T15:17:16.407Z"
     }
   ]
 }

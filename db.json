@@ -6524,6 +6524,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8995422663": {
+      "telegramId": "8995422663",
+      "username": "",
+      "firstName": "Shiv",
+      "joinedAt": "2026-10-17T18:13:22.034Z",
+      "lastActiveAt": "2026-10-17T18:13:36.407Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2503,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

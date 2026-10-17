@@ -718,18 +718,18 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T13:02:55.352Z",
+      "lastActiveAt": "2026-10-17T13:13:01.322Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 55,
+      "totalLookups": 56,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 2283,
+      "lastBotMessageId": 2299,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "dynamic_qr",
       "lastLookupSession": {
@@ -768,14 +768,14 @@
         "page": 0
       },
       "activePaymentOrder": {
-        "orderId": "VC1792242134275541",
+        "orderId": "VC179224278160936",
         "planKey": "weekly",
         "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
         "amount": 9,
         "days": 7,
-        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=9&tr=VC1792242134275541&tn=VC1792242134275541&cu=INR",
-        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D9%26tr%3DVC1792242134275541%26tn%3DVC1792242134275541%26cu%3DINR",
-        "createdAt": "2026-10-17T13:02:14.275Z"
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=9&tr=VC179224278160936&tn=VC179224278160936&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D9%26tr%3DVC179224278160936%26tn%3DVC179224278160936%26cu%3DINR",
+        "createdAt": "2026-10-17T13:13:01.609Z"
       },
       "keyboardCleared": true
     },
@@ -6079,6 +6079,16 @@
   },
   "history": [
     {
+      "id": "1792242769745-tljzt",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T13:12:49.745Z"
+    },
+    {
       "id": "1792241912099-4y5kz",
       "telegramId": "6672896116",
       "username": "Uhtkarshh",
@@ -8067,16 +8077,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T12:00:02.572Z"
-    },
-    {
-      "id": "1791806348599-mu8fe",
-      "telegramId": "6709466623",
-      "username": "༺𝕾𝖊ñ𝖔𝖗𝖎𝖙𝖔༻",
-      "serviceType": "number_info",
-      "query": "8594859827",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T11:59:08.599Z"
     }
   ]
 }

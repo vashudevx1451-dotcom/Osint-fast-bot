@@ -718,7 +718,7 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T11:02:49.387Z",
+      "lastActiveAt": "2026-10-17T11:12:33.723Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
@@ -729,9 +729,9 @@
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
       "awaitingInput": null,
-      "lastBotMessageId": 2146,
+      "lastBotMessageId": 2157,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "dynamic_qr",
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "9835216800",
@@ -772,14 +772,14 @@
         "page": 0
       },
       "activePaymentOrder": {
-        "orderId": "VC1792234960778128",
+        "orderId": "VC1792235524514119",
         "planKey": "weekly",
         "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
         "amount": 5,
         "days": 7,
-        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=5&tr=VC1792234960778128&tn=VC1792234960778128&cu=INR",
-        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D5%26tr%3DVC1792234960778128%26tn%3DVC1792234960778128%26cu%3DINR",
-        "createdAt": "2026-10-17T11:02:40.778Z"
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=5&tr=VC1792235524514119&tn=VC1792235524514119&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D5%26tr%3DVC1792235524514119%26tn%3DVC1792235524514119%26cu%3DINR",
+        "createdAt": "2026-10-17T11:12:04.514Z"
       },
       "keyboardCleared": true
     },

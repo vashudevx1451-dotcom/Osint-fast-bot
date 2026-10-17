@@ -417,6 +417,50 @@
       "activePaymentOrder": null,
       "keyboardCleared": false
     },
+    "1416688910": {
+      "telegramId": "1416688910",
+      "username": "AcHuJeevan",
+      "firstName": "𝑱𝒆𝒆𝒗𝒂𝒏",
+      "joinedAt": "2026-10-17T08:43:27.372Z",
+      "lastActiveAt": "2026-10-17T08:46:03.307Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 3,
+      "totalLookups": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2092,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": {
+        "serviceType": "number_info",
+        "query": "9495817370",
+        "records": [
+          {
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9495817370",
+            "altPhone": "None",
+            "carrier": "None",
+            "email": "None",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Elsey Cholappally"
+            }
+          }
+        ],
+        "page": 0
+      },
+      "keyboardCleared": true
+    },
     "1738253610": {
       "telegramId": "1738253610",
       "username": "ri_pnkj",
@@ -672,18 +716,18 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T08:38:32.606Z",
+      "lastActiveAt": "2026-10-17T08:43:15.467Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 37,
+      "totalLookups": 38,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-16T08:57:03.675Z",
       "awaitingInput": null,
-      "lastBotMessageId": 2067,
+      "lastBotMessageId": 2087,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -702,7 +746,9 @@
             "location": "BIHAR JIO",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {}
+            "additionalFields": {
+              "truecaller_name": "Asha Devi 16"
+            }
           }
         ],
         "page": 0
@@ -5213,12 +5259,12 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T08:11:23.805Z",
+      "lastActiveAt": "2026-10-17T08:48:35.529Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 17,
+      "totalLookups": 20,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5229,58 +5275,26 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9999281526",
+        "query": "7270165833",
         "records": [
           {
-            "name": "Ram ji kumar singh",
-            "fatherName": "Bhrigunath singh",
-            "phone": "9999281526",
-            "altPhone": "9911002993",
-            "carrier": "JIO DELHI",
-            "email": "ramidea8@gmail.com",
-            "address": "H NO A-81, A -block rajiv nagar mandoli extension delhi, north east delhi, Delhi East, North East, Delhi, 110093",
-            "aadhaarId": "RRP1642768",
-            "location": "JIO DELHI",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Singh 98 Travels"
-            }
-          },
-          {
-            "name": "Rajesh",
-            "fatherName": "S/O  Hoshiyar Singh",
-            "phone": "7290998117",
-            "altPhone": "9999281526",
-            "carrier": "VI DELHI",
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "7270165833",
+            "altPhone": "None",
+            "carrier": "None",
             "email": "None",
-            "address": "S/O Hoshiyar Singh, House Number - A - 82, Gali Numaber - 5 A- Block, Rajiv Nagar Mandoli Extn North East Delhi, DELHI, North East Delhi, Delhi, 110093",
+            "address": "None",
             "aadhaarId": "None",
-            "location": "VI DELHI",
+            "location": "India",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "truecaller_name": "Singh 98 Travels"
-            }
-          },
-          {
-            "name": "ANJALI",
-            "fatherName": "D/O Naresh Kumar",
-            "phone": "7065798110",
-            "altPhone": "9999281526",
-            "carrier": "VI DELHI",
-            "email": "None",
-            "address": "D/O Naresh Kumar, A-81, Gali No-5, Rajeev Nagar North East Delhi, DELHI, North East Delhi, Delhi, 110093",
-            "aadhaarId": "None",
-            "location": "VI DELHI",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Singh 98 Travels"
+              "error": "Invalid or expired API key"
             }
           }
         ],
-        "page": 2
+        "page": 0
       },
       "activePaymentOrder": null,
       "keyboardCleared": true
@@ -5912,9 +5926,101 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": null,
       "keyboardCleared": true
+    },
+    "8768114946": {
+      "telegramId": "8768114946",
+      "username": "abhiizzzzzzz",
+      "firstName": "Abhi",
+      "joinedAt": "2026-10-17T08:47:51.333Z",
+      "lastActiveAt": "2026-10-17T08:47:51.335Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2099,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792226918432-6f8zw",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7270165833",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T08:48:38.432Z"
+    },
+    {
+      "id": "1792226894886-y97x9",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7277105833",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T08:48:14.886Z"
+    },
+    {
+      "id": "1792226829840-i5ts2",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7277165815",
+      "status": "success",
+      "recordCount": 4,
+      "timestamp": "2026-10-17T08:47:09.840Z"
+    },
+    {
+      "id": "1792226765872-e33z2",
+      "telegramId": "1416688910",
+      "username": "AcHuJeevan",
+      "serviceType": "number_info",
+      "query": "9495817370",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T08:46:05.872Z"
+    },
+    {
+      "id": "1792226749605-67vyq",
+      "telegramId": "1416688910",
+      "username": "AcHuJeevan",
+      "serviceType": "number_info",
+      "query": "9447017370",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T08:45:49.605Z"
+    },
+    {
+      "id": "1792226727566-emnfv",
+      "telegramId": "1416688910",
+      "username": "AcHuJeevan",
+      "serviceType": "number_info",
+      "query": "8547172463",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T08:45:27.566Z"
+    },
+    {
+      "id": "1792226517863-2kqrb",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "8676972045",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T08:41:57.863Z"
+    },
     {
       "id": "1792223508364-6sg76",
       "telegramId": "6822959930",
@@ -7844,76 +7950,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T04:55:17.022Z"
-    },
-    {
-      "id": "1791780904786-b93r9",
-      "telegramId": "8306165476",
-      "username": "Ramdev",
-      "serviceType": "number_info",
-      "query": "7782938962",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T04:55:04.786Z"
-    },
-    {
-      "id": "1791780742796-dfemu",
-      "telegramId": "8306165476",
-      "username": "Ramdev",
-      "serviceType": "number_info",
-      "query": "7257905084",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T04:52:22.796Z"
-    },
-    {
-      "id": "1791777806344-cjk0g",
-      "telegramId": "8980074150",
-      "username": "Kumar",
-      "serviceType": "number_info",
-      "query": "7764071716",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T04:03:26.344Z"
-    },
-    {
-      "id": "1791776422419-7vej9",
-      "telegramId": "7639119817",
-      "username": "Yadav ji",
-      "serviceType": "number_info",
-      "query": "9213175217",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T03:40:22.419Z"
-    },
-    {
-      "id": "1791771692421-gnjqq",
-      "telegramId": "8616020044",
-      "username": "#siya",
-      "serviceType": "number_info",
-      "query": "8888626016",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T02:21:32.421Z"
-    },
-    {
-      "id": "1791771657263-atwwo",
-      "telegramId": "8616020044",
-      "username": "#siya",
-      "serviceType": "number_info",
-      "query": "8080390956",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T02:20:57.263Z"
-    },
-    {
-      "id": "1791769992301-w00y6",
-      "telegramId": "8330120823",
-      "username": "Chandel_0_1956",
-      "serviceType": "number_info",
-      "query": "8053943821",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T01:53:12.301Z"
     }
   ]
 }

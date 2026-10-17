@@ -5272,7 +5272,7 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T12:38:57.388Z",
+      "lastActiveAt": "2026-10-17T15:43:35.069Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
@@ -5283,7 +5283,7 @@
       "isBanned": false,
       "premiumUntil": "2026-10-23T03:57:12.021Z",
       "awaitingInput": null,
-      "lastBotMessageId": 2226,
+      "lastBotMessageId": 2237,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -6207,12 +6207,12 @@
       "username": "x1mfs",
       "firstName": ".",
       "joinedAt": "2026-10-17T14:19:33.854Z",
-      "lastActiveAt": "2026-10-17T14:23:14.004Z",
+      "lastActiveAt": "2026-10-17T15:38:07.876Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
-      "dailySearchCount": 1,
-      "totalLookups": 1,
+      "dailySearchCount": 2,
+      "totalLookups": 2,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -6223,30 +6223,42 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8851495353",
+        "query": "9557626824",
         "records": [
           {
-            "name": "Naresh Chauhan",
-            "fatherName": "Dinesh",
-            "phone": "8851495353",
-            "altPhone": "9999945627",
-            "carrier": "Delhi Jio",
+            "name": "Unknown",
+            "fatherName": "None",
+            "phone": "9557626824",
+            "altPhone": "None",
+            "carrier": "None",
             "email": "None",
-            "address": "S/O Dinesh, House No. F-668J J Colony, Madipur, Paschim ViharWest Delhi, Delhi, 110063",
-            "aadhaarId": "362906934863",
-            "location": "Delhi Jio",
+            "address": "None",
+            "aadhaarId": "None",
+            "location": "India",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {}
+            "additionalFields": {
+              "error": "Invalid or expired API key"
+            }
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792251491578-9isle",
+      "telegramId": "5678301674",
+      "username": "x1mfs",
+      "serviceType": "number_info",
+      "query": "9557626824",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T15:38:11.578Z"
+    },
     {
       "id": "1792248459046-w0bwy",
       "telegramId": "6672896116",
@@ -8236,16 +8248,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T15:21:34.538Z"
-    },
-    {
-      "id": "1791818481461-5982a",
-      "telegramId": "6783862138",
-      "username": "uttamshk",
-      "serviceType": "number_info",
-      "query": "9313384161",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T15:21:21.461Z"
     }
   ]
 }

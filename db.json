@@ -33,7 +33,8 @@
       "VC1792070783341909",
       "UTR:998884250218",
       "VC1792093704297381",
-      "VC1792123015859380"
+      "VC1792123015859380",
+      "VC1792221647939799"
     ],
     "cachedBannerFileId": "AgACAgUAAxkDAAIDNGrK9AFl2_FeFzmxCEGmUeIH7FnHAAKCIGsbWFRQVhFr-OcpgLTlAQADAgADdwADPQQ",
     "customBannerImageUrl": "https://i.postimg.cc/SRzDjNSF/file-00000000c93c81f59120e3d4cda69e4c.png",
@@ -2145,12 +2146,12 @@
       "username": "",
       "firstName": "Samir",
       "joinedAt": "2026-10-11T03:49:14.515Z",
-      "lastActiveAt": "2026-10-11T03:51:36.891Z",
-      "joinedChannel": false,
+      "lastActiveAt": "2026-10-17T07:25:44.849Z",
+      "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-11",
-      "dailySearchCount": 2,
-      "totalLookups": 2,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 0,
+      "totalLookups": 4,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -2164,26 +2165,24 @@
         "query": "8252464080",
         "records": [
           {
-            "name": "Unknown",
-            "fatherName": "None",
+            "name": "Nibha Kumari",
+            "fatherName": "Jayveer Singh",
             "phone": "8252464080",
-            "altPhone": "None",
-            "carrier": "None",
+            "altPhone": "8228097332",
+            "carrier": "BIHAR JIO",
             "email": "None",
-            "address": "None",
+            "address": "D/O Jayveer Singh, Ward Number-02 Village-Rajapakar, Thana-Rajapakar, Raja Pakar Vaishali, Bihar, 844124",
             "aadhaarId": "None",
-            "location": "India",
+            "location": "BIHAR JIO",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "error": "Invalid or expired API key"
-            }
+            "additionalFields": {}
           }
         ],
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "7861204823": {
       "telegramId": "7861204823",
@@ -3609,55 +3608,79 @@
       "username": "uttamshk",
       "firstName": "Rakesh",
       "joinedAt": "2026-10-12T08:22:57.078Z",
-      "lastActiveAt": "2026-10-17T07:19:19.190Z",
+      "lastActiveAt": "2026-10-17T07:22:28.064Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 3,
-      "totalLookups": 6,
+      "totalLookups": 7,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
-      "premiumUntil": null,
+      "premiumUntil": "2036-10-14T07:22:13.179Z",
       "awaitingInput": null,
       "lastBotMessageId": 1214,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9814704286",
+        "query": "9313384161",
         "records": [
           {
-            "name": "HAPPY SHARMA",
-            "fatherName": "Suresh Kumar Sharma",
-            "phone": "9646724286",
-            "altPhone": "9814704286",
-            "carrier": "VODA PUNJAB",
+            "name": "BAKSHISH KUMAR",
+            "fatherName": "LATE CHAMN LAL",
+            "phone": "9313384161",
+            "altPhone": "None",
+            "carrier": "VI DELHI",
             "email": "None",
-            "address": "house no 164 sunam, mohalla kohlian WALA sunam sangrur, sunam sangrurSANGRUR, SUNAM, SANGRUR, PUNJAB, 148028",
-            "aadhaarId": "282202584305",
-            "location": "VODA PUNJAB",
+            "address": "S/O Late Chamn Lal, S/O Late Chamn Lal C-28 D D A Slum, C-Block, JAHANGIRPURI-NORTH WEST DELHI, DL, 110033",
+            "aadhaarId": "973699488312",
+            "location": "VI DELHI",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Naam Me Kya Rakha Hai"
-            }
+            "additionalFields": {}
           },
           {
-            "name": "HAPPY SHARMA",
-            "fatherName": "Suresh Kumar Sharma",
-            "phone": "8054580970",
-            "altPhone": "9814704286",
-            "carrier": "VODA PUNJAB",
+            "name": "BAKSHISHKUMAR",
+            "fatherName": "LATE CHAMN LAL",
+            "phone": "9313384161",
+            "altPhone": "None",
+            "carrier": "VI DELHI",
             "email": "None",
-            "address": "house no 164, mohalla kohlian WALA sunam sangrur, sunam sangrurSANGRUR, SUNAM, SANGRUR, PUNJAB, 148028",
-            "aadhaarId": "282202584305",
-            "location": "VODA PUNJAB",
+            "address": "S/O Late Chamn Lal, S/O Late Chamn Lal C-28 D D A Slum, C-Block, JAHANGIRPURI-NORTH WEST DELHI, DL, 110033",
+            "aadhaarId": "973699488312",
+            "location": "VI DELHI",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Naam Me Kya Rakha Hai"
-            }
+            "additionalFields": {}
+          },
+          {
+            "name": "Naveen Kumar",
+            "fatherName": "Bakshish Kumar",
+            "phone": "8860719602",
+            "altPhone": "9313384161",
+            "carrier": "VI DELHI",
+            "email": "None",
+            "address": "Bakshish Kumar, C- 28, Punjabi Camp DDA Flats N S Mandi, Jahangir Puri, Jahangir Puri A Block-Model Town-North West Delhi, Delhi, 110033",
+            "aadhaarId": "565702396288",
+            "location": "VI DELHI",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {}
+          },
+          {
+            "name": "NaveenKumar",
+            "fatherName": "Bakshish Kumar",
+            "phone": "8860719602",
+            "altPhone": "9313384161",
+            "carrier": "VI DELHI",
+            "email": "None",
+            "address": "Bakshish Kumar, C- 28, Punjabi Camp DDA Flats NS Mandi, Jahangir Puri, Jahangir Puri A Block-Model Town-North West Delhi, Delhi, 110033",
+            "aadhaarId": "565702396288",
+            "location": "VI DELHI",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {}
           }
         ],
         "page": 0
@@ -5861,6 +5884,36 @@
   },
   "history": [
     {
+      "id": "1792221889727-ah5hv",
+      "telegramId": "6976365330",
+      "username": "Samir",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T07:24:49.727Z"
+    },
+    {
+      "id": "1792221816638-5u95t",
+      "telegramId": "6976365330",
+      "username": "Samir",
+      "serviceType": "number_info",
+      "query": "6201307932",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T07:23:36.638Z"
+    },
+    {
+      "id": "1792221749194-q3b0m",
+      "telegramId": "6783862138",
+      "username": "uttamshk",
+      "serviceType": "number_info",
+      "query": "9313384161",
+      "status": "success",
+      "recordCount": 4,
+      "timestamp": "2026-10-17T07:22:29.194Z"
+    },
+    {
       "id": "1792221561395-e9i7q",
       "telegramId": "6783862138",
       "username": "uttamshk",
@@ -7829,36 +7882,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T01:33:27.493Z"
-    },
-    {
-      "id": "1791753313744-azcqr",
-      "telegramId": "809722182",
-      "username": "Ravindra",
-      "serviceType": "number_info",
-      "query": "7875151856",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T21:15:13.744Z"
-    },
-    {
-      "id": "1791753229260-u82iz",
-      "telegramId": "809722182",
-      "username": "Ravindra",
-      "serviceType": "number_info",
-      "query": "8401356786",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T21:13:49.260Z"
-    },
-    {
-      "id": "1791753177626-v89bc",
-      "telegramId": "809722182",
-      "username": "Ravindra",
-      "serviceType": "number_info",
-      "query": "9723515030",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T21:12:57.626Z"
     }
   ]
 }

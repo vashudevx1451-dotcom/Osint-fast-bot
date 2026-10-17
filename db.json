@@ -5069,12 +5069,12 @@
       "username": "",
       "firstName": "Chandu",
       "joinedAt": "2026-10-15T21:12:02.215Z",
-      "lastActiveAt": "2026-10-17T06:51:33.224Z",
+      "lastActiveAt": "2026-10-17T17:33:49.288Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
-      "dailySearchCount": 1,
-      "totalLookups": 4,
+      "dailySearchCount": 3,
+      "totalLookups": 6,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5107,7 +5107,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8156629638": {
       "telegramId": "8156629638",
@@ -6483,6 +6483,26 @@
     }
   },
   "history": [
+    {
+      "id": "1792258432192-wufai",
+      "telegramId": "8007292878",
+      "username": "Chandu",
+      "serviceType": "number_info",
+      "query": "7702715834",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T17:33:52.192Z"
+    },
+    {
+      "id": "1792258407951-zd1qg",
+      "telegramId": "8007292878",
+      "username": "Chandu",
+      "serviceType": "number_info",
+      "query": "7702715834",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T17:33:27.951Z"
+    },
     {
       "id": "1792257085501-k03ra",
       "telegramId": "6027780529",
@@ -8462,26 +8482,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-13T08:29:56.122Z"
-    },
-    {
-      "id": "1791856072916-9ejru",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-13T01:47:52.916Z"
-    },
-    {
-      "id": "1791842313007-xlzwt",
-      "telegramId": "7911828552",
-      "username": "alez2003",
-      "serviceType": "number_info",
-      "query": "4163562579",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T21:58:33.007Z"
     }
   ]
 }

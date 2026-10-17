@@ -718,12 +718,12 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T11:48:31.355Z",
+      "lastActiveAt": "2026-10-17T12:06:53.028Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 44,
+      "totalLookups": 45,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5272,12 +5272,12 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T11:33:52.090Z",
+      "lastActiveAt": "2026-10-17T12:13:06.108Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 21,
+      "totalLookups": 23,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5288,74 +5288,122 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "6299335618",
+        "query": "8962678900",
         "records": [
           {
-            "name": "RAJUSINGH",
-            "fatherName": "MAHESH SINGH",
-            "phone": "9472231780",
-            "altPhone": "6299335618",
-            "carrier": "BIHAR BSNL",
+            "name": "Salman Ansari",
+            "fatherName": "Jalil Ansari",
+            "phone": "8962678900",
+            "altPhone": "9852354483",
+            "carrier": "JIO MP",
             "email": "None",
-            "address": "ward no09, Bettiah, Bettiah, Bettiah, West Champaran, BIHAR, 845438",
-            "aadhaarId": "870845796399",
-            "location": "BIHAR BSNL",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Abhishek"
-            }
-          },
-          {
-            "name": "RINKU KUMAR",
-            "fatherName": "Chandan Kumar",
-            "phone": "9031215462",
-            "altPhone": "6299335618",
-            "carrier": "VODA BHR&JHR",
-            "email": "None",
-            "address": "-, GAIS LALCHOWK PURANI GUDARI WARD N0-10, BETTIAH West Champaran, PURANI GUDARI WARD N0-10, BETTIAH, West Champaran, BIHAR, 845438",
+            "address": "S/O Jalil Ansari, NEAR SHIV MANDIR, WARD- 03 KALICHHAPAR POST- NANDAN TEH- JUNNARDEO, KALI CHHAPAR Chhindwara, Madhya Pradesh, 480554",
             "aadhaarId": "None",
-            "location": "VODA BHR&JHR",
+            "location": "JIO MP",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "truecaller_name": "Abhishek"
+              "truecaller_name": "Salman Ansari"
             }
           },
           {
-            "name": "RAJU SINGH",
-            "fatherName": "C/O: Mahesh Singh",
-            "phone": "8986958464",
-            "altPhone": "6299335618",
-            "carrier": "BIHAR BSNL",
+            "name": "Ram Das Nagwanshi",
+            "fatherName": "sakar singh nagwanshi",
+            "phone": "9685658415",
+            "altPhone": "8962678900",
+            "carrier": "AIRTEL MP",
             "email": "None",
-            "address": "Bettiah ward no 09 purani gudri gaislal chauk Bettiah West Champaran Bihar 845438",
-            "aadhaarId": "xxxxxxxx6399",
-            "location": "BIHAR BSNL",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "truecaller_name": "Abhishek"
-            }
-          },
-          {
-            "name": "RAJU SINGH",
-            "fatherName": "Mahesh singh",
-            "phone": "9905740541",
-            "altPhone": "6299335618",
-            "carrier": "BIHAR JIO",
-            "email": "None",
-            "address": "C/O Mahesh Singh, ward no 09, purani gudri gaislal chauk, Bettiah West Champaran, Bihar, 845438",
+            "address": "makan no ward no 06 nandan behind post office chhindwara Chhindwara Madhya Pradesh 480554",
             "aadhaarId": "None",
-            "location": "BIHAR JIO",
+            "location": "AIRTEL MP",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
             "additionalFields": {
-              "truecaller_name": "Abhishek"
+              "truecaller_name": "Salman Ansari"
+            }
+          },
+          {
+            "name": "Salman Ansari",
+            "fatherName": "Jalil Ansari",
+            "phone": "9301761210",
+            "altPhone": "8962678900",
+            "carrier": "JIO MP",
+            "email": "None",
+            "address": "S/O Jalil Ansari, NEAR SHIV MANDIR, WARD- 03 KALICHHAPAR POST- NANDAN TEH- JUNNARDEO, KALI CHHAPAR, Chhindwara, Madhya Pradesh, 480554",
+            "aadhaarId": "899011907604",
+            "location": "JIO MP",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Salman Ansari"
+            }
+          },
+          {
+            "name": "Atal Kumar Dehariya",
+            "fatherName": "rohit dehariya",
+            "phone": "8817561108",
+            "altPhone": "8962678900",
+            "carrier": "JIO MP",
+            "email": "None",
+            "address": "s/o rohit dehariya, ward no 06 mains no 01, ward no 06 Nandan, mains no 01, nandan, sukram dafai Chhindwara, chhindwara, Madhya Pradesh, 480554",
+            "aadhaarId": "691303898599",
+            "location": "JIO MP",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Salman Ansari"
+            }
+          },
+          {
+            "name": "MR AKIL AHAMAD",
+            "fatherName": "Havib Ahamad",
+            "phone": "7581844327",
+            "altPhone": "8962678900",
+            "carrier": "VI MP",
+            "email": "None",
+            "address": "S/O Havib Ahamad, 04, Nandan Kalichhaper nandan, nandan, Nandan CHHINDWARA, CHHINDWARA, CHHINDWARA, Madhya Pradesh, 480554",
+            "aadhaarId": "446097381720",
+            "location": "VI MP",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Salman Ansari"
+            }
+          },
+          {
+            "name": "MR NANDKISHOR KAHAR",
+            "fatherName": "Bhaiyalal Kahar",
+            "phone": "7089742025",
+            "altPhone": "8962678900",
+            "carrier": "VI MP",
+            "email": "None",
+            "address": "S/O Bhaiyalal Kahar, 06, Ward No. 06 Chhindwara, Ward No. 06 Chhindwara, Sukhram Dafai Nandan CHHINDWARA, CHHINDWARA, CHHINDWARA, Madhya Pradesh, 480554",
+            "aadhaarId": "898580873912",
+            "location": "VI MP",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Salman Ansari"
+            }
+          },
+          {
+            "name": "MR SALMAN ANSARI",
+            "fatherName": "Jalil Ansari",
+            "phone": "7089141993",
+            "altPhone": "8962678900",
+            "carrier": "VI MP",
+            "email": "None",
+            "address": "S/O Jalil Ansari, WARD- 03, Chhindwara KALI CHHAPAR, KALI CHHAPAR, KALICHHAPAR POST- NANDAN TEH- JUNNARDEO CHHINDWARA, CHHINDWARA, CHHINDWARA, Madhya Pradesh, 480554",
+            "aadhaarId": "899011907604",
+            "location": "VI MP",
+            "lineType": "Mobile / GSM",
+            "spamStatus": "Verified Clean",
+            "additionalFields": {
+              "truecaller_name": "Salman Ansari"
             }
           }
         ],
-        "page": 0
+        "page": 1
       },
       "activePaymentOrder": null,
       "keyboardCleared": true
@@ -6018,6 +6066,36 @@
     }
   },
   "history": [
+    {
+      "id": "1792238923214-bgnyc",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "8962678900",
+      "status": "success",
+      "recordCount": 7,
+      "timestamp": "2026-10-17T12:08:43.214Z"
+    },
+    {
+      "id": "1792238826298-urz79",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "9852354483",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T12:07:06.298Z"
+    },
+    {
+      "id": "1792238728562-7tksj",
+      "telegramId": "6672896116",
+      "username": "Uhtkarshh",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T12:05:28.562Z"
+    },
     {
       "id": "1792237510110-3oybz",
       "telegramId": "6672896116",
@@ -7987,36 +8065,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T08:12:41.656Z"
-    },
-    {
-      "id": "1791792741789-8uvy3",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "8676972045",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T08:12:21.789Z"
-    },
-    {
-      "id": "1791792720874-hr3rl",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "9835216800",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T08:12:00.874Z"
-    },
-    {
-      "id": "1791792705939-j7u19",
-      "telegramId": "6672896116",
-      "username": "Uhtkarshh",
-      "serviceType": "number_info",
-      "query": "8252464080",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T08:11:45.939Z"
     }
   ]
 }

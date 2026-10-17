@@ -6480,6 +6480,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "5306139200": {
+      "telegramId": "5306139200",
+      "username": "aaathulkriishna",
+      "firstName": "ATHULKRISHNA",
+      "joinedAt": "2026-10-17T17:56:16.230Z",
+      "lastActiveAt": "2026-10-17T17:56:23.156Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2498,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

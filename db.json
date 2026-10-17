@@ -1599,18 +1599,18 @@
       "username": "Saurabh_Kumar_Tiwari_OG",
       "firstName": "Kiyotaka",
       "joinedAt": "2026-10-10T16:12:04.139Z",
-      "lastActiveAt": "2026-10-16T23:42:19.143Z",
+      "lastActiveAt": "2026-10-17T05:56:14.814Z",
       "joinedChannel": false,
       "credits": 0,
-      "dailySearchDate": "2026-10-16",
-      "dailySearchCount": 1,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 0,
       "totalLookups": 15,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": 1868,
+      "lastBotMessageId": 2038,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
@@ -1637,7 +1637,7 @@
         "page": 0
       },
       "activePaymentOrder": null,
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8586435190": {
       "telegramId": "8586435190",
@@ -5199,12 +5199,12 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T05:48:52.312Z",
+      "lastActiveAt": "2026-10-17T05:57:02.635Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 0,
-      "totalLookups": 9,
+      "totalLookups": 14,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -5697,6 +5697,56 @@
     }
   },
   "history": [
+    {
+      "id": "1792216623842-lx43l",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7033373844",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:57:03.842Z"
+    },
+    {
+      "id": "1792216549189-3vomn",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7277165815",
+      "status": "success",
+      "recordCount": 4,
+      "timestamp": "2026-10-17T05:55:49.189Z"
+    },
+    {
+      "id": "1792216381982-31r1c",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "7979752124",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:53:01.982Z"
+    },
+    {
+      "id": "1792216280063-f6t87",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "6367926144",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:51:20.063Z"
+    },
+    {
+      "id": "1792216220897-vaiq8",
+      "telegramId": "6822959930",
+      "username": "Singh",
+      "serviceType": "number_info",
+      "query": "6367926144",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-17T05:50:20.897Z"
+    },
     {
       "id": "1792216112868-88avn",
       "telegramId": "6822959930",
@@ -7646,56 +7696,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-11T17:34:06.054Z"
-    },
-    {
-      "id": "1791740008538-0abiy",
-      "telegramId": "6001819818",
-      "username": "Ashwani",
-      "serviceType": "number_info",
-      "query": "8264676722",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T17:33:28.538Z"
-    },
-    {
-      "id": "1791738566106-tbtz5",
-      "telegramId": "8935845185",
-      "username": "Sizuka",
-      "serviceType": "number_info",
-      "query": "8383910421",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T17:09:26.106Z"
-    },
-    {
-      "id": "1791738549332-k8mpu",
-      "telegramId": "8935845185",
-      "username": "Sizuka",
-      "serviceType": "number_info",
-      "query": "8383910421",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T17:09:09.332Z"
-    },
-    {
-      "id": "1791738476366-btmtp",
-      "telegramId": "6323061716",
-      "username": "Yash",
-      "serviceType": "number_info",
-      "query": "8178828291",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T17:07:56.366Z"
-    },
-    {
-      "id": "1791738443572-6guaq",
-      "telegramId": "6323061716",
-      "username": "Yash",
-      "serviceType": "number_info",
-      "query": "8178828291",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-11T17:07:23.572Z"
     }
   ]
 }

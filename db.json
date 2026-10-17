@@ -3608,12 +3608,12 @@
       "username": "uttamshk",
       "firstName": "Rakesh",
       "joinedAt": "2026-10-12T08:22:57.078Z",
-      "lastActiveAt": "2026-10-17T07:22:28.064Z",
+      "lastActiveAt": "2026-10-17T07:30:49.221Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
       "dailySearchCount": 3,
-      "totalLookups": 7,
+      "totalLookups": 8,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -3624,63 +3624,39 @@
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "9313384161",
+        "query": "9877863088",
         "records": [
           {
-            "name": "BAKSHISH KUMAR",
-            "fatherName": "LATE CHAMN LAL",
-            "phone": "9313384161",
+            "name": "Tania",
+            "fatherName": "Hari Om",
+            "phone": "9877863088",
             "altPhone": "None",
-            "carrier": "VI DELHI",
+            "carrier": "AIRTEL DELHI",
             "email": "None",
-            "address": "S/O Late Chamn Lal, S/O Late Chamn Lal C-28 D D A Slum, C-Block, JAHANGIRPURI-NORTH WEST DELHI, DL, 110033",
-            "aadhaarId": "973699488312",
-            "location": "VI DELHI",
+            "address": "C/O Hari Om, D-146, Peera Garhi Camp, mandir, Peera Garhi Shakur Basti Depot, Delhi, North West Delhi, Delhi, 110056",
+            "aadhaarId": "234336046045",
+            "location": "AIRTEL DELHI",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {}
+            "additionalFields": {
+              "truecaller_name": "Vicky Sharma"
+            }
           },
           {
-            "name": "BAKSHISHKUMAR",
-            "fatherName": "LATE CHAMN LAL",
-            "phone": "9313384161",
+            "name": "Hari Om",
+            "fatherName": "Naresh Kumar",
+            "phone": "9877863088",
             "altPhone": "None",
-            "carrier": "VI DELHI",
+            "carrier": "AIRTEL DELHI",
             "email": "None",
-            "address": "S/O Late Chamn Lal, S/O Late Chamn Lal C-28 D D A Slum, C-Block, JAHANGIRPURI-NORTH WEST DELHI, DL, 110033",
-            "aadhaarId": "973699488312",
-            "location": "VI DELHI",
+            "address": "C/O: Naresh Kumar, H No D146, Peera Gahri Camp, Shakur Basti DepotNorth West Delhi, Delhi, 110056",
+            "aadhaarId": "None",
+            "location": "AIRTEL DELHI",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {}
-          },
-          {
-            "name": "Naveen Kumar",
-            "fatherName": "Bakshish Kumar",
-            "phone": "8860719602",
-            "altPhone": "9313384161",
-            "carrier": "VI DELHI",
-            "email": "None",
-            "address": "Bakshish Kumar, C- 28, Punjabi Camp DDA Flats N S Mandi, Jahangir Puri, Jahangir Puri A Block-Model Town-North West Delhi, Delhi, 110033",
-            "aadhaarId": "565702396288",
-            "location": "VI DELHI",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {}
-          },
-          {
-            "name": "NaveenKumar",
-            "fatherName": "Bakshish Kumar",
-            "phone": "8860719602",
-            "altPhone": "9313384161",
-            "carrier": "VI DELHI",
-            "email": "None",
-            "address": "Bakshish Kumar, C- 28, Punjabi Camp DDA Flats NS Mandi, Jahangir Puri, Jahangir Puri A Block-Model Town-North West Delhi, Delhi, 110033",
-            "aadhaarId": "565702396288",
-            "location": "VI DELHI",
-            "lineType": "Mobile / GSM",
-            "spamStatus": "Verified Clean",
-            "additionalFields": {}
+            "additionalFields": {
+              "truecaller_name": "Vicky Sharma"
+            }
           }
         ],
         "page": 0
@@ -5237,7 +5213,7 @@
       "username": "",
       "firstName": "Singh",
       "joinedAt": "2026-10-16T03:54:39.820Z",
-      "lastActiveAt": "2026-10-17T06:43:58.090Z",
+      "lastActiveAt": "2026-10-17T07:35:39.320Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-17",
@@ -5880,9 +5856,41 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "7211297861": {
+      "telegramId": "7211297861",
+      "username": "AhmedELSfah",
+      "firstName": ". ⤹ᥬ𝗠𝗥 - 𝗔𝗛𝗠𝗘𝗗 ⁝ 𝗠𝗚﹅",
+      "joinedAt": "2026-10-17T07:31:42.313Z",
+      "lastActiveAt": "2026-10-17T07:32:22.953Z",
+      "joinedChannel": true,
+      "credits": 0,
+      "dailySearchDate": "2026-10-17",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2078,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [
+    {
+      "id": "1792222251948-ygpih",
+      "telegramId": "6783862138",
+      "username": "uttamshk",
+      "serviceType": "number_info",
+      "query": "9877863088",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-17T07:30:51.948Z"
+    },
     {
       "id": "1792221889727-ah5hv",
       "telegramId": "6976365330",
@@ -7872,16 +7880,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-12T01:33:53.373Z"
-    },
-    {
-      "id": "1791768807493-y2ybl",
-      "telegramId": "8926917947",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "8000796117",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-12T01:33:27.493Z"
     }
   ]
 }

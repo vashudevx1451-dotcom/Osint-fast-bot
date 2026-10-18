@@ -761,10 +761,10 @@
       "username": "Uhtkarshh",
       "firstName": "UHTKARSH",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-17T14:47:45.567Z",
+      "lastActiveAt": "2026-10-18T01:38:50.410Z",
       "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-17",
+      "dailySearchDate": "2026-10-18",
       "dailySearchCount": 0,
       "totalLookups": 59,
       "referredBy": null,
@@ -820,46 +820,44 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D9%26tr%3DVC179224278160936%26tn%3DVC179224278160936%26cu%3DINR",
         "createdAt": "2026-10-17T13:13:01.609Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "8968071078": {
       "telegramId": "8968071078",
       "username": "Auraz7",
       "firstName": "Aura",
       "joinedAt": "2026-10-08T06:32:15.479Z",
-      "lastActiveAt": "2026-10-16T15:50:56.923Z",
+      "lastActiveAt": "2026-10-18T01:37:10.884Z",
       "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-16",
+      "dailySearchDate": "2026-10-18",
       "dailySearchCount": 3,
-      "totalLookups": 3,
+      "totalLookups": 6,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
       "awaitingInput": null,
-      "lastBotMessageId": null,
+      "lastBotMessageId": 2553,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
-        "query": "8252464080",
+        "query": "9708398593",
         "records": [
           {
-            "name": "Unknown",
-            "fatherName": "None",
-            "phone": "8252464080",
+            "name": "PRAMILA DEVI",
+            "fatherName": "JAYVIR KUMAR",
+            "phone": "9708398593",
             "altPhone": "None",
-            "carrier": "None",
+            "carrier": "VODA BHR&JHR",
             "email": "None",
-            "address": "None",
-            "aadhaarId": "None",
-            "location": "India",
+            "address": "W/O Jayvir Kumar, W/O Jayvir Kumar ward no 02, Rajapakar kali mandir, Rajapakar Raja Pakar , RAJA PAKAR-VAISHALI, BR, 844124",
+            "aadhaarId": "365308179342",
+            "location": "VODA BHR&JHR",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "error": "Invalid or expired API key"
-            }
+            "additionalFields": {}
           }
         ],
         "page": 0
@@ -874,19 +872,19 @@
         "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D5%26tr%3DVC1792165844119960%26tn%3DVC1792165844119960%26cu%3DINR",
         "createdAt": "2026-10-16T15:50:44.119Z"
       },
-      "keyboardCleared": false
+      "keyboardCleared": true
     },
     "7995520431": {
       "telegramId": "7995520431",
       "username": "Vashubhaiii",
       "firstName": "Vashu",
       "joinedAt": "2026-10-08T06:52:52.007Z",
-      "lastActiveAt": "2026-10-18T01:28:26.960Z",
+      "lastActiveAt": "2026-10-18T01:39:36.613Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-18",
       "dailySearchCount": 0,
-      "totalLookups": 9,
+      "totalLookups": 10,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
@@ -6050,17 +6048,17 @@
       "username": "",
       "firstName": "FREE",
       "joinedAt": "2026-10-17T12:16:41.135Z",
-      "lastActiveAt": "2026-10-17T12:16:50.900Z",
+      "lastActiveAt": "2026-10-18T01:39:51.637Z",
       "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-17",
+      "dailySearchDate": "2026-10-18",
       "dailySearchCount": 0,
       "totalLookups": 0,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": null,
-      "awaitingInput": null,
+      "awaitingInput": "number",
       "lastBotMessageId": 2216,
       "lastBotMessageIsPhoto": true,
       "lastBotPhotoKind": "banner",
@@ -6730,6 +6728,46 @@
     }
   },
   "history": [
+    {
+      "id": "1792287577772-k127a",
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-18T01:39:37.772Z"
+    },
+    {
+      "id": "1792287411381-tm1bw",
+      "telegramId": "8968071078",
+      "username": "Auraz7",
+      "serviceType": "number_info",
+      "query": "9708398593",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-18T01:36:51.381Z"
+    },
+    {
+      "id": "1792287404493-uqg38",
+      "telegramId": "8968071078",
+      "username": "Auraz7",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-18T01:36:44.493Z"
+    },
+    {
+      "id": "1792287393648-521b4",
+      "telegramId": "8968071078",
+      "username": "Auraz7",
+      "serviceType": "number_info",
+      "query": "9835216800",
+      "status": "success",
+      "recordCount": 2,
+      "timestamp": "2026-10-18T01:36:33.648Z"
+    },
     {
       "id": "1792286907845-gz4pd",
       "telegramId": "7995520431",
@@ -8689,46 +8727,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-15T04:46:36.738Z"
-    },
-    {
-      "id": "1792031429762-t2pfv",
-      "telegramId": "7911828552",
-      "username": "alez2003",
-      "serviceType": "number_info",
-      "query": "3014526877",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-15T02:30:29.762Z"
-    },
-    {
-      "id": "1791995859365-fuh7z",
-      "telegramId": "8926917947",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "8604604064",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-14T16:37:39.365Z"
-    },
-    {
-      "id": "1791995823665-mnt50",
-      "telegramId": "8926917947",
-      "username": "Saurabh_Kumar_Tiwari_OG",
-      "serviceType": "number_info",
-      "query": "8000796117",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-14T16:37:03.665Z"
-    },
-    {
-      "id": "1791990799054-clj2k",
-      "telegramId": "8407639114",
-      "username": "Gojo Satoru",
-      "serviceType": "number_info",
-      "query": "9451067683",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-14T15:13:19.054Z"
     }
   ]
 }

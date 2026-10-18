@@ -6698,6 +6698,28 @@
         "page": 0
       },
       "keyboardCleared": true
+    },
+    "8621098586": {
+      "telegramId": "8621098586",
+      "username": "",
+      "firstName": "Chukwudi Thearesa",
+      "joinedAt": "2026-10-18T00:39:03.467Z",
+      "lastActiveAt": "2026-10-18T00:39:32.143Z",
+      "joinedChannel": false,
+      "credits": 0,
+      "dailySearchDate": "2026-10-18",
+      "dailySearchCount": 0,
+      "totalLookups": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "isBanned": false,
+      "premiumUntil": null,
+      "awaitingInput": null,
+      "lastBotMessageId": 2533,
+      "lastBotMessageIsPhoto": true,
+      "lastBotPhotoKind": "banner",
+      "lastLookupSession": null,
+      "keyboardCleared": true
     }
   },
   "history": [

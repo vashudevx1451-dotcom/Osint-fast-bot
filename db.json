@@ -881,20 +881,20 @@
       "username": "Vashubhaiii",
       "firstName": "Vashu",
       "joinedAt": "2026-10-08T06:52:52.007Z",
-      "lastActiveAt": "2026-10-18T01:02:03.186Z",
+      "lastActiveAt": "2026-10-18T01:28:26.960Z",
       "joinedChannel": true,
       "credits": 0,
       "dailySearchDate": "2026-10-18",
       "dailySearchCount": 0,
-      "totalLookups": 7,
+      "totalLookups": 9,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-18T02:28:01.037Z",
       "awaitingInput": null,
-      "lastBotMessageId": 2537,
+      "lastBotMessageId": 2546,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "dynamic_qr",
+      "lastBotPhotoKind": "banner",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "8252464080",
@@ -6731,6 +6731,26 @@
   },
   "history": [
     {
+      "id": "1792286907845-gz4pd",
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-18T01:28:27.845Z"
+    },
+    {
+      "id": "1792286885985-3uqmm",
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-18T01:28:05.985Z"
+    },
+    {
       "id": "1792285307302-2w5mv",
       "telegramId": "7995520431",
       "username": "Vashubhaiii",
@@ -8709,26 +8729,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-14T15:13:19.054Z"
-    },
-    {
-      "id": "1791989977849-conbt",
-      "telegramId": "8582949733",
-      "username": "Itachiuchiha1223344",
-      "serviceType": "number_info",
-      "query": "9395050309",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-14T14:59:37.849Z"
-    },
-    {
-      "id": "1791989967813-6tk8a",
-      "telegramId": "8582949733",
-      "username": "Itachiuchiha1223344",
-      "serviceType": "number_info",
-      "query": "9395050309",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-14T14:59:27.813Z"
     }
   ]
 }

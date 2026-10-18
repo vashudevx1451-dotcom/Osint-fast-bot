@@ -881,45 +881,52 @@
       "username": "Vashubhaiii",
       "firstName": "Vashu",
       "joinedAt": "2026-10-08T06:52:52.007Z",
-      "lastActiveAt": "2026-10-11T12:10:58.327Z",
-      "joinedChannel": false,
+      "lastActiveAt": "2026-10-18T01:02:03.186Z",
+      "joinedChannel": true,
       "credits": 0,
-      "dailySearchDate": "2026-10-11",
+      "dailySearchDate": "2026-10-18",
       "dailySearchCount": 0,
-      "totalLookups": 6,
+      "totalLookups": 7,
       "referredBy": null,
       "referralCount": 0,
       "isBanned": false,
       "premiumUntil": "2026-10-18T02:28:01.037Z",
       "awaitingInput": null,
-      "lastBotMessageId": 820,
+      "lastBotMessageId": 2537,
       "lastBotMessageIsPhoto": true,
-      "lastBotPhotoKind": "banner",
+      "lastBotPhotoKind": "dynamic_qr",
       "lastLookupSession": {
         "serviceType": "number_info",
         "query": "8252464080",
         "records": [
           {
-            "name": "Unknown",
-            "fatherName": "None",
+            "name": "Nibha Kumari",
+            "fatherName": "Jayveer Singh",
             "phone": "8252464080",
-            "altPhone": "None",
-            "carrier": "None",
+            "altPhone": "8228097332",
+            "carrier": "BIHAR JIO",
             "email": "None",
-            "address": "None",
+            "address": "D/O Jayveer Singh, Ward Number-02 Village-Rajapakar, Thana-Rajapakar, Raja Pakar Vaishali, Bihar, 844124",
             "aadhaarId": "None",
-            "location": "India",
+            "location": "BIHAR JIO",
             "lineType": "Mobile / GSM",
             "spamStatus": "Verified Clean",
-            "additionalFields": {
-              "error": "Invalid or expired API key"
-            }
+            "additionalFields": {}
           }
         ],
         "page": 0
       },
-      "activePaymentOrder": null,
-      "keyboardCleared": false
+      "activePaymentOrder": {
+        "orderId": "VC1792285323628185",
+        "planKey": "weekly",
+        "planLabel": "ᴡᴇᴇᴋʟʏ ᴘʀᴇᴍɪᴜᴍ (7 ᴅᴀʏs)",
+        "amount": 9,
+        "days": 7,
+        "upiString": "upi://pay?pa=paytm.s1dw5n0@pty&pn=VC%20GATEWAY&am=9&tr=VC1792285323628185&tn=VC1792285323628185&cu=INR",
+        "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=400x400&margin=10&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytm.s1dw5n0%40pty%26pn%3DVC%2520GATEWAY%26am%3D9%26tr%3DVC1792285323628185%26tn%3DVC1792285323628185%26cu%3DINR",
+        "createdAt": "2026-10-18T01:02:03.628Z"
+      },
+      "keyboardCleared": true
     },
     "5520093674": {
       "telegramId": "5520093674",
@@ -6724,6 +6731,16 @@
   },
   "history": [
     {
+      "id": "1792285307302-2w5mv",
+      "telegramId": "7995520431",
+      "username": "Vashubhaiii",
+      "serviceType": "number_info",
+      "query": "8252464080",
+      "status": "success",
+      "recordCount": 1,
+      "timestamp": "2026-10-18T01:01:47.302Z"
+    },
+    {
       "id": "1792276256058-vos9f",
       "telegramId": "7482361767",
       "username": "Vinayak",
@@ -8712,16 +8729,6 @@
       "status": "success",
       "recordCount": 1,
       "timestamp": "2026-10-14T14:59:27.813Z"
-    },
-    {
-      "id": "1791975371631-zbwo8",
-      "telegramId": "8264924435",
-      "username": "musab_008",
-      "serviceType": "number_info",
-      "query": "3115385180",
-      "status": "success",
-      "recordCount": 1,
-      "timestamp": "2026-10-14T10:56:11.631Z"
     }
   ]
 }
